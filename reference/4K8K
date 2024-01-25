@@ -22,7 +22,8 @@ https://iptv.yang-1989.top/api/bestv.php?id=cctv4k/15000000
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K/8K-IPV4",CCTV4K
 http://cs.iptv6.top/dsm.php?id=ys4Kcq_2000
 
-
+#EXTINF:-1 tvg-id="512" tvg-name="Loupe 4K" group-title="4K",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1,tvg-id="Clarity 4K" tvg-name="Clarity 4K" tvg-logo="https://epg.112114.xyz/logo/CLARITY4K.png" group-title="4K/8K-IPV4",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,tvg-id="Love Nrture 4K" tvg-name="Love Nrture 4K" tvg-logo="https://epg.112114.xyz/logo/LOVENRTURE4K.png" group-title="4K/8K-IPV4",Love Nrture 4K
