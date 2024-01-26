@@ -1348,6 +1348,10 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/PLTV/1/224/3221231041/1.m3u8
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港",翡翠台
+http://sz.l68.fun:9000/bysid/1
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港",翡翠台
+http://146.56.153.245:8006/bysid/1
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="台湾",TVBS
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
