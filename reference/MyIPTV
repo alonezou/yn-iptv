@@ -620,7 +620,26 @@ http://[2409:8087:7001:20:1000::96]:6610/000000001000/1000000004000011655/index.
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png" group-title="广东",大湾区卫视  
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/南国都市.png" group-title="广东"，南国都市 
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/南国都市.png" group-title="广东"，南国都市
+
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="福建",福建综合
+https://itv.lat/tv/live.php?&line=1&id=fjzh
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建新闻.png" group-title="福建",福建新闻
+https://itv.lat/tv/live.php?&line=1&id=fjxw
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建电视剧.png" group-title="福建",福建电视剧
+https://itv.lat/tv/live.php?&line=1&id=fjdsj
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建文体.png" group-title="福建",福建文体
+https://itv.lat/tv/live.php?&line=1&id=fjwt
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建少儿.png" group-title="福建",福建少儿
+https://itv.lat/tv/live.php?&line=1&id=fjse
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="福建",福建旅游
+https://itv.lat/tv/live.php?&line=1&id=fjly
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建经济.png" group-title="福建",福建经济
+https://itv.lat/tv/live.php?&line=1&id=fjjj
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建公共.png" group-title="福建",福建公共
+https://itv.lat/tv/live.php?&line=1&id=fjgg
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建教育.png" group-title="福建",福建教育
+https://itv.lat/tv/live.php?&line=1&id=fjjy
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/新海南.png" group-title="海南",新海南
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010090/1.m3u8
@@ -1021,8 +1040,6 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.
 
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳咪咕系列"---------------------------------------------------------------
 
-
-
 #EXTINF:-1,tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播-1
 http://[2409:8087:7001:20:1000::86]:6610/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
 #EXTINF:-1,tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播-2
@@ -1136,87 +1153,87 @@ http://[2409:8087:7001:20:1000::96]:6610/000000001000/3000000010000015686/index.
 
 
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳其它"---------------------------------------------------------------
-#EXTINF:-1,tvg-id="春晚1983" tvg-name="春晚1983" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1983
+#EXTINF:-1 tvg-id="春晚1983" tvg-name="春晚1983" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1983
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
-#EXTINF:-1,tvg-id="春晚1984" tvg-name="春晚1984" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1984
+#EXTINF:-1 tvg-id="春晚1984" tvg-name="春晚1984" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1984
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
-#EXTINF:-1,tvg-id="春晚1985" tvg-name="春晚1985" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1985
+#EXTINF:-1 tvg-id="春晚1985" tvg-name="春晚1985" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1985
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-#EXTINF:-1,tvg-id="春晚1986" tvg-name="春晚1986" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1986
+#EXTINF:-1 tvg-id="春晚1986" tvg-name="春晚1986" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1986
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
-#EXTINF:-1,tvg-id="春晚1987" tvg-name="春晚1987" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1987
+#EXTINF:-1 tvg-id="春晚1987" tvg-name="春晚1987" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1987
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlfNjYyNzMyNjMyMDNfMF8z_b_B570493ed8f7200d4013a66b2d21b2de9.mp4
-#EXTINF:-1,tvg-id="春晚1988" tvg-name="春晚1988" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1988
+#EXTINF:-1 tvg-id="春晚1988" tvg-name="春晚1988" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1988
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
-#EXTINF:-1,tvg-id="春晚1989" tvg-name="春晚1989" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1989
+#EXTINF:-1 tvg-id="春晚1989" tvg-name="春晚1989" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1989
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
-#EXTINF:-1,tvg-id="春晚1990" tvg-name="春晚1990" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1990
+#EXTINF:-1 tvg-id="春晚1990" tvg-name="春晚1990" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1990
 https://cdn8.yzzy-online.com/20220704/597_e0d90c37/1000k/hls/index.m3u8
-#EXTINF:-1,tvg-id="春晚1991" tvg-name="春晚1991" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1991
+#EXTINF:-1 tvg-id="春晚1991" tvg-name="春晚1991" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1991
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
-#EXTINF:-1,tvg-id="春晚1992" tvg-name="春晚1992" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1992
+#EXTINF:-1 tvg-id="春晚1992" tvg-name="春晚1992" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1992
 https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-#EXTINF:-1,tvg-id="春晚1993" tvg-name="春晚1993" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1993
+#EXTINF:-1 tvg-id="春晚1993" tvg-name="春晚1993" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1993
 https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
-#EXTINF:-1,tvg-id="春晚1994" tvg-name="春晚1994" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1994
+#EXTINF:-1 tvg-id="春晚1994" tvg-name="春晚1994" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1994
 https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
-#EXTINF:-1,tvg-id="春晚1995" tvg-name="春晚1995" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1995
+#EXTINF:-1 tvg-id="春晚1995" tvg-name="春晚1995" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1995
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
-#EXTINF:-1,tvg-id="春晚1996" tvg-name="春晚1996" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1996
+#EXTINF:-1 tvg-id="春晚1996" tvg-name="春晚1996" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1996
 https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4
-#EXTINF:-1,tvg-id="春晚1997" tvg-name="春晚1997" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1997
+#EXTINF:-1 tvg-id="春晚1997" tvg-name="春晚1997" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1997
 https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-#EXTINF:-1,tvg-id="春晚1998" tvg-name="春晚1998" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1998
+#EXTINF:-1 tvg-id="春晚1998" tvg-name="春晚1998" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1998
 https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-#EXTINF:-1,tvg-id="春晚1999" tvg-name="春晚1999" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1999
+#EXTINF:-1 tvg-id="春晚1999" tvg-name="春晚1999" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚1999
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQxNTRfMF8z_b_B0b5e52bc003285ef66ec0cbb2be08556.mp4
-#EXTINF:-1,tvg-id="春晚2000" tvg-name="春晚2000" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2000
+#EXTINF:-1 tvg-id="春晚2000" tvg-name="春晚2000" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2000
 https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4
-#EXTINF:-1,tvg-id="春晚2001" tvg-name="春晚2001" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2001
+#EXTINF:-1 tvg-id="春晚2001" tvg-name="春晚2001" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2001
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4
-#EXTINF:-1,tvg-id="春晚2002" tvg-name="春晚2002" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2002
+#EXTINF:-1 tvg-id="春晚2002" tvg-name="春晚2002" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2002
 https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4
-#EXTINF:-1,tvg-id="春晚2003" tvg-name="春晚2003" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2003
+#EXTINF:-1 tvg-id="春晚2003" tvg-name="春晚2003" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2003
 https://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4
-#EXTINF:-1,tvg-id="春晚2004" tvg-name="春晚2004" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2004
+#EXTINF:-1 tvg-id="春晚2004" tvg-name="春晚2004" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2004
 https://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4
-#EXTINF:-1,tvg-id="春晚2005" tvg-name="春晚2005" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2005
+#EXTINF:-1 tvg-id="春晚2005" tvg-name="春晚2005" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2005
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4
-#EXTINF:-1,tvg-id="春晚2006" tvg-name="春晚2006" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2006
+#EXTINF:-1 tvg-id="春晚2006" tvg-name="春晚2006" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2006
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4
-#EXTINF:-1,tvg-id="春晚2007" tvg-name="春晚2007" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2007
+#EXTINF:-1 tvg-id="春晚2007" tvg-name="春晚2007" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2007
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4
-#EXTINF:-1,tvg-id="春晚2008" tvg-name="春晚2008" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2008
+#EXTINF:-1 tvg-id="春晚2008" tvg-name="春晚2008" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2008
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzNTNfMF8z_b_Bd7346962e61bd7b84e11a1fa6e4616f9.mp4
-#EXTINF:-1,tvg-id="春晚2009" tvg-name="春晚2009" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2009
+#EXTINF:-1 tvg-id="春晚2009" tvg-name="春晚2009" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2009
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4
-#EXTINF:-1,tvg-id="春晚2010" tvg-name="春晚2010" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2010
+#EXTINF:-1 tvg-id="春晚2010" tvg-name="春晚2010" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2010
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
-#EXTINF:-1,tvg-id="春晚2011" tvg-name="春晚2011" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2011
+#EXTINF:-1 tvg-id="春晚2011" tvg-name="春晚2011" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2011
 https://alimov2.a.kwimgs.com/upic/2023/01/16/11/BMjAyMzAxMTYxMTA3MjFfNDAzMDAxOTlfOTM3MjcyMjA3ODhfMF8z_b_B8214200efc869dc6fcf99dad619fa4c1.mp4
-#EXTINF:-1,tvg-id="春晚2012" tvg-name="春晚2012" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2012
+#EXTINF:-1 tvg-id="春晚2012" tvg-name="春晚2012" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2012
 https://cdn8.yzzy-online.com/20220704/591_82b72f82/1000k/hls/index.m3u8
-#EXTINF:-1,tvg-id="春晚2013" tvg-name="春晚2013" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2013
+#EXTINF:-1 tvg-id="春晚2013" tvg-name="春晚2013" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2013
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
-#EXTINF:-1,tvg-id="春晚2014" tvg-name="春晚2014" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2014
+#EXTINF:-1 tvg-id="春晚2014" tvg-name="春晚2014" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2014
 https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
-#EXTINF:-1,tvg-id="春晚2015" tvg-name="春晚2015" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2015
+#EXTINF:-1 tvg-id="春晚2015" tvg-name="春晚2015" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2015
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2MTZfMF8z_b_B4851f43f5a2bc2871a9b0ec87294a6e7.mp4
-#EXTINF:-1,tvg-id="春晚2016" tvg-name="春晚2016" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2016
+#EXTINF:-1 tvg-id="春晚2016" tvg-name="春晚2016" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2016
 https://cdn8.yzzy-online.com/20220704/577_cda9c8d1/1000k/hls/index.m3u8
-#EXTINF:-1,tvg-id="春晚2017" tvg-name="春晚2017" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2017
+#EXTINF:-1 tvg-id="春晚2017" tvg-name="春晚2017" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2017
 https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ2NDhfMF8z_b_B6527b0c2ce3dda1d9b3f34edd4fdb9aa.mp4
-#EXTINF:-1,tvg-id="春晚2018" tvg-name="春晚2018" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2018
+#EXTINF:-1 tvg-id="春晚2018" tvg-name="春晚2018" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2018
 https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-#EXTINF:-1,tvg-id="春晚2019" tvg-name="春晚2019" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2019
+#EXTINF:-1 tvg-id="春晚2019" tvg-name="春晚2019" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2019
 https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-#EXTINF:-1,tvg-id="春晚2020" tvg-name="春晚2020" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2020
+#EXTINF:-1 tvg-id="春晚2020" tvg-name="春晚2020" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2020
 https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
-#EXTINF:-1,tvg-id="春晚2021" tvg-name="春晚2021" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2021
+#EXTINF:-1 tvg-id="春晚2021" tvg-name="春晚2021" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2021
 https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
-#EXTINF:-1,tvg-id="春晚2022" tvg-name="春晚2022" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2022
+#EXTINF:-1 tvg-id="春晚2022" tvg-name="春晚2022" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2022
 https://alimov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-#EXTINF:-1,tvg-id="春晚2023" tvg-name="春晚2023" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2023
+#EXTINF:-1 tvg-id="春晚2023" tvg-name="春晚2023" tvg-logo="https://img.whalenas.com:283/file/cw.png" group-title="历年春晚",春晚2023
 https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳陕西V6"---------------------------------------------------------------
@@ -1496,6 +1513,49 @@ https://stream3.shopch.jp/HLS/master.m3u8
 http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 #EXTINF:-1,group-title="测试频道",香港佛陀
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+
+#EXTINF:-1 ---------------------------------------分割线"百视ʰ"---------------------------------------------------------------
+
+#EXTINF:-1 tvg-id="看天下精选" tvg-name="看天下精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",看天下精选
+https://itv.lat/tv/live.php?&line=1&id=ktxjx
+#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",华语影院
+https://itv.lat/tv/live.php?&line=1&id=hyyy
+#EXTINF:-1 tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",电竞天堂
+https://itv.lat/tv/live.php?&line=1&id=djtt
+#EXTINF:-1 tvg-id="青春动漫" tvg-name="青春动漫" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",青春动漫
+https://itv.lat/tv/live.php?&line=1&id=qcdm
+#EXTINF:-1 tvg-id="星光影院" tvg-name="星光影院" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",星光影院
+https://itv.lat/tv/live.php?&line=1&id=xgyy
+#EXTINF:-1 tvg-id="谍战剧场" tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",谍战剧场
+https://itv.lat/tv/live.php?&line=1&id=dzjc
+#EXTINF:-1 tvg-id="全球大片" tvg-name="全球大片" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",全球大片
+https://itv.lat/tv/live.php?&line=1&id=qqdp
+#EXTINF:-1 tvg-id="热门剧场" tvg-name="热门剧场" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",热门剧场
+https://itv.lat/tv/live.php?&line=1&id=rmjc
+#EXTINF:-1 tvg-id="热门综艺" tvg-name="热门综艺" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",热门综艺
+https://itv.lat/tv/live.php?&line=1&id=rmzy
+#EXTINF:-1 tvg-id="戏曲精选" tvg-name="戏曲精选" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",戏曲精选
+https://itv.lat/tv/live.php?&line=1&id=xqjx
+#EXTINF:-1 tvg-id="健康养生" tvg-name="健康养生" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",健康养生
+https://itv.lat/tv/live.php?&line=1&id=jkys
+#EXTINF:-1 tvg-id="百变课堂" tvg-name="百变课堂" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",百变课堂
+https://itv.lat/tv/live.php?&line=1&id=bbkt
+#EXTINF:-1 tvg-id="宝宝动画" tvg-name="宝宝动画" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",宝宝动画
+https://itv.lat/tv/live.php?&line=1&id=bbdh
+#EXTINF:-1 tvg-id="百视通体育1" tvg-name="百视通体育1" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",百视通体育1
+https://itv.lat/tv/live.php?&line=1&id=sport1
+#EXTINF:-1 tvg-id="百视通体育2" tvg-name="百视通体育2" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",百视通体育2
+https://itv.lat/tv/live.php?&line=1&id=sport2
+#EXTINF:-1 tvg-id="百视通体育3" tvg-name="百视通体育3" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",百视通体育3
+https://itv.lat/tv/live.php?&line=1&id=sport3
+#EXTINF:-1 tvg-id="百视通体育4" tvg-name="百视通体育4" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",百视通体育4
+https://itv.lat/tv/live.php?&line=1&id=sport4
+#EXTINF:-1 tvg-id="百视通体育5" tvg-name="百视通体育5" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",百视通体育5
+https://itv.lat/tv/live.php?&line=1&id=sport5
+#EXTINF:-1 tvg-id="百视通体育6" tvg-name="百视通体育6" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",百视通体育6
+https://itv.lat/tv/live.php?&line=1&id=sport6
+#EXTINF:-1 tvg-id="百视通体育7" tvg-name="百视通体育7" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="百视ʰ",百视通体育7
+https://itv.lat/tv/live.php?&line=1&id=sport7
 
 
 
