@@ -746,7 +746,10 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m
 http://58.19.182.187:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/1905.png" group-title="CHC系列",1905 V4
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/1905.png" group-title="CHC系列",1905国外 V4
+http://ygbhbox.dynv6.net/1905.php?id=1905b
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/1905.png" group-title="CHC系列",国内1905 V4
+http://ygbhbox.dynv6.net/1905.php?id=1905a
 
 
 
