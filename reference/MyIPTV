@@ -700,32 +700,28 @@ https://4kuhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳🇭🇰香港"---------------------------------------------------------------
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
-http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
-http://117.27.190.42:9901/tsfile/live/23279_1.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
-
+http://112.19.171.156:9999/udp/239.93.0.118:2191
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
+http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://103.95.24.37:880/fhzx.m3u8
 
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
-http://117.27.190.42:9901/tsfile/live/23280_1.m3u8
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
-http://tptv.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?accountinfo=pFxP2vrxKwnB6rRkbluzLr1snyVtUvL0ln7oEaT%2FZn10jZxgbY2HUwDYbDsdLBomvnnHS%2Fwexz1UYCk%2BgA3K%2FpVmN4ksD2FQ92IXsdC3G7ldu9XJHCjJGd7DJ%2FIdAqJXp6jzgqsHVMBWu4n0REhZxQ%3D%3D%3A20240413145502%2C-%2C112.25.7.222%2C20240413145502%2CHD-10000k-1080P-fhchinese5s%2C992A307DD03B66D4A24A1380D2238385%2C%2C0%2C1%2C-1%2C%2C2%2C%2C-1%2C-3%2C2%2CEND&GuardEncType=2
+
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb19]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+http://112.19.171.156:9999/udp/239.93.0.162:2192
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
+
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
+http://103.95.24.37:880/fhxgt.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
 http://mywlkj.ddns.net:754/tv/fhhk.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
 http://103.95.24.37:880/fhxgt.m3u8
-
-
-
-
+http://113.64.145.91:8081/hls/38/index.m3u8
 
 
 #EXTINF:-1,---------------------------------------分割线"🇨🇳SiTV系列"---------------------------------------------------------------
