@@ -707,13 +707,15 @@ http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 http://103.95.24.37:880/fhzx.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://proxy.dfkj.live/alitv.php?u=min&id=6
-
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
+https://epg.pw/stream/e3226c760ab2d56fda3a1d41f17e0535e69516977f7210504681cc0b4628b055.m3u8
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
 http://112.19.171.156:9999/udp/239.93.0.162:2192
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
+https://epg.pw/stream/2cd8b0d0e8b7bda9c76ae4e0d554782532055b48e88e266f743eaa21ca7e44e0.m3u8
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
 http://103.95.24.37:880/fhxgt.m3u8
@@ -722,6 +724,8 @@ http://mywlkj.ddns.net:754/tv/fhhk.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
 http://103.95.24.37:880/fhxgt.m3u8
 http://113.64.145.91:8081/hls/38/index.m3u8
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
+https://epg.pw/stream/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d6518982ef.m3u8
 
 
 #EXTINF:-1,---------------------------------------分割线"🇨🇳SiTV系列"---------------------------------------------------------------
