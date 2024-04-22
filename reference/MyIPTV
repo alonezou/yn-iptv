@@ -796,7 +796,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/NEWTV明星大片.png" group-title="NEWTV",NewTV明星大片
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/NewTV哒啵电竞.png" group-title="NEWTV",NewTV哒啵电竞
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/哒啵赛事.png" group-title="NEWTV",NewTV哒啵电竞
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/index.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/NewTV哒啵赛事.png" group-title="NEWTV",NewTV哒啵赛事
 哒啵赛事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
@@ -869,9 +869,9 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳黑莓系列"---------------------------------------------------------------
 
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="黑莓",黑莓动画 
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="黑莓",黑莓动画 
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="黑莓",黑莓电影 
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="黑莓",黑莓电影 
 http://[2409:8087:1a0b:df::4014]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/黑莓电竞.png" group-title="黑莓",黑莓电竞
 
