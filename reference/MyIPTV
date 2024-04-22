@@ -806,66 +806,66 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳iHot系列"---------------------------------------------------------------
 
 #EXTM3U
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱电竞.png" group-title="iHot系列",爱电竞_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱谍战.png" group-title="iHot系列",爱谍战_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱动漫.png" group-title="iHot系列",爱动漫_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱都市.png" group-title="iHot系列",爱都市_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱怀旧.png" group-title="iHot系列",爱怀旧_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱极限__华数.png" group-title="iHot系列",爱极限_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱家庭.png" group-title="iHot系列",爱家庭_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱江湖.png" group-title="iHot系列",爱江湖_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱解密.png" group-title="iHot系列",爱解密_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱经典.png" group-title="iHot系列",爱经典_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱科幻.png" group-title="iHot系列",爱科幻_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱科学.png" group-title="iHot系列",爱科学_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱浪漫.png" group-title="iHot系列",爱浪漫_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱历史.png" group-title="iHot系列",爱历史_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱猎奇.png" group-title="iHot系列",爱猎奇_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱旅行.png" group-title="iHot系列",爱旅行_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱美食.png" group-title="iHot系列",爱美食_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱奇谈.png" group-title="iHot系列",爱奇谈_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱青春.png" group-title="iHot系列",爱青春_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱赛车.png" group-title="iHot系列",爱赛车_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱时尚.png" group-title="iHot系列",爱时尚_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱世界.png" group-title="iHot系列",爱世界_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱探索.png" group-title="iHot系列",爱探索_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱体育.png" group-title="iHot系列",爱体育_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱玩具.png" group-title="iHot系列",爱玩具_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱喜剧.png" group-title="iHot系列",爱喜剧_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱悬疑.png" group-title="iHot系列",爱悬疑_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱幼教.png" group-title="iHot系列",爱幼教_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱娱乐.png" group-title="iHot系列",爱娱乐_7.2M1080_华数
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱院线.png" group-title="iHot系列",爱院线_7.2M1080_华数
-
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱电竞.png" group-title="iHot系列",爱电竞
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱谍战.png" group-title="iHot系列",爱谍战
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱动漫.png" group-title="iHot系列",爱动漫
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱都市.png" group-title="iHot系列",爱都市
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000080630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱怀旧.png" group-title="iHot系列",爱怀旧
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000260630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱极限__华数.png" group-title="iHot系列",爱极限
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000170630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000170630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱家庭.png" group-title="iHot系列",爱家庭
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000090630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000090630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱江湖.png" group-title="iHot系列",爱江湖
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000110630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000110630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱解密.png" group-title="iHot系列",爱解密
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000200630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000200630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱经典.png" group-title="iHot系列",爱经典
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱科幻.png" group-title="iHot系列",爱科幻
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000020630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱科学.png" group-title="iHot系列",爱科学
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000160630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱浪漫.png" group-title="iHot系列",爱浪漫
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000040630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱历史.png" group-title="iHot系列",爱历史
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000150630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱猎奇.png" group-title="iHot系列",爱猎奇
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000190630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000190630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱旅行.png" group-title="iHot系列",爱旅行
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱美食.png" group-title="iHot系列",爱美食
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000120630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000120630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱奇谈.png" group-title="iHot系列",爱奇谈
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000270630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000270630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱青春.png" group-title="iHot系列",爱青春
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱赛车.png" group-title="iHot系列",爱赛车
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000240630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱时尚.png" group-title="iHot系列",爱时尚
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱世界.png" group-title="iHot系列",爱世界
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000210630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000210630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱探索.png" group-title="iHot系列",爱探索
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000300630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000300630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱体育.png" group-title="iHot系列",爱体育
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱玩具.png" group-title="iHot系列",爱玩具
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱喜剧.png" group-title="iHot系列",爱喜剧
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱悬疑.png" group-title="iHot系列",爱悬疑
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱幼教.png" group-title="iHot系列",爱幼教
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱娱乐.png" group-title="iHot系列",爱娱乐
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/爱院线.png" group-title="iHot系列",爱院线
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
 
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳黑莓系列"---------------------------------------------------------------
 
