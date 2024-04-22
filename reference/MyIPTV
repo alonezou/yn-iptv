@@ -725,7 +725,7 @@ http://113.64.145.91:8081/hls/38/index.m3u8
 #EXTINF:-1,---------------------------------------分割线"🇨🇳SiTV系列"---------------------------------------------------------------
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="SiTV",五星体育
-
+http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/SITV乐游.png" group-title="SiTV",SiTV乐游 
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="SiTV",SiTV动漫秀场  
