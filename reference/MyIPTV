@@ -727,6 +727,25 @@ http://113.64.145.91:8081/hls/38/index.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
 https://epg.pw/stream/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d6518982ef.m3u8
 
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
+http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
+http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
+http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
+
+
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾",TVBS
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾",TVBS
+http://66.165.240.154:8080/live/tytvbsyz1/hls.m3u8
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾",TVBS
+http://154.yfvodcdn.com:8080/live/tytvbsyz1/hls.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="台湾",中天新闻
+http://66.165.240.154:8080/live/ztylt01/hls.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="台湾",中天新闻
+http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
+
 
 #EXTINF:-1,---------------------------------------分割线"🇨🇳SiTV系列"---------------------------------------------------------------
 
