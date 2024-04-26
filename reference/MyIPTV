@@ -747,6 +747,402 @@ http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
 
 
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰中文" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰中文.png",凤凰中文
+http://182.136.215.165:4022/udp/239.93.0.162:2192
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰中文" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰中文.png",凤凰中文
+http://118.254.158.105:8888/udp/239.76.246.134:1234
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰中文" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰中文.png",凤凰中文
+https://edge2.laotv.la/live/PhxChinese/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰中文" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰中文.png",凤凰中文
+http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰中文" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰中文.png",凤凰中文
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰中文" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰中文.png",凤凰中文
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰中文" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰中文.png",凤凰中文
+http://171.223.215.229:4000/udp/239.93.0.162:2192
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰中文" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰中文.png",凤凰中文
+http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰中文" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰中文.png",凤凰中文
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰中文" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰中文.png",凤凰中文
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰资讯.png",凤凰资讯
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰资讯.png",凤凰资讯
+http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰资讯.png",凤凰资讯
+https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰资讯.png",凤凰资讯
+http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰资讯.png",凤凰资讯
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰资讯.png",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰资讯.png",凤凰资讯
+https://ktpremium.com:443/M919HR/5577/492399?c=
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰资讯.png",凤凰资讯
+http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰资讯.png",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰香港.png",凤凰香港
+http://113.64.145.61:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰香港.png",凤凰香港
+http://113.64.145.91:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰香港.png",凤凰香港
+http://60.164.229.241:4040/udp/239.255.30.123:8231
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰香港.png",凤凰香港
+http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰香港.png",凤凰香港
+https://ktpremium.com:443/M919HR/5577/492400?c=
+#EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰香港.png",凤凰香港
+https://ktpremium.com:443/K3939/6757/492400
+#EXTINF:-1 group-title="港澳台" tvg-name="香港卫视" tvg-logo="https://live.zhoujie218.top/taibiao/香港卫视.png",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="香港卫视" tvg-logo="https://live.zhoujie218.top/taibiao/香港卫视.png",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="香港卫视" tvg-logo="https://live.zhoujie218.top/taibiao/香港卫视.png",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
+#EXTINF:-1 group-title="港澳台" tvg-name="香港卫视" tvg-logo="https://live.zhoujie218.top/taibiao/香港卫视.png",香港卫视
+https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="香港卫视" tvg-logo="https://live.zhoujie218.top/taibiao/香港卫视.png",香港卫视
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="香港卫视" tvg-logo="https://live.zhoujie218.top/taibiao/香港卫视.png",香港卫视
+https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="无线新闻" tvg-logo="https://live.zhoujie218.top/taibiao/无线新闻.png",无线新闻
+http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="无线新闻" tvg-logo="https://live.zhoujie218.top/taibiao/无线新闻.png",无线新闻
+http://154.yfvodcdn.com:8080/live/TVBtyzxt1/hls.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="无线新闻" tvg-logo="https://live.zhoujie218.top/taibiao/无线新闻.png",无线新闻
+http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="无线新闻" tvg-logo="https://live.zhoujie218.top/taibiao/无线新闻.png",无线新闻
+http://154.yfvodcdn.com:8080/live/TVBwxxwt/hls.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="无线新闻" tvg-logo="https://live.zhoujie218.top/taibiao/无线新闻.png",无线新闻
+http://live.cooltv.top/tv/tvb.php?id=0&hq
+#EXTINF:-1 group-title="港澳台" tvg-name="无线新闻" tvg-logo="https://live.zhoujie218.top/taibiao/无线新闻.png",无线新闻
+http://live.cooltv.top/tv/tvb.php?id=0
+#EXTINF:-1 group-title="港澳台" tvg-name="无线新闻" tvg-logo="https://live.zhoujie218.top/taibiao/无线新闻.png",无线新闻
+https://tv.iill.top/tvb/2
+#EXTINF:-1 group-title="港澳台" tvg-name="无线资讯" tvg-logo="https://live.zhoujie218.top/taibiao/无线资讯.png",无线资讯
+http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="有线新闻" tvg-logo="https://live.zhoujie218.top/taibiao/有线新闻.png",有线新闻
+http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="有线新闻" tvg-logo="https://live.zhoujie218.top/taibiao/有线新闻.png",有线新闻
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="有线新闻" tvg-logo="https://live.zhoujie218.top/taibiao/有线新闻.png",有线新闻
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
+#EXTINF:-1 group-title="港澳台" tvg-name="有线新闻" tvg-logo="https://live.zhoujie218.top/taibiao/有线新闻.png",有线新闻
+http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="有线新闻" tvg-logo="https://live.zhoujie218.top/taibiao/有线新闻.png",有线新闻
+http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="有线新闻" tvg-logo="https://live.zhoujie218.top/taibiao/有线新闻.png",有线新闻
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="有线资讯" tvg-logo="https://live.zhoujie218.top/taibiao/有线资讯.png",有线资讯
+http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="翡翠台" tvg-logo="https://live.zhoujie218.top/taibiao/翡翠台.png",翡翠台
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="翡翠台" tvg-logo="https://live.zhoujie218.top/taibiao/翡翠台.png",翡翠台
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="翡翠台" tvg-logo="https://live.zhoujie218.top/taibiao/翡翠台.png",翡翠台
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
+#EXTINF:-1 group-title="港澳台" tvg-name="翡翠台" tvg-logo="https://live.zhoujie218.top/taibiao/翡翠台.png",翡翠台
+http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="翡翠台" tvg-logo="https://live.zhoujie218.top/taibiao/翡翠台.png",翡翠台
+http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="翡翠台" tvg-logo="https://live.zhoujie218.top/taibiao/翡翠台.png",翡翠台
+https://pi.0472.org/tv/fct.php?auth=230918
+#EXTINF:-1 group-title="港澳台" tvg-name="翡翠台" tvg-logo="https://live.zhoujie218.top/taibiao/翡翠台.png",翡翠台
+https://pi.0472.org/tv/fct.php?auth=2309081833
+#EXTINF:-1 group-title="港澳台" tvg-name="翡翠台" tvg-logo="https://live.zhoujie218.top/taibiao/翡翠台.png",翡翠台
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF1Q-T0Nylbf5RLDqEokQF0/ts
+#EXTINF:-1 group-title="港澳台" tvg-name="明珠台" tvg-logo="https://live.zhoujie218.top/taibiao/明珠台.png",明珠台
+http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="明珠台" tvg-logo="https://live.zhoujie218.top/taibiao/明珠台.png",明珠台
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
+#EXTINF:-1 group-title="港澳台" tvg-name="明珠台" tvg-logo="https://live.zhoujie218.top/taibiao/明珠台.png",明珠台
+https://pi.0472.org/tv/mzt.php?auth=230918
+#EXTINF:-1 group-title="港澳台" tvg-name="明珠台" tvg-logo="https://live.zhoujie218.top/taibiao/明珠台.png",明珠台
+https://pi.0472.org/tv/mzt.php?auth=2309081833
+#EXTINF:-1 group-title="港澳台" tvg-name="明珠台" tvg-logo="https://live.zhoujie218.top/taibiao/明珠台.png",明珠台
+http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1 group-title="港澳台" tvg-name="明珠台" tvg-logo="https://live.zhoujie218.top/taibiao/明珠台.png",明珠台
+http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="明珠台" tvg-logo="https://live.zhoujie218.top/taibiao/明珠台.png",明珠台
+http://nz189l149.bb27109.ctm.net:8892/bysid/2
+#EXTINF:-1 group-title="港澳台" tvg-name="J2" tvg-logo="https://live.zhoujie218.top/taibiao/J2.png",J2
+http://nz189l149.bb27109.ctm.net:8892/bysid/82
+#EXTINF:-1 group-title="港澳台" tvg-name="J2" tvg-logo="https://live.zhoujie218.top/taibiao/J2.png",J2
+https://vd4.bdstatic.com/mda-na5fafrtbvvf5wib/hd/cae_h264_delogo/1641996387070390433/mda-na5fafrtbvvf5wib.mp4
+#EXTINF:-1 group-title="港澳台" tvg-name="J2" tvg-logo="https://live.zhoujie218.top/taibiao/J2.png",J2
+https://ktpremium.com:443/M919HR/5577/870527?c=
+#EXTINF:-1 group-title="港澳台" tvg-name="J2" tvg-logo="https://live.zhoujie218.top/taibiao/J2.png",J2
+https://ktpremium.com:443/K3939/6757/870527
+#EXTINF:-1 group-title="港澳台" tvg-name="J2" tvg-logo="https://live.zhoujie218.top/taibiao/J2.png",J2
+http://213.81.133.133:8080/jednotka/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="J2" tvg-logo="https://live.zhoujie218.top/taibiao/J2.png",J2
+https://live.astradamy.com/tvbj2/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="J2" tvg-logo="https://live.zhoujie218.top/taibiao/J2.png",J2
+http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SF1Q-T0Nylbf5RLDqEokQF0/ts
+#EXTINF:-1 group-title="港澳台" tvg-name="J2" tvg-logo="https://live.zhoujie218.top/taibiao/J2.png",J2
+http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
+#EXTINF:-1 group-title="港澳台" tvg-name="RTHK32" tvg-logo="https://live.zhoujie218.top/taibiao/RTHK32.png",RTHK32
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjjsjfwdtncyjthj32.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="RTHK32" tvg-logo="https://live.zhoujie218.top/taibiao/RTHK32.png",RTHK32
+http://ali.hlspull.yximgs.com/live/twlivezpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="RTHK32" tvg-logo="https://live.zhoujie218.top/taibiao/RTHK32.png",RTHK32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="https://live.zhoujie218.top/taibiao/TVBS新闻.png",TVBS新闻
+http://awei.beimua.com/iptv.php?id=54
+#EXTINF:-1 group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="https://live.zhoujie218.top/taibiao/TVBS新闻.png",TVBS新闻
+https://fsv4.yj011.net/sat/tv551.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="https://live.zhoujie218.top/taibiao/TVBS新闻.png",TVBS新闻
+http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="TVBS新闻" tvg-logo="https://live.zhoujie218.top/taibiao/TVBS新闻.png",TVBS新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="TVBS欢乐" tvg-logo="https://live.zhoujie218.top/taibiao/TVBS欢乐.png",TVBS欢乐
+https://fsv4.yj011.net/sat/tv421.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="TVBS亚洲" tvg-logo="https://live.zhoujie218.top/taibiao/TVBS亚洲.png",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="TVBS亚洲" tvg-logo="https://live.zhoujie218.top/taibiao/TVBS亚洲.png",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="TVBS亚洲" tvg-logo="https://live.zhoujie218.top/taibiao/TVBS亚洲.png",TVBS亚洲
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+#EXTINF:-1 group-title="港澳台" tvg-name="TVBS亚洲" tvg-logo="https://live.zhoujie218.top/taibiao/TVBS亚洲.png",TVBS亚洲
+https://ktpremium.com:443/M919HR/5577/25986?c=
+#EXTINF:-1 group-title="港澳台" tvg-name="TVBS亚洲" tvg-logo="https://live.zhoujie218.top/taibiao/TVBS亚洲.png",TVBS亚洲
+https://ktpremium.com:443/K3939/6757/25986
+#EXTINF:-1 group-title="港澳台" tvg-name="TVBS亚洲" tvg-logo="https://live.zhoujie218.top/taibiao/TVBS亚洲.png",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="TVBS亚洲" tvg-logo="https://live.zhoujie218.top/taibiao/TVBS亚洲.png",TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="TVBS亚洲" tvg-logo="https://live.zhoujie218.top/taibiao/TVBS亚洲.png",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="香港佛陀" tvg-logo="https://live.zhoujie218.top/taibiao/香港佛陀.png",香港佛陀
+https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="香港佛陀" tvg-logo="https://live.zhoujie218.top/taibiao/香港佛陀.png",香港佛陀
+http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="香港佛陀" tvg-logo="https://live.zhoujie218.top/taibiao/香港佛陀.png",香港佛陀
+http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8?$1280x720
+#EXTINF:-1 group-title="港澳台" tvg-name="香港佛陀" tvg-logo="https://live.zhoujie218.top/taibiao/香港佛陀.png",香港佛陀
+http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8?$1M1280x720
+#EXTINF:-1 group-title="港澳台" tvg-name="香港佛陀" tvg-logo="https://live.zhoujie218.top/taibiao/香港佛陀.png",香港佛陀
+https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8?$1280x720
+#EXTINF:-1 group-title="港澳台" tvg-name="MOMO1台" tvg-logo="https://live.zhoujie218.top/taibiao/MOMO1台.png",MOMO1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="MOMO2台" tvg-logo="https://live.zhoujie218.top/taibiao/MOMO2台.png",MOMO2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="大爱1台" tvg-logo="https://live.zhoujie218.top/taibiao/大爱1台.png",大爱1台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="大爱1台" tvg-logo="https://live.zhoujie218.top/taibiao/大爱1台.png",大爱1台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="大爱1台" tvg-logo="https://live.zhoujie218.top/taibiao/大爱1台.png",大爱1台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8?$1280x720
+#EXTINF:-1 group-title="港澳台" tvg-name="大爱1台" tvg-logo="https://live.zhoujie218.top/taibiao/大爱1台.png",大爱1台
+https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="大爱2台" tvg-logo="https://live.zhoujie218.top/taibiao/大爱2台.png",大爱2台
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8?$1280x720
+#EXTINF:-1 group-title="港澳台" tvg-name="大爱2台" tvg-logo="https://live.zhoujie218.top/taibiao/大爱2台.png",大爱2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="大爱2台" tvg-logo="https://live.zhoujie218.top/taibiao/大爱2台.png",大爱2台
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="大爱2台" tvg-logo="https://live.zhoujie218.top/taibiao/大爱2台.png",大爱2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8?$1280x720
+#EXTINF:-1 group-title="港澳台" tvg-name="台视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/台视新闻.png",台视新闻
+http://66.165.240.154:8080/live/tyxltsxw3/hls.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="台视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/台视新闻.png",台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="台视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/台视新闻.png",台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="台视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/台视新闻.png",台视新闻
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="台视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/台视新闻.png",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="台视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/台视新闻.png",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="台视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/台视新闻.png",台视新闻
+http://154.yfvodcdn.com:8080/live/tyxltsxw3/hls.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="台视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/台视新闻.png",台视新闻
+https://ktpremium.com:443/K3939/6757/515200
+#EXTINF:-1 group-title="港澳台" tvg-name="中视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/中视新闻.png",中视新闻
+https://ktpremium.com:443/M919HR/5577/515206?c=
+#EXTINF:-1 group-title="港澳台" tvg-name="中视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/中视新闻.png",中视新闻
+https://ktpremium.com:443/K3939/6757/515206
+#EXTINF:-1 group-title="港澳台" tvg-name="中视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/中视新闻.png",中视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="中视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/中视新闻.png",中视新闻
+http://awei.beimua.com/iptv.php?id=46
+#EXTINF:-1 group-title="港澳台" tvg-name="三立台湾" tvg-logo="https://live.zhoujie218.top/taibiao/三立台湾.png",三立台湾
+https://ktpremium.com:443/M919HR/5577/877052?c=
+#EXTINF:-1 group-title="港澳台" tvg-name="三立台湾" tvg-logo="https://live.zhoujie218.top/taibiao/三立台湾.png",三立台湾
+https://ktpremium.com:443/K3939/6757/877052
+#EXTINF:-1 group-title="港澳台" tvg-name="公视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/公视新闻.png",公视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="三立新闻" tvg-logo="https://live.zhoujie218.top/taibiao/三立新闻.png",三立新闻
+http://66.165.240.154:8080/live/slxw01/hls.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="三立新闻" tvg-logo="https://live.zhoujie218.top/taibiao/三立新闻.png",三立新闻
+http://154.yfvodcdn.com:8080/live/slxw01/hls.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="三立新闻" tvg-logo="https://live.zhoujie218.top/taibiao/三立新闻.png",三立新闻
+https://ktpremium.com:443/M919HR/5577/515185?c=
+#EXTINF:-1 group-title="港澳台" tvg-name="三立新闻" tvg-logo="https://live.zhoujie218.top/taibiao/三立新闻.png",三立新闻
+https://ktpremium.com:443/K3939/6757/515185
+#EXTINF:-1 group-title="港澳台" tvg-name="三立新闻" tvg-logo="https://live.zhoujie218.top/taibiao/三立新闻.png",三立新闻
+http://awei.beimua.com/iptv.php?id=48
+#EXTINF:-1 group-title="港澳台" tvg-name="三立新闻" tvg-logo="https://live.zhoujie218.top/taibiao/三立新闻.png",三立新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjdfjfvchtjujxcjxvcbsjfsdxcbmjsllivexw.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="三立新闻" tvg-logo="https://live.zhoujie218.top/taibiao/三立新闻.png",三立新闻
+http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="寰宇新闻" tvg-logo="https://live.zhoujie218.top/taibiao/寰宇新闻.png",寰宇新闻
+https://ktpremium.com:443/M919HR/5577/857803?c=
+#EXTINF:-1 group-title="港澳台" tvg-name="寰宇新闻" tvg-logo="https://live.zhoujie218.top/taibiao/寰宇新闻.png",寰宇新闻
+https://ktpremium.com:443/K3939/6757/857803
+#EXTINF:-1 group-title="港澳台" tvg-name="寰宇新闻" tvg-logo="https://live.zhoujie218.top/taibiao/寰宇新闻.png",寰宇新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="寰宇新闻" tvg-logo="https://live.zhoujie218.top/taibiao/寰宇新闻.png",寰宇新闻
+http://awei.beimua.com/iptv.php?id=53
+#EXTINF:-1 group-title="港澳台" tvg-name="寰宇新闻" tvg-logo="https://live.zhoujie218.top/taibiao/寰宇新闻.png",寰宇新闻
+http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="寰宇新闻" tvg-logo="https://live.zhoujie218.top/taibiao/寰宇新闻.png",寰宇新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivephxehmffjuxcxjvejejyhmnjjxjjhjdhnjbnxfdjfhyxw.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="年代新闻" tvg-logo="https://live.zhoujie218.top/taibiao/年代新闻.png",年代新闻
+https://ktpremium.com:443/M919HR/5577/877060?c=
+#EXTINF:-1 group-title="港澳台" tvg-name="年代新闻" tvg-logo="https://live.zhoujie218.top/taibiao/年代新闻.png",年代新闻
+http://ali.hlspull.yximgs.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="年代新闻" tvg-logo="https://live.zhoujie218.top/taibiao/年代新闻.png",年代新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhkliveojevdyscvbudlojlnsfjewtjudvbbjxfjnjlvcjdjdnjxw.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="民视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/民视新闻.png",民视新闻
+http://66.165.240.154:8080/live/slxw02/hls.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="民视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/民视新闻.png",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="民视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/民视新闻.png",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="民视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/民视新闻.png",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="民视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/民视新闻.png",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="民视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/民视新闻.png",民视新闻
+http://154.yfvodcdn.com:8080/live/slxw02/hls.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="民视新闻" tvg-logo="https://live.zhoujie218.top/taibiao/民视新闻.png",民视新闻
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="非凡新闻" tvg-logo="https://live.zhoujie218.top/taibiao/非凡新闻.png",非凡新闻
+https://ktpremium.com:443/K3939/6757/515205
+#EXTINF:-1 group-title="港澳台" tvg-name="非凡新闻" tvg-logo="https://live.zhoujie218.top/taibiao/非凡新闻.png",非凡新闻
+https://ktpremium.com:443/M919HR/5577/515205?c=
+#EXTINF:-1 group-title="港澳台" tvg-name="非凡新闻" tvg-logo="https://live.zhoujie218.top/taibiao/非凡新闻.png",非凡新闻
+http://ali.hlspull.yximgs.com/live/huanqiuhklivesjtnfjjojdcbfcxvjfuujjwejjjsjyuhhdjsjhjynffxw.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="非凡新闻" tvg-logo="https://live.zhoujie218.top/taibiao/非凡新闻.png",非凡新闻
+http://ali.hlspull.yximgs.com/live/twlivesztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="中天新闻" tvg-logo="https://live.zhoujie218.top/taibiao/中天新闻.png",中天新闻
+http://66.165.240.154:8080/live/ztylt01/hls.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="中天新闻" tvg-logo="https://live.zhoujie218.top/taibiao/中天新闻.png",中天新闻
+http://154.yfvodcdn.com:8080/live/ztylt01/hls.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="中天新闻" tvg-logo="https://live.zhoujie218.top/taibiao/中天新闻.png",中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="中天新闻" tvg-logo="https://live.zhoujie218.top/taibiao/中天新闻.png",中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="中天新闻" tvg-logo="https://live.zhoujie218.top/taibiao/中天新闻.png",中天新闻
+https://ktpremium.com:443/K3939/6757/870539
+#EXTINF:-1 group-title="港澳台" tvg-name="中天新闻" tvg-logo="https://live.zhoujie218.top/taibiao/中天新闻.png",中天新闻
+https://ktpremium.com:443/M919HR/5577/870539?c=
+#EXTINF:-1 group-title="港澳台" tvg-name="中天新闻" tvg-logo="https://live.zhoujie218.top/taibiao/中天新闻.png",中天新闻
+http://tv.redrainl.site:9500/live.m3u8?c=03
+#EXTINF:-1 group-title="港澳台" tvg-name="中天新闻" tvg-logo="https://live.zhoujie218.top/taibiao/中天新闻.png",中天新闻
+http://awei.beimua.com/iptv.php?id=43
+#EXTINF:-1 group-title="港澳台" tvg-name="亚洲新闻" tvg-logo="https://live.zhoujie218.top/taibiao/亚洲新闻.png",亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="亚洲新闻" tvg-logo="https://live.zhoujie218.top/taibiao/亚洲新闻.png",亚洲新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="亚洲新闻" tvg-logo="https://live.zhoujie218.top/taibiao/亚洲新闻.png",亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+#EXTINF:-1 group-title="港澳台" tvg-name="亚洲新闻" tvg-logo="https://live.zhoujie218.top/taibiao/亚洲新闻.png",亚洲新闻
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="东森新闻" tvg-logo="https://live.zhoujie218.top/taibiao/东森新闻.png",东森新闻
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="东森新闻" tvg-logo="https://live.zhoujie218.top/taibiao/东森新闻.png",东森新闻
+https://edge1.laotv.la/live/DongsenMovie/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="东森新闻" tvg-logo="https://live.zhoujie218.top/taibiao/东森新闻.png",东森新闻
+http://221.5.12.130:2223/hls/13/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="东森新闻" tvg-logo="https://live.zhoujie218.top/taibiao/东森新闻.png",东森新闻
+https://ktpremium.com:443/M919HR/5577/870544?c=
+#EXTINF:-1 group-title="港澳台" tvg-name="东森新闻" tvg-logo="https://live.zhoujie218.top/taibiao/东森新闻.png",东森新闻
+https://ktpremium.com:443/K3939/6757/870544
+#EXTINF:-1 group-title="港澳台" tvg-name="东森新闻" tvg-logo="https://live.zhoujie218.top/taibiao/东森新闻.png",东森新闻
+http://awei.beimua.com/iptv.php?id=44
+#EXTINF:-1 group-title="港澳台" tvg-name="东森新闻" tvg-logo="https://live.zhoujie218.top/taibiao/东森新闻.png",东森新闻
+http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="东森美洲" tvg-logo="https://live.zhoujie218.top/taibiao/东森美洲.png",东森美洲
+http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="东森美洲" tvg-logo="https://live.zhoujie218.top/taibiao/东森美洲.png",东森美洲
+http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="东森美洲" tvg-logo="https://live.zhoujie218.top/taibiao/东森美洲.png",东森美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="东森美洲" tvg-logo="https://live.zhoujie218.top/taibiao/东森美洲.png",东森美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="东森美洲" tvg-logo="https://live.zhoujie218.top/taibiao/东森美洲.png",东森美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8?$720x480
+#EXTINF:-1 group-title="港澳台" tvg-name="靖天国际" tvg-logo="https://live.zhoujie218.top/taibiao/靖天国际.png",靖天国际
+https://ktpremium.com:443/K3939/6757/515025
+#EXTINF:-1 group-title="港澳台" tvg-name="靖天国际" tvg-logo="https://live.zhoujie218.top/taibiao/靖天国际.png",靖天国际
+https://ktpremium.com:443/M919HR/5577/515025?c=
+#EXTINF:-1 group-title="港澳台" tvg-name="澳视卫星" tvg-logo="https://live.zhoujie218.top/taibiao/澳视卫星.png",澳视卫星
+http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="澳视澳门" tvg-logo="https://live.zhoujie218.top/taibiao/澳视澳门.png",澳视澳门
+https://pi.0472.org/tv/asam.php?auth=230918
+#EXTINF:-1 group-title="港澳台" tvg-name="澳视澳门" tvg-logo="https://live.zhoujie218.top/taibiao/澳视澳门.png",澳视澳门
+https://pi.0472.org/tv/asam.php?auth=2309081833
+#EXTINF:-1 group-title="港澳台" tvg-name="澳门信息" tvg-logo="https://live.zhoujie218.top/taibiao/澳门信息.png",澳门信息
+http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="澳门卫视" tvg-logo="https://live.zhoujie218.top/taibiao/澳门卫视.png",澳门卫视
+https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="澳门莲花" tvg-logo="https://live.zhoujie218.top/taibiao/澳门莲花.png",澳门莲花
+http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
+#EXTINF:-1 group-title="港澳台" tvg-name="澳门莲花" tvg-logo="https://live.zhoujie218.top/taibiao/澳门莲花.png",澳门莲花
+https://p.ggiptv.com/v/macaulotustv.php
+#EXTINF:-1 group-title="港澳台" tvg-name="澳门莲花" tvg-logo="https://live.zhoujie218.top/taibiao/澳门莲花.png",澳门莲花
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndcbvdbneyjhxchjjhbnjjhjejjmlh.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="澳门莲花" tvg-logo="https://live.zhoujie218.top/taibiao/澳门莲花.png",澳门莲花
+http://epg.112114.xyz/lotus
+#EXTINF:-1 group-title="港澳台" tvg-name="澳门莲花" tvg-logo="https://live.zhoujie218.top/taibiao/澳门莲花.png",澳门莲花
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="澳门莲花" tvg-logo="https://live.zhoujie218.top/taibiao/澳门莲花.png",澳门莲花
+http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
+#EXTINF:-1 group-title="港澳台" tvg-name="澳门莲花" tvg-logo="https://live.zhoujie218.top/taibiao/澳门莲花.png",澳门莲花
+http://anren.live/HK/BiIOU11uLA.m3u8?zgangd&&&$1920x1080
+#EXTINF:-1 group-title="港澳台" tvg-name="澳门莲花" tvg-logo="https://live.zhoujie218.top/taibiao/澳门莲花.png",澳门莲花
+http://nettvpro.live/hls/lotustv.php?zgangd
+#EXTINF:-1 group-title="港澳台" tvg-name="澳门葡语" tvg-logo="https://live.zhoujie218.top/taibiao/澳门葡语.png",澳门葡语
+http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="澳门资讯" tvg-logo="https://live.zhoujie218.top/taibiao/澳门资讯.png",澳门资讯
+http://61.244.22.5/ch5/info_ch5.live/index.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="纬来体育" tvg-logo="https://live.zhoujie218.top/taibiao/纬来体育.png",纬来体育
+https://ktpremium.com:443/M919HR/5577/877061?c=
+#EXTINF:-1 group-title="港澳台" tvg-name="纬来体育" tvg-logo="https://live.zhoujie218.top/taibiao/纬来体育.png",纬来体育
+https://ktpremium.com:443/K3939/6757/877061
+#EXTINF:-1 group-title="港澳台" tvg-name="爱尔达体育" tvg-logo="https://live.zhoujie218.top/taibiao/爱尔达体育.png",爱尔达体育
+https://ktpremium.com:443/K3939/6757/879252
+#EXTINF:-1 group-title="港澳台" tvg-name="爱尔达体育" tvg-logo="https://live.zhoujie218.top/taibiao/爱尔达体育.png",爱尔达体育
+https://ktpremium.com:443/K3939/6757/879251
+#EXTINF:-1 group-title="港澳台" tvg-name="爱尔达体育" tvg-logo="https://live.zhoujie218.top/taibiao/爱尔达体育.png",爱尔达体育
+https://ktpremium.com:443/K3939/6757/879250
+#EXTINF:-1 group-title="港澳台" tvg-name="爱尔达体育" tvg-logo="https://live.zhoujie218.top/taibiao/爱尔达体育.png",爱尔达体育
+https://ktpremium.com:443/M919HR/5577/879251?c=
+#EXTINF:-1 group-title="港澳台" tvg-name="爱尔达体育" tvg-logo="https://live.zhoujie218.top/taibiao/爱尔达体育.png",爱尔达体育
+https://ktpremium.com:443/M919HR/5577/879250?c=
+#EXTINF:-1 group-title="港澳台" tvg-name="ELEVEN体育" tvg-logo="https://live.zhoujie218.top/taibiao/ELEVEN体育.png",ELEVEN体育
+https://ktpremium.com:443/K3939/6757/910890
+#EXTINF:-1 group-title="港澳台" tvg-name="ELEVEN体育" tvg-logo="https://live.zhoujie218.top/taibiao/ELEVEN体育.png",ELEVEN体育
+https://ktpremium.com:443/M919HR/5577/910889?c=
+#EXTINF:-1 group-title="港澳台" tvg-name="ELEVEN体育" tvg-logo="https://live.zhoujie218.top/taibiao/ELEVEN体育.png",ELEVEN体育
+https://ktpremium.com:443/M919HR/5577/910890?c=
+#EXTINF:-1 group-title="港澳台" tvg-name="星河台" tvg-logo="https://live.zhoujie218.top/taibiao/星河台.png",星河台
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="星河台" tvg-logo="https://live.zhoujie218.top/taibiao/星河台.png",星河台
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="星河台" tvg-logo="https://live.zhoujie218.top/taibiao/星河台.png",星河台
+http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
+#EXTINF:-1 group-title="港澳台" tvg-name="星河台" tvg-logo="https://live.zhoujie218.top/taibiao/星河台.png",星河台
+http://r.jdshipin.com/sXuuD
+
+
 #EXTINF:-1,---------------------------------------分割线"🇨🇳SiTV系列"---------------------------------------------------------------
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/上海五星体育.png" group-title="SiTV",五星体育
