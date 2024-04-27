@@ -734,6 +734,20 @@ http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
 http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 
+#EXTM3U
+#EXTINF:-1,tvg-id="澳视澳门.720" tvg-name="澳视澳门.720" tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" group-title="澳门",澳视澳门.720
+https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1,tvg-id="澳视卫星.720" tvg-name="澳视卫星.720" tvg-logo="https://epg.112114.xyz/logo/澳视卫星.png" group-title="澳门",澳视卫星.720
+https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1,tvg-id="澳视体育.720" tvg-name="澳门体育.720" tvg-logo="https://epg.112114.xyz/logo/澳视体育.png" group-title="澳门",澳视体育.720
+http://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1,tvg-id="澳门资讯.720" tvg-name="澳门资讯.720" tvg-logo="https://epg.112114.xyz/logo/澳视资讯.png" group-title="澳门",澳视资讯.720
+http://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1,tvg-id="澳门综艺.720" tvg-name="澳门综艺.720" tvg-logo="https://epg.112114.xyz/logo/澳视综艺.png" group-title="澳门",澳视综艺.720
+http://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1,tvg-id="澳视葡文.720" tvg-name="澳视葡文.720" tvg-logo="https://epg.112114.xyz/logo/澳视葡文.png" group-title="澳门",澳视葡文.720
+http://live5.tdm.com.mo/ch2/ch2.live/playelist.m3u8
+
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="台湾",TVBS
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
