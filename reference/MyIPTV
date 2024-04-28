@@ -698,7 +698,7 @@ https://4kuhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳🇭🇰香港"---------------------------------------------------------------
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
-http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://112.19.171.156:9999/udp/239.93.0.118:2191
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
