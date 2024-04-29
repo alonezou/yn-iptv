@@ -575,7 +575,7 @@ http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/嘉仕卡通.png" group-title="广东",嘉仕卡通 
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江 
-
+http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江 
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/广东珠江.png" group-title="广东",广东珠江 
