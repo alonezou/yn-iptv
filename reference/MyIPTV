@@ -696,6 +696,64 @@ https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=L
 #EXTINF:-1 group-title="4K/8K",Persiana 4Kurd「V4」
 https://4kuhls.persiana.live/hls/stream.m3u8
 
+#EXTM3U
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/4K修复全网.png" group-title="4K/8K",4k修复全网「V4」
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/4K动物全网.png" group-title="4K/8K",4k动物全网「V4」
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/北京科教.png" group-title="4K/8K",8K北京科教台「V4」
+http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="4K/8K",8K北京纪实台
+http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K/8K",CCTV8K超清「V4」
+https://tv.cry33.com/ys4k.php?id=8k25
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K/8K",CCTV8K超清「V4」
+https://tv.cry33.com/ys4k.php?id=8k
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K/8K",CCTV8K超清「V4」
+https://tv.cry33.com/ys4k.php?id=8k25
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="4K/8K",CCTV8K超清「V4」
+https://tv.cry33.com/ys4k.php?id=8k
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K/8K",CCTV16 4K「V4」
+https://tv.cry33.com/ys4k.php?id=16-4k
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/4K斗鱼影院台.png" group-title="4K/8K",4K斗鱼影院台「V4」
+http://159.75.85.63:35455/douyu/9249162
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/4K斗鱼影院台.png" group-title="4K/8K",4K斗鱼影院台「V4」
+http://43.138.170.29:35455/douyu/9249162
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/4K南国都市台.png" group-title="4K/8K",4K南国都市台「V4」
+http://113.78.253.125:8888/rtp/239.253.43.99:5146?Cf=cfss.cc
+#EXTINF:-1, tvg-logo="https://epg.112114.xyz/logo/4K影院卫视台.png" group-title="4K/8K",4K影院卫视台「V4」
+http://221.198.174.113:8888/rtp/225.1.2.190:5002?Cf=cfss.cc
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/4K播电影.png" group-title="4K/8K",4K超清播电影「V4」
+http://www.liruixiang.cc:9000/rtp/239.3.1.249:8001
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/4K欢笑台IPV6.png" group-title="4K/8K",4K欢笑台
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="4K/8K",4K广东综艺台「V4」
+http://113.78.253.125:8888/rtp/239.77.1.237:5146?Cf=cfss.cc
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/广东综艺.png" group-title="4K/8K",4K广东综艺台「V4」
+http://113.78.253.125:8888/rtp/239.77.0.246:5146?Cf=cfss.cc
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/4K影院卫视台.png" group-title="4K/8K",4K影院卫视台「V4」
+http://221.198.121.108:4000/rtp/225.1.2.190:5002?Cf=cfss.cc
+#EXTINF:-1, tvg-logo="https://epg.112114.xyz/logo/4K乐享台.png" group-title="4K/8K",4K乐享超清台「V4」
+http://182.138.136.195:4455/rtp/239.93.0.43:5140?Cf=cfss.cc
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/4K爱上高清台.png" group-title="4K/8K",4K爱上高清台「V4」
+http://www.8700956.top:18888/rtp/239.81.0.123:4056?Cf=cfss.cc
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/4K爱上高清台.png" group-title="4K/8K",4K爱上高清台「V4」
+http://www.furymax.top:85/rtp/239.69.1.141:10482?Cf=cfss.cc
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/4K爱上高清台.png" group-title="4K/8K",4K爱上高清台「V4」
+http://182.138.136.195:4455/rtp/239.93.0.97:5140?Cf=cfss.cc
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/4K华数影院台.png" group-title="4K/8K",4K华数影院台「V4」
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+#EXTINF:-1, tvg-logo="https://epg.112114.xyz/logo/4K华数影院台.png" group-title="4K/8K",4K华数影院台
+http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/4K放大镜全网.png" group-title="4K/8K",4K放大镜全网「V4」
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K/8K",4Kcctv16
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/4K咪咕台IPV6.png" group-title="4K/8K",4K咪咕台
+http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
+
+
+
 
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳🇭🇰香港"---------------------------------------------------------------
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
