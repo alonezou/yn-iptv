@@ -785,12 +785,46 @@ http://mywlkj.ddns.net:754/tv/fhhk.m3u8
 http://103.95.24.37:880/fhxgt.m3u8
 
 
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港",TVB翡翠台 4K
+http://158.180.67.130/live/hls/JUHD/juhd.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港",TVB翡翠台 4K
+http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
+http://zsntlqj.xicp.net:8896/bysid/83
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
 http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
-http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
-http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
+http://137.175.30.127:9080/hls/inews.m3u8
+
+#EXTM3U
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/天映经典.png" group-title="香港",天映频道
+http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港",TVB翡翠台
+http://58.176.4.57:8800/play/a00g
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="香港",TVB J2
+http://58.176.4.57:8800/play/a00c
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="香港",TVB明珠台
+http://58.176.4.57:8800/play/a00b
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="香港",TVB J2台
+http://nz189l149.bb27109.ctm.net:8892/bysid/82
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/TVB星河台.png" group-title="香港",TVB星河台
+http://113.64.145.195:8081/hls/135/index.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="香港",TVB翡翠台
+http://158.180.67.130/live/hls/J/j.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/TVB星河台.png" group-title="香港",TVB星河台
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/TVB星河台.png" group-title="香港",TVB星河台
+http://113.64.145.195:8081/hls/135/index.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/TVB娱乐新闻台.png" group-title="香港",TVB娱乐新闻台
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="香港",有线新闻台
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/TVB娱乐新闻台.png" group-title="香港",TVB娱乐新闻台
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1tvg-logo="https://epg.112114.xyz/logo/半岛新闻台.png" group-title="国际",半岛新闻台
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
 
 #EXTM3U
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/澳视澳门.png" group-title="澳门",澳视澳门.720
