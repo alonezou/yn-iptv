@@ -1494,17 +1494,17 @@ http://125.210.150.58:9090/live/hzgq-zjxwgq-h264.m3u8
 http://125.210.150.58:9090/live/hzgq-zjsegq-h264.m3u8
 #EXTINF:-1,tvg-id="浙江好易购" tvg-name="浙江好易购" tvg-logo="https://epg.112114.xyz/logo/浙江好易购.png" group-title="杭州华数.浙江",浙江好易购
 http://125.210.150.58:9090/live/hzgq-hyggq-h264.m3u8
-#EXTINF:-1,tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://epg.112114.xyz/logo/杭州综合.png" group-title="杭州华数.其他",杭州综合
+#EXTINF:-1,tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://epg.112114.xyz/logo/杭州综合.png" group-title="杭州华数.杭州",杭州综合
 http://125.210.150.58:9090/live/hzgq-hzzhgq-h264.m3u8
-#EXTINF:-1,tvg-id="杭州明珠" tvg-name="杭州明珠" tvg-logo="https://epg.112114.xyz/logo/杭州西湖明珠.png" group-title="杭州华数.其他",杭州明珠
+#EXTINF:-1,tvg-id="杭州明珠" tvg-name="杭州明珠" tvg-logo="https://epg.112114.xyz/logo/杭州西湖明珠.png" group-title="杭州华数.杭州",杭州明珠
 http://125.210.150.58:9090/live/hzgq-xhmzgq-h264.m3u8
-#EXTINF:-1,tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="https://epg.112114.xyz/logo/杭州生活.png" group-title="杭州华数.其他",杭州生活
+#EXTINF:-1,tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="https://epg.112114.xyz/logo/杭州生活.png" group-title="杭州华数.杭州",杭州生活
 http://125.210.150.58:9090/live/hzgq-hzshgq-h264.m3u8
-#EXTINF:-1,tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://epg.112114.xyz/logo/杭州影视.png" group-title="杭州华数.其他",杭州影视
+#EXTINF:-1,tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://epg.112114.xyz/logo/杭州影视.png" group-title="杭州华数.杭州",杭州影视
 http://125.210.150.58:9090/live/hzgq-hzysgq-h264.m3u8
-#EXTINF:-1,tvg-id="杭州青少" tvg-name="杭州青少" tvg-logo="https://epg.112114.xyz/logo/杭州少儿.png" group-title="杭州华数.其他",杭州青少
+#EXTINF:-1,tvg-id="杭州青少" tvg-name="杭州青少" tvg-logo="https://epg.112114.xyz/logo/杭州少儿.png" group-title="杭州华数.杭州",杭州青少
 http://125.210.150.58:9090/live/hzgq-hzsegq-h264.m3u8
-#EXTINF:-1,tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://epg.112114.xyz/logo/杭州导视.png" group-title="杭州华数.其他",杭州导视
+#EXTINF:-1,tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://epg.112114.xyz/logo/杭州导视.png" group-title="杭州华数.杭州",杭州导视
 http://125.210.150.58:9090/live/hzgq-hzdsgq-h264.m3u8
 #EXTINF:-1,tvg-id="临平新闻" tvg-name="临平新闻" tvg-logo="https://epg.112114.xyz/logo/临平新闻.png" group-title="杭州华数.其他",临平新闻
 http://125.210.150.58:9090/live/hszx-klcd-h264.m3u8
@@ -1520,10 +1520,6 @@ http://125.210.150.58:9090/live/hszx-fhzx-h264.m3u8
 http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="杭州华数.其他",金鹰纪实
 http://125.210.150.58:9090/live/hszx-jyjs-h264.m3u8
-
-
-
-
 
 
 #EXTINF:-1 ---------------------------------------分割线"测试频道"---------------------------------------------------------------
