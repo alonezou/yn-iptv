@@ -628,7 +628,7 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/ind
 
 #EXTINF:-1 ---------------------------------------分割线"求索系列"---------------------------------------------------------------
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="求索系列",求索记录
-
+http://125.210.150.58:9090/live/hzgq-qsjlgq-h264.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="求索系列",求索动物
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="求索系列",求索科学
@@ -1416,6 +1416,8 @@ http://125.210.150.58:9090/live/hzgq-cctv3gq-h264.m3u8
 http://125.210.150.58:9090/live/hzgq-cctv4gq-h264.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="杭州华数.央视",CCTV5体育
 http://125.210.150.58:9090/live/hzgq-cctv5gq-h264.m3u8
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="杭州华数.央视",CCTV5+体育赛事,
+http://125.210.150.58:9090/live/hzgq-cctvzhgq-h264.m3u8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="杭州华数.央视",CCTV6电影
 http://125.210.150.58:9090/live/hzgq-cctv6gq-h264.m3u8
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="杭州华数.央视",CCTV7国防军事
@@ -1510,6 +1512,8 @@ http://125.210.150.58:9090/live/hszx-bttv-h264.m3u8
 http://125.210.150.58:9090/live/hszx-xztv-h264.m3u8
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="杭州华数.卫视",海南卫视
 http://125.210.150.58:9090/live/hszx-lytv-h264.m3u8
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="杭州华数.卫视",三沙卫视
+http://125.210.150.58:9090/live/hzgq-ssws-h264.m3u8
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="杭州华数.北京",北京纪实科教
 http://125.210.150.58:9090/live/hszx-bjjs-h264.m3u8
 #EXTINF:-1,tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://epg.112114.xyz/logo/四海钓鱼.png" group-title="杭州华数.其他",四海钓鱼
