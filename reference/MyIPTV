@@ -1407,472 +1407,232 @@ http://[2409:8087:1a0b:df::4014]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTM3U
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="杭州华数.央视",CCTV1综合
 http://125.210.150.58:9090/live/hzgq-cctv1gq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZhongYangYiTaoHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="杭州华数.央视",CCTV2财经
 http://125.210.150.58:9090/live/hzgq-cctv2gq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZhongYangErTaoHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="杭州华数.央视",CCTV3综艺
 http://125.210.150.58:9090/live/hzgq-cctv3gq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZhongYangSanTaoHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="杭州华数.央视",CCTV4中文国际
 http://125.210.150.58:9090/live/hzgq-cctv4gq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZhongYangSiTaoHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="杭州华数.央视",CCTV5体育
 http://125.210.150.58:9090/live/hzgq-cctv5gq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZhongYangWuTaoHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="杭州华数.央视",CCTV5+体育赛事,
 http://125.210.150.58:9090/live/hzgq-cctvzhgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_CCTVZongHeHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="杭州华数.央视",CCTV6电影
 http://125.210.150.58:9090/live/hzgq-cctv6gq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZhongYangLiuTaoHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="杭州华数.央视",CCTV7国防军事
 http://125.210.150.58:9090/live/hzgq-cctv7gq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZhongYangQiTaoHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="杭州华数.央视",CCTV8电视剧
 http://125.210.150.58:9090/live/hzgq-cctv8gq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZhongYangBaTaoHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="杭州华数.央视",CCTV9纪录
 http://125.210.150.58:9090/live/hzgq-cctvjlgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZhongYangJiLuHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="杭州华数.央视",CCTV10科教
 http://125.210.150.58:9090/live/hzgq-cctv10gq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZhongYangShiTaoHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="杭州华数.央视",CCTV11戏曲
 http://125.210.150.58:9090/live/hszx-cctv11-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZhongYangShiYiTaoHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="杭州华数.央视",CCTV12社会与法
 http://125.210.150.58:9090/live/hzgq-cctv12gq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZhongYangShiErTaoHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="杭州华数.央视",CCTV13新闻
 http://125.210.150.58:9090/live/hzgq-cctvnewsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZhongYangXinWenHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="杭州华数.央视",CCTV14少儿
 http://125.210.150.58:9090/live/hzgq-cctvsegq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZhongYangShaoErHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="杭州华数.央视",CCTV15音乐
 http://125.210.150.58:9090/live/hzgq-cctvmusicgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZhongYangYinYueHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="杭州华数.央视",CCTV16奥林匹克
 http://125.210.150.58:9090/live/hzgq-cctv16gq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_CCTV16AoLinPiKeHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="杭州华数.央视",CCTV17农业农村
 http://125.210.150.58:9090/live/hzgq-cctv17gq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZhongYangShiQiTaoHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="杭州华数.央视",CGTN
 http://125.210.150.58:9090/live/hszx-cctvgj-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_CCTVGuoJi_H264_MP2_1900000/1900000/.m3u8
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.112114.xyz/logo/重温经典.png" group-title="杭州华数.其他",重温经典
 http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ChongWenJingDian_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="杭州华数.卫视",北京卫视
 http://125.210.150.58:9090/live/hzgq-bjgqws-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_BeiJingWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="杭州华数.卫视",东方卫视
 http://125.210.150.58:9090/live/hzgq-dftvgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_DongFangWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="杭州华数.卫视",天津卫视
 http://125.210.150.58:9090/live/hzgq-tjwsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_TianJinWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="杭州华数.卫视",重庆卫视
 http://125.210.150.58:9090/live/hzgq-cqwsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ChongQingWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="杭州华数.卫视",黑龙江卫视
 http://125.210.150.58:9090/live/hzgq-hljwsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_HeiLongJiangWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="杭州华数.卫视",吉林卫视
 http://125.210.150.58:9090/live/hzgq-jlwsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_JiLinWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="杭州华数.卫视",辽宁卫视
 http://125.210.150.58:9090/live/hzgq-lnwsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_LiaoNingWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="杭州华数.卫视",内蒙古卫视
 http://125.210.150.58:9090/live/hszx-nmgtv-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_NeiMengGuWeiShi_H264_MP2_1900000/1900000/.m3u8
 #EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="杭州华数.卫视",宁夏卫视
 http://125.210.150.58:9090/live/hszx-nxtv-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_NingXiaWeiShi_H264_MP2_1900000/1900000/.m3u8
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="杭州华数.卫视",甘肃卫视
 http://125.210.150.58:9090/live/hszx-gstv-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_GanSuWeiShi_H264_MP2_1900000/1900000/.m3u8
 #EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="杭州华数.卫视",青海卫视
 http://125.210.150.58:9090/live/hszx-qhtv-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_QingHaiWeiShi_H264_MP2_1900000/1900000/.m3u8
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="杭州华数.卫视",陕西卫视
 http://125.210.150.58:9090/live/hszx-sxtv-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ShanXiWeiShi_H264_MP2_1900000/1900000/.m3u8
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="杭州华数.卫视",河北卫视
 http://125.210.150.58:9090/live/hszx-hebeitv-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_HeBeiWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="杭州华数.卫视",山西卫视
 http://125.210.150.58:9090/live/hszx-shanxitv-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ShanXiWeiShi-1_H264_MP2_1900000/1900000/.m3u8
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="杭州华数.卫视",山东卫视
 http://125.210.150.58:9090/live/hzgq-sdwsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ShanDongWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="杭州华数.卫视",安徽卫视
 http://125.210.150.58:9090/live/hzgq-ahwsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_AnHuiWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="杭州华数.卫视",河南卫视
 http://125.210.150.58:9090/live/hszx-henantv-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_HeNanWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="杭州华数.卫视",湖北卫视
 http://125.210.150.58:9090/live/hzgq-hbwsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_HuBeiWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="杭州华数.卫视",湖南卫视
 http://125.210.150.58:9090/live/hzgq-hnwsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_HuNanWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="杭州华数.卫视",江西卫视
 http://125.210.150.58:9090/live/hzgq-jxwsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_JiangXiWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="杭州华数.卫视",江苏卫视
 http://125.210.150.58:9090/live/hzgq-jswsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_JiangSuWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="杭州华数.卫视",浙江卫视
 http://125.210.150.58:9090/live/hzgq-zjwsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZheJiangWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="杭州华数.卫视",东南卫视
 http://125.210.150.58:9090/live/hzgq-fjwsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_DongNanWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="杭州华数.卫视",广东卫视
 http://125.210.150.58:9090/live/hzgq-gdwsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_GuangDongWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="杭州华数.卫视",深圳卫视
 http://125.210.150.58:9090/live/hzgq-szwsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ShenZhenWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="杭州华数.卫视",广西卫视
 http://125.210.150.58:9090/live/hszx-gxtv-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_GuangXiWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="杭州华数.卫视",云南卫视
 http://125.210.150.58:9090/live/hszx-yntv-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_YunNanWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="杭州华数.卫视",贵州卫视
 http://125.210.150.58:9090/live/hzgq-gzwsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_GuiZhouWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="杭州华数.卫视",四川卫视
 http://125.210.150.58:9090/live/hzgq-scwsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_SiChuanWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="杭州华数.卫视",新疆卫视
 http://125.210.150.58:9090/live/hszx-xjtv-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_XinJiangWeiShi_H264_MP2_1900000/1900000/.m3u8
 #EXTINF:-1,tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="杭州华数.卫视",兵团卫视
 http://125.210.150.58:9090/live/hszx-bttv-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_BingTuanWeiShi_H264_MP2_1900000/1900000/.m3u8
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="杭州华数.卫视",西藏卫视
 http://125.210.150.58:9090/live/hszx-xztv-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_XiZangWeiShi_H264_MP2_1900000/1900000/.m3u8
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="杭州华数.卫视",海南卫视
 http://125.210.150.58:9090/live/hszx-lytv-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_HaiNanWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="杭州华数.卫视",三沙卫视
 http://125.210.150.58:9090/live/hzgq-ssws-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_SanShaWeiShi_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="杭州华数.北京",北京纪实科教
 http://125.210.150.58:9090/live/hszx-bjjs-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_BeiJingJiShiKeJiao_H264_MP2_1900000/1900000/.m3u8
 #EXTINF:-1,tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://epg.112114.xyz/logo/四海钓鱼.png" group-title="杭州华数.其他",四海钓鱼
 http://125.210.150.58:9090/live/hszx-shdy-h264.m3u8
-#EXTINF:-1,tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://epg.112114.xyz/logo/浙江钱江都市.png" group-title="杭州华数.浙江",浙江钱江
-http://125.210.150.58:9090/live/hzgq-qjpdgq-h264.m3u8
-#EXTINF:-1,tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://epg.112114.xyz/logo/浙江经济生活.png" group-title="杭州华数.浙江",浙江经济生活
-http://125.210.150.58:9090/live/hzgq-zjjsgq-h264.m3u8
-#EXTINF:-1,tvg-id="浙江教育科技" tvg-name="浙江教育科技" tvg-logo="https://epg.112114.xyz/logo/浙江教育科技.png" group-title="杭州华数.浙江",浙江教育科技
-http://125.210.150.58:9090/live/hzgq-zjjygq-h264.m3u8
-#EXTINF:-1,tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://epg.112114.xyz/logo/浙江民生休闲.png" group-title="杭州华数.浙江",浙江民生休闲
-http://125.210.150.58:9090/live/hzgq-msxxgq-h264.m3u8
-#EXTINF:-1,tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://epg.112114.xyz/logo/浙江新闻.png" group-title="杭州华数.浙江",浙江新闻
-http://125.210.150.58:9090/live/hzgq-zjxwgq-h264.m3u8
-#EXTINF:-1,tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://epg.112114.xyz/logo/浙江少儿.png" group-title="杭州华数.浙江",浙江少儿
-http://125.210.150.58:9090/live/hzgq-zjsegq-h264.m3u8
-#EXTINF:-1,tvg-id="浙江好易购" tvg-name="浙江好易购" tvg-logo="https://epg.112114.xyz/logo/浙江好易购.png" group-title="杭州华数.浙江",浙江好易购
-http://125.210.150.58:9090/live/hzgq-hyggq-h264.m3u8
-#EXTINF:-1,tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://epg.112114.xyz/logo/杭州综合.png" group-title="杭州华数.杭州",杭州综合
-http://125.210.150.58:9090/live/hzgq-hzzhgq-h264.m3u8
-#EXTINF:-1,tvg-id="杭州明珠" tvg-name="杭州明珠" tvg-logo="https://epg.112114.xyz/logo/杭州西湖明珠.png" group-title="杭州华数.杭州",杭州明珠
-http://125.210.150.58:9090/live/hzgq-xhmzgq-h264.m3u8
-#EXTINF:-1,tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="https://epg.112114.xyz/logo/杭州生活.png" group-title="杭州华数.杭州",杭州生活
-http://125.210.150.58:9090/live/hzgq-hzshgq-h264.m3u8
-#EXTINF:-1,tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://epg.112114.xyz/logo/杭州影视.png" group-title="杭州华数.杭州",杭州影视
-http://125.210.150.58:9090/live/hzgq-hzysgq-h264.m3u8
-#EXTINF:-1,tvg-id="杭州青少" tvg-name="杭州青少" tvg-logo="https://epg.112114.xyz/logo/杭州少儿.png" group-title="杭州华数.杭州",杭州青少
-http://125.210.150.58:9090/live/hzgq-hzsegq-h264.m3u8
-#EXTINF:-1,tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://epg.112114.xyz/logo/杭州导视.png" group-title="杭州华数.杭州",杭州导视
-http://125.210.150.58:9090/live/hzgq-hzdsgq-h264.m3u8
-#EXTINF:-1,tvg-id="临平新闻" tvg-name="临平新闻" tvg-logo="https://epg.112114.xyz/logo/临平新闻.png" group-title="杭州华数.其他",临平新闻
-http://125.210.150.58:9090/live/hszx-klcd-h264.m3u8
-#EXTINF:-1,tvg-id="华数亚洲影院" tvg-name="华数亚洲影院" tvg-logo="https://epg.112114.xyz/logo/华数亚洲影院.png" group-title="杭州华数.其他",华数频道
-http://125.210.150.58:9090/live/hzgq-hsfwgq-h264.m3u8
-#EXTINF:-1,tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://epg.112114.xyz/logo/天元围棋.png" group-title="杭州华数.其他",天元围棋
-http://125.210.150.58:9090/live/hszx-tywq-h264.m3u8
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="杭州华数.香港",凤凰中文
-http://125.210.150.58:9090/live/hszx-fhzw-h264.m3u8
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="杭州华数.香港",凤凰资讯
-http://125.210.150.58:9090/live/hszx-fhzx-h264.m3u8
-#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.112114.xyz/logo/重温经典.png" group-title="杭州华数.其他",重温经典
-http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_SiHaiDiaoYu_H264_MP2_1900000/1900000/.m3u8
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="杭州华数.其他",金鹰纪实
 http://125.210.150.58:9090/live/hszx-jyjs-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_JinYingJiShi_H264_MP2_1900000/1900000/.m3u8
+#EXTINF:-1,tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://epg.112114.xyz/logo/浙江钱江都市.png" group-title="杭州华数.浙江",浙江钱江
+http://125.210.150.58:9090/live/hzgq-qjpdgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_QianJiangPinDaoHD_H264_MP2_2500000/2500000/.m3u8
+#EXTINF:-1,tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://epg.112114.xyz/logo/浙江经济生活.png" group-title="杭州华数.浙江",浙江经济生活
+http://125.210.150.58:9090/live/hzgq-zjjsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZheJiangJingShiHD_H264_MP2_2500000/2500000/.m3u8
+#EXTINF:-1,tvg-id="浙江教育科技" tvg-name="浙江教育科技" tvg-logo="https://epg.112114.xyz/logo/浙江教育科技.png" group-title="杭州华数.浙江",浙江教育科技
+http://125.210.150.58:9090/live/hzgq-zjjygq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZheJiangJiaoKeYingShiHD_H264_MP2_2500000/2500000/.m3u8
+#EXTINF:-1,tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://epg.112114.xyz/logo/浙江民生休闲.png" group-title="杭州华数.浙江",浙江民生休闲
+http://125.210.150.58:9090/live/hzgq-msxxgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_MinShengXiuXianHD_H264_MP2_2500000/2500000/.m3u8
+#EXTINF:-1,tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://epg.112114.xyz/logo/浙江新闻.png" group-title="杭州华数.浙江",浙江新闻
+http://125.210.150.58:9090/live/hzgq-zjxwgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZheJiangXinWenHD_H264_MP2_2500000/2500000/.m3u8
+#EXTINF:-1,tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://epg.112114.xyz/logo/浙江少儿.png" group-title="杭州华数.浙江",浙江少儿
+http://125.210.150.58:9090/live/hzgq-zjsegq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_ZheJiangShaoErHD_H264_MP2_2500000/2500000/.m3u8
+#EXTINF:-1,tvg-id="浙江好易购" tvg-name="浙江好易购" tvg-logo="https://epg.112114.xyz/logo/浙江好易购.png" group-title="杭州华数.浙江",浙江好易购
+http://125.210.150.58:9090/live/hzgq-hyggq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_HaoYiGouHD_H264_MP2_2500000/2500000/.m3u8
+#EXTINF:-1,tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="https://epg.112114.xyz/logo/杭州综合.png" group-title="杭州华数.杭州",杭州综合
+http://125.210.150.58:9090/live/hzgq-hzzhgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_HangZhouZongHeHD_H264_MP2_2500000/2500000/.m3u8
+#EXTINF:-1,tvg-id="杭州明珠" tvg-name="杭州明珠" tvg-logo="https://epg.112114.xyz/logo/杭州西湖明珠.png" group-title="杭州华数.杭州",杭州明珠
+http://125.210.150.58:9090/live/hzgq-xhmzgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_XiHuMingZhuHD_H264_MP2_2500000/2500000/.m3u8
+#EXTINF:-1,tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="https://epg.112114.xyz/logo/杭州生活.png" group-title="杭州华数.杭州",杭州生活
+http://125.210.150.58:9090/live/hzgq-hzshgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_HangZhouShengHuoHD_H264_MP2_2500000/2500000/.m3u8
+#EXTINF:-1,tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="https://epg.112114.xyz/logo/杭州影视.png" group-title="杭州华数.杭州",杭州影视
+http://125.210.150.58:9090/live/hzgq-hzysgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_HangZhouYingShiHD_H264_MP2_2500000/2500000/.m3u8
+#EXTINF:-1,tvg-id="杭州青少" tvg-name="杭州青少" tvg-logo="https://epg.112114.xyz/logo/杭州少儿.png" group-title="杭州华数.杭州",杭州青少
+http://125.210.150.58:9090/live/hzgq-hzsegq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_HangZhouYaYunPinDaoHD_H264_MP2_2500000/2500000/.m3u8
+#EXTINF:-1,tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://epg.112114.xyz/logo/杭州导视.png" group-title="杭州华数.杭州",杭州导视
+http://125.210.150.58:9090/live/hzgq-hzdsgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_HangZhouDaoShiHD_H264_MP2_2500000/2500000/.m3u8
+#EXTINF:-1,tvg-id="临平新闻" tvg-name="临平新闻" tvg-logo="https://epg.112114.xyz/logo/临平新闻.png" group-title="杭州华数.其他",临平新闻
+http://125.210.150.58:9090/live/hszx-klcd-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_KuaiLeChuiDiao_H264_MP2_1900000/1900000/.m3u8
+#EXTINF:-1,tvg-id="华数亚洲影院" tvg-name="华数亚洲影院" tvg-logo="https://epg.112114.xyz/logo/华数亚洲影院.png" group-title="杭州华数.其他",华数频道
+http://125.210.150.58:9090/live/hzgq-hsfwgq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_HuaShuFuWuHD_H264_MP2_2500000/2500000/.m3u8
+#EXTINF:-1,tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://epg.112114.xyz/logo/天元围棋.png" group-title="杭州华数.其他",天元围棋
+http://125.210.150.58:9090/live/hszx-tywq-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_TianYuanWeiQi_H264_MP2_1900000/1900000/.m3u8
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="杭州华数.香港",凤凰中文
+http://125.210.150.58:9090/live/hszx-fhzw-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_FengHuangZhongWenII_H264_MP2_1900000/1900000/.m3u8
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="杭州华数.香港",凤凰资讯
+http://125.210.150.58:9090/live/hszx-fhzx-h264.m3u8
+http://125.210.150.58:9090/wasu/hzzx_BMH_FengHuangZiXun_H264_MP2_1900000/1900000/.m3u8
 
 
 #EXTINF:-1 ---------------------------------------分割线"测试频道"---------------------------------------------------------------
-#EXTM3U
-#EXTINF:-1,group-title="测试频道",亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-#EXTINF:-1,group-title="测试频道",CNN News
-http://ip2121.com:8081/live/cnn/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",ABC新闻
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-#EXTINF:-1,group-title="测试频道",News Max
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-#EXTINF:-1,group-title="测试频道",半岛电视
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1,group-title="测试频道",朝鲜中央台
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1,group-title="测试频道",국악방송
-http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",NHK World
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1,group-title="测试频道",日·QVC
-http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1,group-title="测试频道",韩·BBS佛教
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-#EXTINF:-1,group-title="测试频道",韩·EBS-1
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-#EXTINF:-1,group-title="测试频道",韩·EBS-1
-http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",韩·EBS-1
-http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1,group-title="测试频道",韩·EBS-2
-http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-#EXTINF:-1,group-title="测试频道",韩·EBS-2
-http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-#EXTINF:-1,group-title="测试频道",韩·EBS少儿
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-#EXTINF:-1,group-title="测试频道",韩·KBC
-http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1,group-title="测试频道",韩·SBS
-http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1,group-title="测试频道",韩·阿里郎
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",韩·阿里郎WORLD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-#EXTINF:-1,group-title="测试频道",韩·HotPlusTV
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",VB
-http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-#EXTINF:-1,group-title="测试频道",俄·IGITV蓝光
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",俄·RBC(Opt-1)[996*560]
-http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1,group-title="测试频道",美·NASA Public Channel
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1,group-title="测试频道",美·NASA Public Channel
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-#EXTINF:-1,group-title="测试频道",美·红牛运动
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1,group-title="测试频道",美·红牛运动
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1,group-title="测试频道",乌·M2音乐
-http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1,group-title="测试频道",西·加利西亚欧洲体育电视台
-http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",希·FoxTV
-http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",越·HBTV
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",越·ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
-#EXTINF:-1,group-title="测试频道",番薯
-http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-#EXTINF:-1,group-title="测试频道",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",耀才财经
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",ABC新闻
-http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-#EXTINF:-1,group-title="测试频道",NewsmaxTV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1,group-title="测试频道",PBSAmerica
-https://pbs-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",moviesphere
-https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",EdgeSport
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",CanadaOne
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",CA
-https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
-#EXTINF:-1,group-title="测试频道",InsightTV
-https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",Astrakhan24(Opt-2)
-http://streaming.astrakhan.ru/astrakhan24/index.m3u8
-#EXTINF:-1,group-title="测试频道",Самара
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",Comedy
-http://51.210.199.27/hls/stream.m3u8
-#EXTINF:-1,group-title="测试频道",Documentary
-http://51.210.199.23/hls/stream.m3u8
-#EXTINF:-1,group-title="测试频道",Family
-http://51.210.199.19/hls/stream.m3u8
-#EXTINF:-1,group-title="测试频道",Iranian
-http://51.210.199.22/hls/stream.m3u8
-#EXTINF:-1,group-title="测试频道",Music
-http://51.210.199.24/hls/stream.m3u8
-#EXTINF:-1,group-title="测试频道",Nostalgia
-http://51.210.199.20/hls/stream.m3u8
-#EXTINF:-1,group-title="测试频道",韩国-KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1,group-title="测试频道",韩国-Arirang
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",韩国-EBS1
-http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",韩国-EBS2
-http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",韩国-EBSe
-http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",韩国-KCTV
-http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-#EXTINF:-1,group-title="测试频道",韩国-NBS
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1,group-title="测试频道",日本购物1
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-#EXTINF:-1,group-title="测试频道",日本Shop Channel
-https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1,group-title="测试频道",长城精品
-http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
-#EXTINF:-1,group-title="测试频道",香港佛陀
-https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-
 
 #EXTINF:-1 ---------------------------------------分割线"日本系列"---------------------------------------------------------------
-#EXTM3U url-tvg="http://epg.ra1n.lol/jp.xml" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="Information" ,We need donations to maintain the host!
-https://google.com
-#EXTINF:-1 group-title="Information" ,Donate: https://ko-fi.com/dinhluong
-http://google.com
-#EXTINF:-1 group-title="Information" ,Test channels are not stable! Report them in Issue if faced any error.
-http://google.com
-
-#Tokyo1
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="日本测试", NHK G 
-https://vnpt.nekocdn.xyz/hls/NHK_G/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhke_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="日本测试", NHK E
-https://vnpt.nekocdn.xyz/hls/NHK_E/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="日本测试", NTV
-https://vnpt.nekocdn.xyz/hls/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="日本测试", TBS 
-https://vnpt.nekocdn.xyz/hls/TBS/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="日本测试", Fuji TV
-https://vnpt.nekocdn.xyz/hls/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png" group-title="日本测试", TV Asahi
-https://vnpt.nekocdn.xyz/hls/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png" group-title="日本测试", TV Tokyo 
-https://vnpt.nekocdn.xyz/hls/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="日本测试", TOKYO MX1
-https://vnpt.nekocdn.xyz/hls/Tokyo_MX1/index.m3u8
-
-
-#Tokyo2
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="日本测试", NHK G 540
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhke_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" group-title="日本测试", NHK E 540
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png" group-title="日本测试", NTV 540
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="日本测试", TBS 540
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="日本测试", Fuji TV 540
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png" group-title="日本测试", TV Asahi 540
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="日本测试", TV Tokyo 540
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="日本测试", TOKYO MX1 540
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
-
-
-#Kansai2
-#EXTINF:-1 group-title="Osaka" tvg-id="mhkg_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="日本测试", NHK G Osaka
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
-#EXTINF:-1 group-title="Osaka" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png" group-title="日本测试", MBS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
-#EXTINF:-1 group-title="Osaka" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="日本测试", ABC
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
-#EXTINF:-1 group-title="Osaka" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png", Kansai TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
-#EXTINF:-1 group-title="Osaka" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="日本测试", Yomiuri TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
-#EXTINF:-1 group-title="Osaka" tvg-id="tv_osaka" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png" group-title="日本测试", TV Osaka
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
-#EXTINF:-1 group-title="Osaka" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png" group-title="日本测试", SUN TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
-
-#BS1
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png" group-title="日本测试", NHK BS
-https://vnpt.nekocdn.xyz/hls/NHK_BS/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png" group-title="日本测试", BS11
-https://vnpt.nekocdn.xyz/hls/BS11/index.m3u8
-#EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png" group-title="日本测试", Animax
-https://vnpt.nekocdn.xyz/hls/Animax/index.m3u8
-
-#BS2
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png" group-title="日本测试", NHK BS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png" group-title="日本测试", NHK BSP 4K
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
-#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png" group-title="日本测试", BS NTV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
-#EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs_asahi.png" group-title="日本测试", BS Asahi  
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
-#EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-tbs-jp.png" group-title="日本测试", BS TBS
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
-#EXTINF:-1 group-title="BS" tvg-id="bs_tvtokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/2560px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png" group-title="日本测试", BS TV Tokyo
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
-#EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-logo="https://www.bsfuji.tv/top/index/img/sns_img.png" group-title="日本测试", BS Fuji HD
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
-#EXTINF:-1 group-title="BS" tvg-id="wowow_prime" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime.png" group-title="日本测试", WOWOW Prime 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
-#EXTINF:-1 group-title="BS" tvg-id="wowow_live" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_live.png" group-title="日本测试", WOWOW Live  
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-#EXTINF:-1 group-title="BS" tvg-id="wowow_cinema" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema.png" group-title="日本测试", WOWOW Cinema
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
-#EXTINF:-1 group-title="BS" tvg-id="star_ch1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png" group-title="日本测试", Star Channel 1  
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
-#EXTINF:-1 group-title="BS" tvg-id="star_ch2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png" group-title="日本测试", Star Channel 2
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
-#EXTINF:-1 group-title="BS" tvg-id="star_ch3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png" group-title="日本测试", Star Channel 3  
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
-#EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png" group-title="日本测试", BS Animax  
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
-#EXTINF:-1 group-title="BS" tvg-id="js1" tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png" group-title="日本测试", J SPORTS 1
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-#EXTINF:-1 group-title="BS" tvg-id="js2" tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png" group-title="日本测试", J SPORTS 2  
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-#EXTINF:-1 group-title="BS" tvg-id="js3" tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png" group-title="日本测试", J SPORTS 3 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-#EXTINF:-1 group-title="BS" tvg-id="js4" tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png" group-title="日本测试", J SPORTS 4
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-#EXTINF:-1 group-title="BS" tvg-id="green_ch" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green_channel_jp.png" group-title="日本测试", Green Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
-#EXTINF:-1 group-title="BS" tvg-id="nihoneiga" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/3/nihon-eiga_logo.jpg" group-title="日本测试", BS Japan Movie Channel  
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
-#EXTINF:-1 group-title="BS" tvg-id="disney_channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png" group-title="日本测试", Disney Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-#EXTINF:-1 group-title="BS" tvg-id="tsuri_vision" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png" group-title="日本测试", Fishing Vision
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
-
-#CS1
-#EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="日本测试", AT-X
-https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="日本测试", AT-X (neetball)
-https://neetball.net/live/neet3.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png" group-title="日本测试", MTV
-https://vnpt.nekocdn.xyz/hls/MTV/index.m3u8
-
-#CS2
-#EXTINF:-1 group-title="CS" tvg-id="jidaigeki" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki.png" group-title="日本测试", Jidaigeki Senmon
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
-#EXTINF:-1 group-title="CS" tvg-id="toei_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png" group-title="日本测试", Toei Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
-#EXTINF:-1 group-title="CS" tvg-id="eigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png" group-title="日本测试", Eisei Gekijo 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
-#EXTINF:-1 group-title="CS" tvg-id="family_geki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png" group-title="日本测试", Family Gekijyo
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
-#EXTINF:-1 group-title="CS" tvg-id="movie_plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png" group-title="日本测试", Movie Plus
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
-#EXTINF:-1 group-title="CS" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png" group-title="日本测试", Home Drama Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
-#EXTINF:-1 group-title="CS" tvg-id="tabich" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png" group-title="日本测试", Tabi Channel
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
-#EXTINF:-1 group-title="CS" tvg-id="fujitv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png" group-title="日本测试", Fuji TV Next
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
-#EXTINF:-1 group-title="CS" tvg-id="sky_a" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png" group-title="日本测试", Sky A  
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
-#EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png" group-title="日本测试", GAORA SPORTS  
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:-1 group-title="CS" tvg-id="golf_network" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png" group-title="日本测试", Golf Network
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
-#EXTINF:-1 group-title="CS" tvg-id="ntv_plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png" group-title="日本测试", Nittele G+
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
-#EXTINF:-1 group-title="CS" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png" group-title="日本测试", Mondo TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
-#EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png" group-title="日本测试", Channel Ginga
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
-#EXTINF:-1 group-title="CS" tvg-id="space_shower" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png" group-title="日本测试", Space Shower TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
-#EXTINF:-1 group-title="CS" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png" group-title="日本测试", Music Japan TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-#EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png" group-title="日本测试", Kayo Pops
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
-#EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png" group-title="日本测试", MTV (2)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-#EXTINF:-1 group-title="CS" tvg-id="lalatv" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lala_tv.png" group-title="日本测试", LaLa TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
-#EXTINF:-1 group-title="CS" tvg-id="skystage" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lala_tv.png" group-title="日本测试", Takarazuka Sky Stage
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
-#EXTINF:-1 group-title="CS" tvg-id="kids_station" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png" group-title="日本测试", Kids Staton TV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
-#EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg" group-title="日本测试", Cartoon Network 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
-#EXTINF:-1 group-title="CS" tvg-id="disney_junior" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="日本测试", Disney Junior
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
-#EXTINF:-1 group-title="CS" tvg-id="discovery" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="日本测试", Discovery Channel  
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
-#EXTINF:-1 group-title="CS" tvg-id="cnnj" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg" group-title="日本测试", CNNj 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-
-#Test-donotcopy
-#EXTINF:-1 group-title="Test" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png" group-title="日本测试", TV Asahi (Not Stable)
-http://pipe.ra1n.lol/joex/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="tuf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tuf_logo.svg/1280px-Tuf_logo.svg.png" group-title="日本测试", TUF (Not Stable)
-http://pipe.ra1n.lol/tuf/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png" group-title="日本测试", BS11 HD (Not Stable)
-http://pipe.ra1n.lol/bs11/index.m3u8
-#EXTINF:-1 group-title="Test" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png" group-title="日本测试", AT-X HD (Not Stable)
-http://pipe.ra1n.lol/at-x/index.m3u8
