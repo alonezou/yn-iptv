@@ -1525,6 +1525,7 @@ http://125.210.150.58:9090/wasu/hzzx_BMH_QingHaiWeiShi_H264_MP2_1900000/1900000/
 http://125.210.150.58:9090/live/hszx-sxtv-h264.m3u8
 http://125.210.150.58:9090/wasu/hzzx_BMH_ShanXiWeiShi_H264_MP2_1900000/1900000/.m3u8
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="杭州华数.卫视",河北卫视
+http://125.210.150.58:9090/live/hzgq-hebeiwsgq-h264.m3u8
 http://125.210.150.58:9090/live/hszx-hebeitv-h264.m3u8
 http://125.210.150.58:9090/wasu/hzzx_BMH_HeBeiWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="杭州华数.卫视",山西卫视
@@ -1537,6 +1538,7 @@ http://125.210.150.58:9090/wasu/hzzx_BMH_ShanDongWeiShiHD_H264_MP2_2500000/25000
 http://125.210.150.58:9090/live/hzgq-ahwsgq-h264.m3u8
 http://125.210.150.58:9090/wasu/hzzx_BMH_AnHuiWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="杭州华数.卫视",河南卫视
+http://125.210.150.58:9090/live/hzgq-henangq-h264.m3u8
 http://125.210.150.58:9090/live/hszx-henantv-h264.m3u8
 http://125.210.150.58:9090/wasu/hzzx_BMH_HeNanWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="杭州华数.卫视",湖北卫视
@@ -1564,9 +1566,11 @@ http://125.210.150.58:9090/wasu/hzzx_BMH_GuangDongWeiShiHD_H264_MP2_2500000/2500
 http://125.210.150.58:9090/live/hzgq-szwsgq-h264.m3u8
 http://125.210.150.58:9090/wasu/hzzx_BMH_ShenZhenWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="杭州华数.卫视",广西卫视
+http://125.210.150.58:9090/live/hzgq-gxtvgq-h264.m3u8
 http://125.210.150.58:9090/live/hszx-gxtv-h264.m3u8
 http://125.210.150.58:9090/wasu/hzzx_BMH_GuangXiWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="杭州华数.卫视",云南卫视
+http://125.210.150.58:9090/live/hzgq-ynwsgq-h264.m3u8
 http://125.210.150.58:9090/live/hszx-yntv-h264.m3u8
 http://125.210.150.58:9090/wasu/hzzx_BMH_YunNanWeiShiHD_H264_MP2_2500000/2500000/.m3u8
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="杭州华数.卫视",贵州卫视
