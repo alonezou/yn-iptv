@@ -595,46 +595,46 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/南国都市.png" group-title="广东"，南国都市
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建综合.png" group-title="福建",福建综合
-https://itv.lat/tv/live.php?&line=1&id=fjzh
+
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建新闻.png" group-title="福建",福建新闻
-https://itv.lat/tv/live.php?&line=1&id=fjxw
+
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建电视剧.png" group-title="福建",福建电视剧
-https://itv.lat/tv/live.php?&line=1&id=fjdsj
+
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建文体.png" group-title="福建",福建文体
-https://itv.lat/tv/live.php?&line=1&id=fjwt
+
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建少儿.png" group-title="福建",福建少儿
-https://itv.lat/tv/live.php?&line=1&id=fjse
+
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建旅游.png" group-title="福建",福建旅游
-https://itv.lat/tv/live.php?&line=1&id=fjly
+
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建经济.png" group-title="福建",福建经济
-https://itv.lat/tv/live.php?&line=1&id=fjjj
+
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建公共.png" group-title="福建",福建公共
-https://itv.lat/tv/live.php?&line=1&id=fjgg
+
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建教育.png" group-title="福建",福建教育
-https://itv.lat/tv/live.php?&line=1&id=fjjy
+
 
 
 #EXTM3U
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="江西",江西卫视
-http://183.204.13.195/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/live/tv_jxtv1.m3u8
+
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西都市.png" group-title="江西",江西都市
-http://183.204.13.195/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/live/tv_jxtv2.m3u8
+
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西经济生活.png" group-title="江西",江西经视
-http://183.204.13.195/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/liveve/tv_jxtv3_hd.m3u8
+
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西影视旅游.png" group-title="江西",江西影视
-http://183.204.13.195/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/live/tv_jxtv4.m3u8
+
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西公共农业.png" group-title="江西",江西公共
-http://183.204.13.195/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/live/tv_jxtv5.m3u8
+
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西少儿.png" group-title="江西",江西少儿
-http://183.204.13.195/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/live/tv_jxtv6.m3u8
+
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西新闻.png" group-title="江西",江西新闻
-http://183.204.13.195/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/live/tv_jxtv7.m3u8
+
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西移动.png" group-title="江西",江西移动
-http://183.204.13.195/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/live/tv_jxtv8.m3u8
+
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/风尚购物.png" group-title="江西",风尚购物
-http://183.204.13.195/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/live/tv_fsgw.m3u8
+
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/陶瓷.png" group-title="江西",陶瓷频道
-http://183.204.13.195/mmst.v.smtcdns.net/yun-live.jxtvcn.com.cn/live/tv_taoci.m3u8
+
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/新海南.png" group-title="海南",新海南
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010090/1.m3u8
@@ -784,7 +784,7 @@ http://112.19.171.156:9999/udp/239.93.0.118:2191
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://www.cdtriot.cn:9999/udp/239.93.0.162:2191
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
-http://103.95.24.37:880/fhzx.m3u8
+http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://proxy.dfkj.live/alitv.php?u=min&id=6
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
