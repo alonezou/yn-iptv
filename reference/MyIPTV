@@ -5494,7 +5494,8 @@ http://portal.ott.pink/watch/7418/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B3
 https://player.smotrim.ru/iframe/stream/live_id/63250
 
 #EXTINF:-1 ---------------------------------------分割线"江苏移动IPV6"---------------------------------------------------------------
-CCTV1,rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv1_CR
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1
+rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv1_CR
 CCTV2,rtsp://[2409:8087:2001:20:2800:0:df6e:eb1a]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv2_CR
 CCTV3,rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv3_CR
 CCTV4,rtsp://[2409:8087:2001:20:2800:0:df6e:eb18]:554/ott.mobaibox.com/000000400000001/H265_8000k_1080P_cctv4_CR
