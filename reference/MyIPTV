@@ -963,6 +963,8 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjjsjfwdtn
 http://ali.hlspull.yximgs.com/live/twlivezpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32.flv
 #EXTINF:-1 group-title="港澳台" tvg-name="RTHK32" tvg-logo="https://live.zhoujie218.top/taibiao/RTHK32.png",RTHK32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1 group-title="港澳台" tvg-name="RTHK32" tvg-logo="https://epg.112114.xyz/logo/RTHK33.png",RTHK33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 
 
 
