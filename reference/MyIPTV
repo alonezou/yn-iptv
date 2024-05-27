@@ -143,6 +143,13 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="央视",中国天气
 
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="CETV",CETV-1
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="CETV",CETV-2
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="CETV",CETV-4
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳卫视"---------------------------------------------------------------
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视
