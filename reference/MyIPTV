@@ -636,6 +636,10 @@ http://116.162.6.191/yun-live.jxtvcn.com.cn/live/tv_fsgw.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/陶瓷.png" group-title="江西",陶瓷频道
 http://116.162.6.191/yun-live.jxtvcn.com.cn/live/tv_taoci.m3u8
 
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="海南",海南卫视
+http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000262/1.m3u8
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="海南",海南卫视
+http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/新海南.png" group-title="海南",新海南
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010090/1.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/海南自贸.png" group-title="海南",海南自贸 
@@ -648,6 +652,26 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/ind
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/海南公共.png" group-title="海南",海南公共
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
+#EXTINF:-1,tvg-id="海南经济" tvg-name="海南经济" tvg-logo="https://epg.112114.xyz/logo/海南经济.png" group-title="海南",海南经济
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000011/index.m3u8?IAS
+#EXTINF:-1,tvg-id="海南经济" tvg-name="海南经济" tvg-logo="https://epg.112114.xyz/logo/海南经济.png" group-title="海南",海南经济
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000011/index.m3u8?IAS
+#EXTINF:-1,tvg-id="海南经济" tvg-name="海南经济" tvg-logo="https://epg.112114.xyz/logo/海南经济.png" group-title="海南",海南经济
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000011/index.m3u8?IAS
+#EXTINF:-1,tvg-id="海南视听" tvg-name="海南视听" tvg-logo="https://epg.112114.xyz/logo/海南视听.png" group-title="海南",海南视听
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000180/index.m3u8?IAS
+#EXTINF:-1,tvg-id="海南视听" tvg-name="海南视听" tvg-logo="https://epg.112114.xyz/logo/海南视听.png" group-title="海南",海南视听
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000198/index.m3u8?IAS
+#EXTINF:-1,tvg-id="海南视听" tvg-name="海南视听" tvg-logo="https://epg.112114.xyz/logo/海南视听.png" group-title="海南",海南视听
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000180/index.m3u8?IAS
+#EXTINF:-1,tvg-id="海南海口" tvg-name="海南海口" tvg-logo="https://epg.112114.xyz/logo/海南海口.png" group-title="海南",海南海口
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000133/index.m3u8?IAS
+#EXTINF:-1,tvg-id="海南海口" tvg-name="海南海口" tvg-logo="https://epg.112114.xyz/logo/海南海口.png" group-title="海南",海南海口
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000133/index.m3u8?IAS
+#EXTINF:-1,tvg-id="海南海口" tvg-name="海南海口" tvg-logo="https://epg.112114.xyz/logo/海南海口.png" group-title="海南",海南海口
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000133/index.m3u8?IAS
+#EXTINF:-1,tvg-id="海南海口" tvg-name="海南海口" tvg-logo="https://epg.112114.xyz/logo/海南海口.png" group-title="海南",海南海口
+http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000133/index.m3u8?IAS
 
 #EXTINF:-1 ---------------------------------------分割线"求索系列"---------------------------------------------------------------
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="求索系列",求索记录
@@ -782,7 +806,7 @@ http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://112.19.171.156:9999/udp/239.93.0.118:2191
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
-http://www.cdtriot.cn:9999/udp/239.93.0.162:2191
+http://www.cdtriot.cn:9999/udp/239.93.0.118:2191
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
@@ -796,7 +820,7 @@ http://112.19.171.156:9999/udp/239.93.0.162:2192
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
 http://www.cdtriot.cn:9999/udp/239.93.0.162:2192
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
-https://epg.pw/stream/2cd8b0d0e8b7bda9c76ae4e0d554782532055b48e88e266f743eaa21ca7e44e0.m3u8
+http://www.cdtriot.cn:9999/udp/239.93.0.162:2192
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
 http://103.95.24.37:880/fhxgt.m3u8
