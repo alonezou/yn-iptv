@@ -711,9 +711,9 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m
 
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/1905.png" group-title="CHC系列",1905国外 V4
-
+http://xxw.me0.cn/1905dy.php?id=1905a
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/1905.png" group-title="CHC系列",国内1905 V4
-
+http://xxw.me0.cn/1905dy.php?id=1905b
 
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳4K/8K"---------------------------------------------------------------
 
