@@ -22,6 +22,8 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4 
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000037BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfH0ZQXwaiVktPr6ILPKXqwOUC2ZXft7ZULN6h9qLQPFOTSlVTfophiKaMb8h1kPV74
 
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CCTV4美洲.png" group-title="央视",CCTV4 美洲V4
+https://hc73k3dhwo5gfkt.wcetv.com/hls/wcetv318.m3u8
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5 
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
@@ -91,6 +93,8 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaz%2FyAI9to%2FMBBt%2FivcdSfljJ1%2FqqamWUjAiBAxNssfyBlZUDSXAIMtStS86hRHFuJM
 
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTNV4 
+https://hc73k3dhwo5gfkt.wcetv.com/hls/cgtn.m3u8 CGTN
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859LkHVEKIeieCbU4HUV%2BZ9aFwSHAnd8F70VqU6TYif81mMC79YJ%2BEEiYI8DYDTaxhzE
 
@@ -100,12 +104,18 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CGTN俄语.png" group-title="央视",CGTN俄语
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaSsNLt4Nk6r4W9qq%2FCDwVBpu%2Bd8oi%2FZBV7QZaH2nvMDC8YfPqSjgvIu0Auay5DY5x%2FNqUGittSlgAuOf2q3Hqw
 
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语V4
+https://hc73k3dhwo5gfkt.wcetv.com/hls/cgtnf.m3u8 cgtnf
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CGTN法语.png" group-title="央视",CGTN法语
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859Jl30zDhWOxOChfz6zZGXm5AxEG2nM0jV%2Bz98DG%2B3LggHigAvzizwxj%2BnU8zoIJ5eI
 
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录V4
+https://hc73k3dhwo5gfkt.wcetv.com/hls/cgtnd.m3u8 cgtnjl
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CGTN纪录.png" group-title="央视",CGTN纪录
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSaCqIIft58cZ4PZIJmJQKDE%2BhMJnrkAZeCJCdRJXvlspyKifC5nxyZPvhyagt5zUWfqOxoNjmqM5FCfJztd4V4
 
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西班牙语V4
+https://hc73k3dhwo5gfkt.wcetv.com/hls/cgtne.m3u8 cgtne
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CGTN西语.png" group-title="央视",CGTN西班牙语
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUap6gG4YPDtM5jJ9BeY859LpCL6J7ZtZvSzaGNoejhX%2FbNh%2FUg28dwPszgBZkEAMg2VxNQuvSmdjhzvIIS4yJP4
 
@@ -403,9 +413,11 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN160782BESTVSMGSMG9/in
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="卫视",延边卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视",大湾区卫视V4
+https://hc73k3dhwo5gfkt.wcetv.com/hls/gdtv.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
-http://66.165.240.154:8080/live/tytvbs11/hls.m3u8
+
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/安多卫视.png" group-title="卫视",安多卫视
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视",厦门卫视
@@ -970,7 +982,8 @@ http://ali.hlspull.yximgs.com/live/twlivezpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz3
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="RTHK32" tvg-logo="https://epg.112114.xyz/logo/RTHK33.png",RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-
+#EXTINF:-1 group-title="港澳台" tvg-name="" tvg-logo="",台视新闻
+https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 
 
 #EXTINF:-1,---------------------------------------分割线"🇨🇳SiTV系列"---------------------------------------------------------------
