@@ -985,6 +985,38 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPla
 #EXTINF:-1 group-title="港澳台" tvg-name="" tvg-logo="",台视新闻
 https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS HD
+
+#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="港澳台",TVBS新闻
+
+#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="其他",中天新闻
+http://gigs1.micar.me:8900/live.m3u8?c=7
+#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台视新闻
+http://gigs1.micar.me:8900/live.m3u8?c=10
+#EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="港澳台",中视新闻
+http://gigs1.micar.me:8900/live.m3u8?c=14
+#EXTINF:-1,tvg-id="三立海外" tvg-name="三立海外" tvg-logo="https://epg.112114.xyz/logo/三立海外.png" group-title="其他",三立海外
+
+#EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="其他",三立新闻
+http://gigs1.micar.me:8900/live.m3u8?c=9
+#EXTINF:-1,tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="其他",镜新闻
+http://gigs1.micar.me:8900/live.m3u8?c=16
+#EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="港澳台",民视新闻
+http://gigs1.micar.me:8900/live.m3u8?c=11
+#EXTINF:-1,tvg-id="台湾PLUS+" tvg-name="台湾PLUS+" tvg-logo="https://epg.112114.xyz/logo/台湾PLUS+.png" group-title="台湾",台湾PLUS+
+
+#EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS NEWS
+http://gigs1.micar.me:8900/live.m3u8?c=8
+#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视经典综艺
+
+#EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="港澳台",东森新闻
+http://gigs1.micar.me:8900/live.m3u8?c=12
+#EXTINF:-1,tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" group-title="其他",寰宇新聞
+http://gigs1.micar.me:8900/live.m3u8?c=6
+#EXTINF:-1,tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" group-title="其他",寰宇新聞
+http://gigs1.micar.me:8900/live.m3u8?c=15
+
+
 
 #EXTINF:-1,---------------------------------------分割线"🇨🇳SiTV系列"---------------------------------------------------------------
 
