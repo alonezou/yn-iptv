@@ -852,53 +852,6 @@ http://zsntlqj.xicp.net:8896/bysid/83
 http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻
 http://137.175.30.127:9080/hls/inews.m3u8
-
-
-
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰中文" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰中文.png",凤凰中文
-http://118.254.158.105:8888/udp/239.76.246.134:1234
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰资讯.png",凤凰资讯
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰资讯.png",凤凰资讯
-http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰资讯.png",凤凰资讯
-https://edge2.laotv.la/live/PhoenixNews/index.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰资讯.png",凤凰资讯
-http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰资讯.png",凤凰资讯
-http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰资讯.png",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰资讯.png",凤凰资讯
-https://ktpremium.com:443/M919HR/5577/492399?c=
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰资讯.png",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8?zgangd
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰资讯" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰资讯.png",凤凰资讯
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰香港.png",凤凰香港
-http://113.64.145.61:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰香港.png",凤凰香港
-http://113.64.145.91:8081/hls/38/index.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰香港.png",凤凰香港
-http://60.164.229.241:4040/udp/239.255.30.123:8231
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰香港.png",凤凰香港
-http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰香港.png",凤凰香港
-https://ktpremium.com:443/M919HR/5577/492400?c=
-#EXTINF:-1 group-title="港澳台" tvg-name="凤凰香港" tvg-logo="https://live.zhoujie218.top/taibiao/凤凰香港.png",凤凰香港
-https://ktpremium.com:443/K3939/6757/492400
-#EXTINF:-1 group-title="港澳台" tvg-name="香港卫视" tvg-logo="https://live.zhoujie218.top/taibiao/香港卫视.png",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 group-title="港澳台" tvg-name="香港卫视" tvg-logo="https://live.zhoujie218.top/taibiao/香港卫视.png",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="香港卫视" tvg-logo="https://live.zhoujie218.top/taibiao/香港卫视.png",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
-#EXTINF:-1 group-title="港澳台" tvg-name="香港卫视" tvg-logo="https://live.zhoujie218.top/taibiao/香港卫视.png",香港卫视
-https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="香港卫视" tvg-logo="https://live.zhoujie218.top/taibiao/香港卫视.png",香港卫视
-http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-name="香港卫视" tvg-logo="https://live.zhoujie218.top/taibiao/香港卫视.png",香港卫视
-https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="无线新闻" tvg-logo="https://live.zhoujie218.top/taibiao/无线新闻.png",无线新闻
 http://66.165.240.154:8080/live/TVBtyzxt1/hls.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-name="无线新闻" tvg-logo="https://live.zhoujie218.top/taibiao/无线新闻.png",无线新闻
