@@ -1579,6 +1579,230 @@ http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52003/
 http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52002/2300.m3u8
 
 
-#EXTINF:-1 ---------------------------------------分割线"测试频道"---------------------------------------------------------------
-
+#EXTINF:-1 ---------------------------------------分割线"浙江移动测试频道"---------------------------------------------------------------
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV1.png" group-title="浙江移动.央视",CCTV-1 综合 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV2"tvg-logo="https://itv-tb.myukj.cn/tv/CCTV2.png" group-title="浙江移动.央视",CCTV-2 财经 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV3.png" group-title="浙江移动.央视",CCTV-3 综艺 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236284/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV4.png" group-title="浙江移动.央视",CCTV-4 中文国际 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229749/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV4欧洲.png" group-title="浙江移动.央视",CCTV-4 中文国际 欧洲 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236378/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV4美洲.png" group-title="浙江移动.央视",CCTV-4 中文国际 美洲 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236335/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV5.png" group-title="浙江移动.央视",CCTV-5 体育 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232648/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV5+.png" group-title="浙江移动.央视",CCTV-5+ 体育赛事 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229684/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV6.png" group-title="浙江移动.央视",CCTV-6 电影 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236294/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV7.png" group-title="浙江移动.央视",CCTV-7 国防军事 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228330/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV8.png" group-title="浙江移动.央视",CCTV-8 电视剧 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232645/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV9.png" group-title="浙江移动.央视",CCTV-9 记录 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228342/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV10.png" group-title="浙江移动.央视",CCTV-10 科技 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228327/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV11.png" group-title="浙江移动.央视",CCTV-11 戏曲 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232449/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV12.png" group-title="浙江移动.央视",CCTV-12 社会与法 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228312/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV13.png" group-title="浙江移动.央视",CCTV-13 新闻 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231193/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV14.png" group-title="浙江移动.央视",CCTV-14 少儿 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228335/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV15.png" group-title="浙江移动.央视",CCTV-15 音乐 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232504/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV16.png" group-title="浙江移动.央视",CCTV-16 奥林匹克 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232705/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV17.png" group-title="浙江移动.央视",CCTV-17 农业农村 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV4K.png" group-title="浙江移动.央视",CCTV 4K 超高清
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV8K.png" group-title="浙江移动.央视",CCTV 8K 超高清
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236272/index.m3u8
+#EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://itv-tb.myukj.cn/tv/CCTV高尔夫网球.png" group-title="浙江移动.央视",CCTV 高尔夫·网球 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="HZTV1" tvg-logo="https://itv-tb.myukj.cn/tv/HZTV-1.png" group-title="浙江移动.地方台",湖州TV-1 新闻综合 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235527/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="HZTV2" tvg-logo="https://itv-tb.myukj.cn/tv/HZTV-2.png" group-title="浙江移动.地方台",湖州TV-2 文化娱乐 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235529/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="HZTV3" tvg-logo="https://itv-tb.myukj.cn/tv/HZTV-3.png" group-title="浙江移动.地方台",湖州TV-3 公共频道 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235526/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="JHTV1" tvg-logo="https://itv-tb.myukj.cn/tv/JHTV-1.png" group-title="浙江移动.地方台",金华TV-1 新闻综合 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234612/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="JHTV2" tvg-logo="https://itv-tb.myukj.cn/tv/JHTV-2.png" group-title="浙江移动.地方台",金华TV-2 教育科技 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234568/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="JHTV3" tvg-logo="https://itv-tb.myukj.cn/tv/JHTV-3.png" group-title="浙江移动.地方台",金华TV-3 公共频道 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234615/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="JXTV1" tvg-logo="https://itv-tb.myukj.cn/tv/JXTV1.png" group-title="浙江移动.地方台",嘉兴TV-1 新闻综合 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235458/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="JXTV2" tvg-logo="https://itv-tb.myukj.cn/tv/JXTV2.png" group-title="浙江移动.地方台",嘉兴TV-2 文化影视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235447/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="JXTV3" tvg-logo="https://itv-tb.myukj.cn/tv/JXTV3.png" group-title="浙江移动.地方台",嘉兴TV-3 公共频道 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235460/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="ZSTV1" tvg-logo="https://itv-tb.myukj.cn/tv/ZSTV1.png" group-title="浙江移动.地方台",舟山TV-1 新闻综合 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235449/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="ZSTV2" tvg-logo="https://itv-tb.myukj.cn/tv/ZSTV2.png" group-title="浙江移动.地方台",舟山TV-2 公共频道 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235445/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="LSTV1" tvg-logo="https://itv-tb.myukj.cn/tv/LSTV1.png" group-title="浙江移动.地方台",丽水TV-1 新闻综合 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235528/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="LSTV2" tvg-logo="https://itv-tb.myukj.cn/tv/LSTV2.png" group-title="浙江移动.地方台",丽水TV-2 丽水公共 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235525/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="LSTV3" tvg-logo="https://itv-tb.myukj.cn/tv/LSTV3.png" group-title="浙江移动.地方台",丽水TV-3 文化休闲 HD
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://itv-tb.myukj.cn/tv/浙江卫视.png" group-title="浙江移动.浙江",浙江卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236237/index.m3u8
+#EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://itv-tb.myukj.cn/tv/浙江钱江都市.png" group-title="浙江移动.浙江",浙江钱江都市 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="https://itv-tb.myukj.cn/tv/浙江经济生活.png" group-title="浙江移动.浙江",浙江经济生活 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233008/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="https://itv-tb.myukj.cn/tv/浙江科教影视.png" group-title="浙江移动.浙江",浙江科教影视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233002/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="浙江民生" tvg-logo="https://itv-tb.myukj.cn/tv/浙江民生休闲.png" group-title="浙江移动.浙江",浙江民生休闲 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="浙江公共新闻" tvg-logo="https://itv-tb.myukj.cn/tv/浙江公共新闻.png" group-title="浙江移动.浙江",浙江公共新闻 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://itv-tb.myukj.cn/tv/浙江少儿.png" group-title="浙江移动.浙江",浙江少儿 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://itv-tb.myukj.cn/tv/江苏卫视.png" group-title="浙江移动.卫视",江苏卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228351/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://itv-tb.myukj.cn/tv/东方卫视.png" group-title="浙江移动.卫视",东方卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228354/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://itv-tb.myukj.cn/tv/欢笑剧场.png" group-title="浙江移动.上海",欢笑剧场 4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://itv-tb.myukj.cn/tv/都市剧场.png" group-title="浙江移动.上海",都市剧场 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://itv-tb.myukj.cn/tv/湖南卫视.png" group-title="浙江移动.卫视",湖南卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228336/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://itv-tb.myukj.cn/tv/北京卫视.png" group-title="浙江移动.卫视",北京卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://itv-tb.myukj.cn/tv/安徽卫视.png" group-title="浙江移动.卫视",安徽卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228332/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://itv-tb.myukj.cn/tv/山东卫视.png" group-title="浙江移动.卫视",山东卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228308/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://itv-tb.myukj.cn/tv/深圳卫视.png" group-title="浙江移动.卫视",深圳卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228314/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://itv-tb.myukj.cn/tv/河南卫视.png" group-title="浙江移动.卫视",河南卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236218/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://itv-tb.myukj.cn/tv/东南卫视.png" group-title="浙江移动.卫视",东南卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236151/index.m3u8
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://itv-tb.myukj.cn/tv/海峡卫视.png" group-title="浙江移动.卫视",海峡卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236416/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://itv-tb.myukj.cn/tv/贵州卫视.png" group-title="浙江移动.卫视",贵州卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236236/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://itv-tb.myukj.cn/tv/湖北卫视.png" group-title="浙江移动.卫视",湖北卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228357/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://itv-tb.myukj.cn/tv/广东卫视.png" group-title="浙江移动.卫视",广东卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236262/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://itv-tb.myukj.cn/tv/广西卫视.png" group-title="浙江移动.卫视",广西卫视  HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236263/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://itv-tb.myukj.cn/tv/天津卫视.png" group-title="浙江移动.卫视",天津卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228320/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://itv-tb.myukj.cn/tv/重庆卫视.png" group-title="浙江移动.卫视",重庆卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232642/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://itv-tb.myukj.cn/tv/辽宁卫视.png" group-title="浙江移动.卫视",辽宁卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236161/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://itv-tb.myukj.cn/tv/吉林卫视.png" group-title="浙江移动.卫视",吉林卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236268/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://itv-tb.myukj.cn/tv/黑龙江卫视.png" group-title=浙江移动.卫视",黑龙江卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228302/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://itv-tb.myukj.cn/tv/江西卫视.png" group-title="浙江移动.卫视",江西卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230667/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://itv-tb.myukj.cn/tv/河北卫视.png" group-title="浙江移动.卫视",河北卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236242/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://itv-tb.myukj.cn/tv/四川卫视.png" group-title="浙江移动.卫视",四川卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236255/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://itv-tb.myukj.cn/tv/云南卫视.png" group-title="浙江移动.卫视",云南卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236234/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://itv-tb.myukj.cn/tv/甘肃卫视.png" group-title="浙江移动.卫视",甘肃卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236201/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://itv-tb.myukj.cn/tv/海南卫视.png" group-title="浙江移动.卫视",海南卫视 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232687/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://itv-tb.myukj.cn/tv/凤凰卫视中文台.png" group-title="浙江移动.香港",凤凰卫视中文台 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://itv-tb.myukj.cn/tv/凤凰卫视资讯台.png" group-title="浙江移动.香港",凤凰卫视资讯台 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://itv-tb.myukj.cn/tv/游戏风云.png" group-title="浙江移动.娱乐",游戏风云 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229320/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="IHOT爱赛车" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱赛车.png" group-title="浙江移动.IHOT",IHOT爱赛车 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
+#EXTINF:-1 tvg-name="IHOT爱旅行" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱旅行.png" group-title="浙江移动.IHOT",IHOT爱旅行 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+#EXTINF:-1 tvg-name="IHOT爱悬疑" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱悬疑.png" group-title="浙江移动.IHOT",IHOT爱悬疑 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/index.m3u8
+#EXTINF:-1 tvg-name="IHOT爱体育" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱体育.png" group-title="浙江移动.IHOT",IHOT爱体育 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230103/index.m3u8
+#EXTINF:-1 tvg-name="IHOT爱历史" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱历史.png" group-title="浙江移动.IHOT",IHOT爱历史 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/index.m3u8
+#EXTINF:-1 tvg-name="IHOT爱谍战" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱谍战.png" group-title="浙江移动.IHOT",IHOT爱谍战 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
+#EXTINF:-1 tvg-name="IHOT爱喜剧" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱喜剧.png" group-title="浙江移动.IHOT",IHOT爱喜剧 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="IHOT爱浪漫" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱浪漫.png" group-title="浙江移动.IHOT",IHOT爱浪漫 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="IHOT爱院线" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱院线.png" group-title="浙江移动.IHOT",IHOT爱院线 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="IHOT爱科幻" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱科幻.png" group-title="浙江移动.IHOT",IHOT爱科幻 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="IHOT爱动漫" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱动漫.png" group-title="浙江移动.IHOT",IHOT爱动漫 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235628/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="IHOT爱奇谈" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱奇谈.png" group-title="浙江移动.IHOT",IHOT爱奇谈 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235605/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="IHOT爱科学" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱科学.png" group-title="浙江移动.IHOT",IHOT爱科学 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235603/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="IHOT爱幼教" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱幼教.png" group-title="浙江移动.IHOT",IHOT爱幼教 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235622/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="IHOT爱玩具" tvg-logo="https://itv-tb.myukj.cn/tv/IHOT爱玩具.png" group-title="浙江移动.IHOT",IHOT爱玩具 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235626/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV精品大剧.png" group-title="浙江移动.NewTV",NewTV精品大剧 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236239/index.m3u8
+#EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV精品体育.png" group-title="浙江移动.NewTV",NewTV精品体育 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/index.m3u8
+#EXTINF:-1 tvg-name="NewTV精品记录" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV精品记录.png" group-title="浙江移动.NewTV",NewTV精品记录 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236276/index.m3u8
+#EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV潮妈辣婆.png" group-title="浙江移动.NewTV",NewTV潮妈辣婆 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236167/index.m3u8
+#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV惊悚悬疑.png" group-title="浙江移动.NewTV",NewTV惊悚悬疑 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236223/index.m3u8
+#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV中国功夫.png" group-title="浙江移动.NewTV",NewTV中国功夫 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236267/index.m3u8
+#EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV爱情喜剧.png" group-title="浙江移动.NewTV",NewTV爱情喜剧 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236179/index.m3u8
+#EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV欢乐剧场.png" group-title="浙江移动.NewTV",NewTV欢乐剧场 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236173/index.m3u8
+#EXTINF:-1 tvg-name="NewTV动作电影" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV动作电影.png" group-title="浙江移动.NewTV",NewTV动作电影 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/index.m3u8
+#EXTINF:-1 tvg-name="NewTV金牌综艺" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV金牌综艺.png" group-title="浙江移动.NewTV",NewTV金牌综艺 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236282/index.m3u8
+#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV古装剧场.png" group-title="浙江移动.NewTV",NewTV古装剧场 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236240/index.m3u8
+#EXTINF:-1 tvg-name="NewTV军事评论" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV军事评论.png" group-title="浙江移动.NewTV",NewTV军事评论 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236155/index.m3u8
+#EXTINF:-1 tvg-name="NewTV农业致富" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV农业致富.png" group-title="浙江移动.NewTV",NewTV农业致富 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236233/index.m3u8
+#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV军旅剧场.png" group-title="浙江移动.NewTV",NewTV军旅剧场 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236278/index.m3u8
+#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV家庭剧场.png" group-title="浙江移动.NewTV",NewTV家庭剧场 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236206/index.m3u8
+#EXTINF:-1 tvg-name="NewTV炫舞未来" tvg-logo="https://itv-tb.myukj.cn/tv/NewTV炫舞未来.png" group-title="浙江移动.NewTV",NewTV炫舞未来 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236230/index.m3u8
+#EXTINF:-1 tvg-name="哒啵赛事" tvg-logo="https://itv-tb.myukj.cn/tv/哒啵赛事.png" group-title="浙江移动.娱乐",哒啵赛事 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236207/index.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://itv-tb.myukj.cn/tv/黑莓动画.png" group-title="浙江移动.娱乐",黑莓动画  HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236261/index.m3u8
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://itv-tb.myukj.cn/tv/黑莓电影.png" group-title="浙江移动.娱乐",黑莓电影  HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236248/index.m3u8
+#EXTINF:-1 tvg-name="Y+" tvg-logo="https://itv-tb.myukj.cn/tv/Y+.png" group-title="浙江移动.娱乐",Y+ HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://itv-tb.myukj.cn/tv/重温经典.png" group-title="浙江移动.娱乐",重温经典 HD
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://itv-tb.myukj.cn/tv/咪咕视频.png" group-title="浙江移动.咪咕",咪咕综合体育
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235583/index.m3u8
+#EXTINF:-1 tvg-name="求索记录" tvg-logo="https://itv-tb.myukj.cn/tv/求索记录.png" group-title="浙江移动.数字频道",求索记录 4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="电源" tvg-logo="https://itv-tb.myukj.cn/tv/电源.png" group-title="浙江移动.轮播",轮播
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236204/index.m3u8
 
