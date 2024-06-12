@@ -495,21 +495,23 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000090/index.m3u8?
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/冬奥纪实.png" group-title="北京",北京冬奥纪实 
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="北京",北京卫视 
-
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1718192180&sign=665572eff10460a6c03b4c7e3b3c1de2
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="北京",北京文艺
-
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1718192141&sign=f66a4aa49e252f767a5e367d64394187
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="北京",北京纪实科教8K 
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="北京",北京纪实科教
-
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1718192214&sign=f3790a5984cc319257ba4f0b038bc089
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="北京",北京影视
-
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1718192299&sign=5930bdf50a96609f8bb179ae8d46989d
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="北京",北京财经 
-
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1718192395&sign=2bda4593b9b8c22e040a773db0db2ebb
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="北京",北京生活
 
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="北京",北京新闻 
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="北京",北京新闻
 
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="北京",卡酷少儿
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1718191150&sign=05a7a0b0ccb6b421694b60aea256506b
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="北京",卡酷少儿
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="北京",卡酷少儿
@@ -631,8 +633,18 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010108/1.m3u8
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建公共.png" group-title="福建",福建公共
 
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/福建教育.png" group-title="福建",福建教育
-
+#EXTINF:-1,tvg-logo="https://itv-tb.myukj.cn/tv/成都新闻综合.png" group-title="四川",成都新闻综合
+http://tv.myukj.cn/cdtv.php?id=sccdtv1
+#EXTINF:-1,tvg-logo="https://itv-tb.myukj.cn/tv/成都经济资讯.png" group-title="四川",成都经济资讯
+http://tv.myukj.cn/cdtv.php?id=sccdtv2
+#EXTINF:-1,tvg-logo="https://itv-tb.myukj.cn/tv/成都都市生活.png" group-title="四川",成都都市生活
+http://tv.myukj.cn/cdtv.php?id=sccdtv3
+#EXTINF:-1,tvg-logo="https://itv-tb.myukj.cn/tv/成都影视文艺.png" group-title="四川",成都影视文艺
+http://tv.myukj.cn/cdtv.php?id=sccdtv4
+#EXTINF:-1,tvg-logo="https://itv-tb.myukj.cn/tv/成都公共.png" group-title="四川",成都公共
+http://tv.myukj.cn/cdtv.php?id=sccdtv5
+#EXTINF:-1,tvg-logo="https://itv-tb.myukj.cn/tv/成都少儿.png" group-title="四川",成都少儿
+http://tv.myukj.cn/cdtv.php?id=sccdtv6
 
 
 #EXTM3U
