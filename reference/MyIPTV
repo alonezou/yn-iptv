@@ -578,6 +578,35 @@ http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/杭州少儿.png" group-title="浙江",杭州青少体育  
 
+#EXTINF:-1 tvg-name="WZTV1" tvg-logo="https://itv-tb.myukj.cn/tv/WZTV-1.png" group-title="浙江",温州TV-1 新闻综合 HD
+https://itv.myxcwh.com:4399/201.87:5140
+#EXTINF:-1 tvg-name="HZTV1" tvg-logo="https://itv-tb.myukj.cn/tv/HZTV-1.png" group-title="浙江",湖州TV-1 新闻综合 HD
+https://itv-yd.myxcwh.com:4398/35527/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="HZTV2" tvg-logo="https://itv-tb.myukj.cn/tv/HZTV-2.png" group-title="浙江",湖州TV-2 文化娱乐 HD
+https://itv-yd.myxcwh.com:4398/35529/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="HZTV3" tvg-logo="https://itv-tb.myukj.cn/tv/HZTV-3.png" group-title="浙江",湖州TV-3 公共频道 HD
+https://itv-yd.myxcwh.com:4398/35526/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="JHTV1" tvg-logo="https://itv-tb.myukj.cn/tv/JHTV-1.png" group-title="浙江",金华TV-1 新闻综合 HD
+https://itv-yd.myxcwh.com:4398/34612/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="JHTV2" tvg-logo="https://itv-tb.myukj.cn/tv/JHTV-2.png" group-title="浙江",金华TV-2 教育科技 HD
+https://itv-yd.myxcwh.com:4398/34568/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="JHTV3" tvg-logo="https://itv-tb.myukj.cn/tv/JHTV-3.png" group-title="浙江",金华TV-3 公共频道 HD
+https://itv-yd.myxcwh.com:4398/34615/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="JXTV1" tvg-logo="https://itv-tb.myukj.cn/tv/JXTV1.png" group-title="浙江",嘉兴TV-1 新闻综合 HD
+https://itv-yd.myxcwh.com:4398/35458/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="JXTV2" tvg-logo="https://itv-tb.myukj.cn/tv/JXTV2.png" group-title="浙江",嘉兴TV-2 文化影视 HD
+https://itv-yd.myxcwh.com:4398/35447/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="JXTV3" tvg-logo="https://itv-tb.myukj.cn/tv/JXTV3.png" group-title="浙江",嘉兴TV-3 公共频道 HD
+https://itv-yd.myxcwh.com:4398/35460/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="ZSTV1" tvg-logo="https://itv-tb.myukj.cn/tv/ZSTV1.png" group-title="浙江",舟山TV-1 新闻综合 HD
+https://itv-yd.myxcwh.com:4398/35449/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="ZSTV2" tvg-logo="https://itv-tb.myukj.cn/tv/ZSTV2.png" group-title="浙江",舟山TV-2 公共频道 HD
+https://itv-yd.myxcwh.com:4398/35445/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="LSTV1" tvg-logo="https://itv-tb.myukj.cn/tv/LSTV1.png" group-title="浙江",丽水TV-1 新闻综合 HD
+https://itv-yd.myxcwh.com:4398/35528/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="LSTV2" tvg-logo="https://itv-tb.myukj.cn/tv/LSTV2.png" group-title="浙江",丽水TV-2 丽水公共 HD
+https://itv-yd.myxcwh.com:4398/35525/396328931.smil/index.m3u8?fmt=ts2hls
+
 
 
 
@@ -645,7 +674,8 @@ http://tv.myukj.cn/cdtv.php?id=sccdtv4
 http://tv.myukj.cn/cdtv.php?id=sccdtv5
 #EXTINF:-1,tvg-logo="https://itv-tb.myukj.cn/tv/成都少儿.png" group-title="四川",成都少儿
 http://tv.myukj.cn/cdtv.php?id=sccdtv6
-
+#EXTINF:-1,tvg-logo="https://itv-tb.myukj.cn/tv/成都蓉城先锋.png" group-title="四川",成都蓉城先锋
+http://tv.myukj.cn/cdtv.php?id=sccddj
 
 #EXTM3U
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="江西",江西卫视
@@ -709,6 +739,8 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000133/ind
 #EXTINF:-1 ---------------------------------------分割线"求索系列"---------------------------------------------------------------
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="求索系列",求索记录
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="求索系列",求索记录4K
+https://itv-yd.myxcwh.com:4398/32776/396328931.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="求索系列",求索动物
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="求索系列",求索科学
@@ -721,23 +753,24 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="CHC系列,CHC动作电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="CHC系列,CHC动作电影
-
+http://tv.myukj.cn/cqyx.php?id=chcgqdyHD
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="CHC系列,CHC家庭影院
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="CHC系列,CHC家庭影院
+http://tv.myukj.cn/cqyx.php?id=chcjtyyHD
 
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="CHC系列,CHC高清电影
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png" group-title="CHC系列,CHC影迷电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="CHC系列,CHC高清电影
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CHC影迷电影.png" group-title="CHC系列,CHC影迷电影
+http://tv.myukj.cn/cqyx.php?id=chcgqdyHD
 
 
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/1905.png" group-title="CHC系列",1905国外 V4
-http://xxw.me0.cn/1905dy.php?id=1905a
+http://tv.myukj.cn/1905.php?id=1905a
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/1905.png" group-title="CHC系列",国内1905 V4
-http://xxw.me0.cn/1905dy.php?id=1905b
+http://tv.myukj.cn/1905.php?id=1905b
 
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳4K/8K"---------------------------------------------------------------
 
@@ -745,6 +778,8 @@ http://xxw.me0.cn/1905dy.php?id=1905b
 https://tv.cry33.com/ys4k.php?id=4k
 #EXTINF:-1, tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K/8K",CCTV-4K 超高清
 http://mtw.so/5VbDUV
+#EXTINF:-1, tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K/8K",CCTV-4K 超高清
+https://itv-yd.myxcwh.com:4398/29373/396328931.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="4K/8K",CCTV-16 奥林匹克 4K
 
 
@@ -783,6 +818,8 @@ https://4kuhls.persiana.live/hls/stream.m3u8
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/4K动物全网.png" group-title="4K/8K",4k动物全网「V4」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="4K/8K",求索记录4K
+https://itv-yd.myxcwh.com:4398/32776/396328931.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/北京科教.png" group-title="4K/8K",8K北京科教台「V4」
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/北京纪实.png" group-title="4K/8K",8K北京纪实台
@@ -817,7 +854,8 @@ http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/4K咪咕台IPV6.png" group-title="4K/8K",4K咪咕台
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
-
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/4K咪咕台IPV6.png" group-title="4K/8K",4K咪咕台
+https://itv-yd.myxcwh.com:4398/35583/index.m3u8
 
 
 
@@ -1617,6 +1655,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235528/396328931.sm
 #EXTINF:-1 tvg-name="LSTV2" tvg-logo="https://itv-tb.myukj.cn/tv/LSTV2.png" group-title="浙江移动.地方台",丽水TV-2 丽水公共 HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235525/396328931.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="LSTV3" tvg-logo="https://itv-tb.myukj.cn/tv/LSTV3.png" group-title="浙江移动.地方台",丽水TV-3 文化休闲 HD
+
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://itv-tb.myukj.cn/tv/浙江卫视.png" group-title="浙江移动.浙江",浙江卫视 HD
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236237/index.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://itv-tb.myukj.cn/tv/浙江钱江都市.png" group-title="浙江移动.浙江",浙江钱江都市 HD
