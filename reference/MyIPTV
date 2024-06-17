@@ -411,8 +411,8 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN126389BESTVSMGSMG9/index.m3u8?AuthInfo=kXVqgwiFNDsA8L8UADdm1g0lb%2BtkfnGmv76VRSC5BUjrd9dcupuLFZtkbnZDW1ncykI0zNYTgRcsAj5Z6uTckA%3D%3D
 
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
-
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视V4
+http://php.jdshipin.com:8880/xztv.php?id=ws
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN77574BESTVSMGSMG9/index.m3u8?AuthInfo=Kgq9oZls%2F0LFdnWkV6XKjcemen%2FrJ13GEDfSTzbh7UxUrQNs2He4Jft322wTZAuZeUodzEZrZcXcJKDD6r3Z2A%3D%3D
 
@@ -839,6 +839,8 @@ https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?end=END&start=LIVE&checkedby:iptvcat.com
 #EXTINF:-1 group-title="4K/8K",Persiana 4Kurd「V4」
 https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="4K/8K",河南4K试验「V4」
+http://219.156.28.87:9999/rtp/225.1.4.254:1300
 
 #EXTM3U
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/4K修复全网.png" group-title="4K/8K",4k修复全网「V4」
