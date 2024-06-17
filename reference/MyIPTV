@@ -807,7 +807,7 @@ http://mtw.so/5VbDUV
 #EXTINF:-1, tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="4K/8K",CCTV-4K 超高清
 https://itv-yd.myxcwh.com:4398/29373/396328931.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="4K/8K",CCTV-16 奥林匹克 4K
-
+https://tv.cry33.com/ys4k.php?id=16-4k
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K/8K",SiTV欢笑剧场
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
