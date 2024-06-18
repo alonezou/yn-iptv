@@ -767,6 +767,8 @@ http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225730/index.m3u8
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="求索系列",求索生活
 http://[2409:8087:1a01:df::7005]/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="求索系列",BBCEarth V4
+http://171.208.14.218:9090/live/BBCEarth/hls.m3u8
 
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳CHC系列"---------------------------------------------------------------
 
@@ -790,8 +792,10 @@ https://itv-yd.myxcwh.com:4398/36208/index.m3u8
 #EXTINF:-1 tvg-name="Movie" tvg-logo="https://itv-tb.myukj.cn/tv/Movie.png" group-title="电影",Movie HD
 https://itv-yd.myxcwh.com:4398/36157/index.m3u8
 
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://itv-tb.myukj.cn/tv/重温经典.png" group-title="电影",重温经典 HD
-https://itv-yd.myxcwh.com:4398/36436/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://itv-tb.myukj.cn/tv/重温经典.png" group-title="电影",重温经典 HD V4
+https://yd.myxcwh.com:4398/36436/396328931.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://itv-tb.myukj.cn/tv/重温经典.png" group-title="电影",重温经典 HD V4
+http://171.208.14.218:9090/live/cwjd/hls.m3u8
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/1905.png" group-title="CHC系列",1905国外 V4
 http://tv.myukj.cn/1905.php?id=1905a
