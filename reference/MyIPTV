@@ -627,6 +627,23 @@ https://itv-yd.myxcwh.com:4398/35528/396328931.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="LSTV2" tvg-logo="https://itv-tb.myukj.cn/tv/LSTV2.png" group-title="浙江",丽水TV-2 丽水公共 HD
 https://itv-yd.myxcwh.com:4398/35525/396328931.smil/index.m3u8?fmt=ts2hls
 
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-name="青岛新闻综合" tvg-logo="https://epg.112114.xyz/logo/青岛新闻综合.png"  group-title="山东",青岛新闻综合
+http://[2409:8087:3c07:21:0:1:0:11]:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000500/index.m3u8?IAS
+#EXTINF:-1,tvg-name="青岛新闻综合" tvg-logo="https://epg.112114.xyz/logo/青岛新闻综合.png"  group-title="山东",青岛新闻综合
+http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com////CHANNEL00000500/index.m3u8?IAS
+#EXTINF:-1,tvg-name="青岛财经资讯" tvg-logo="https://epg.112114.xyz/logo/青岛财经资讯.png"  group-title="山东",青岛财经资讯
+http://[2409:8087:3c07:21:0:2:0:18]:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000501/index.m3u8?IAS
+#EXTINF:-1tvg-name="青岛影视" tvg-logo="https://epg.112114.xyz/logo/青岛影视.png"  group-title="山东",青岛影视
+http://[2409:8087:3c07:21::1:10]:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000502/index.m3u8?IAS
+#EXTINF:-1,tvg-name="青岛财经" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png"  group-title="山东",青岛财经
+http://[2409:8087:3c07:321:0:2:0:16]:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000503/index.m3u8?IAS
+#EXTINF:-1,tvg-name="青岛都市" tvg-logo="https://epg.112114.xyz/logo/青岛都市.png"  group-title="山东",青岛都市
+http://[2409:8087:3c07:21:0:2:0:14]:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000504/index.m3u8?IAS
+#EXTINF:-1,tvg-name="青岛教育" tvg-logo="https://epg.112114.xyz/logo/青岛教育.png"  group-title="山东",青岛教育
+http://[2409:8087:3c07:421:0:2:0:3]:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000505/index.m3u8?IAS
+#EXTINF:-1,tvg-id="青岛崂山" tvg-name="bestv青春动漫" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png"  group-title="山东",青岛崂山(高清)
+http://[2409:8087:3c07:21:0:5:0:1c]:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00001022/index.m3u8?IAS
 
 
 
