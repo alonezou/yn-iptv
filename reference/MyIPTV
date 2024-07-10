@@ -772,6 +772,10 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000133/ind
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000133/index.m3u8?IAS
 #EXTINF:-1,tvg-id="海南海口" tvg-name="海南海口" tvg-logo="https://epg.112114.xyz/logo/海南海口.png" group-title="海南",海南海口
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000133/index.m3u8?IAS
+#EXTINF:-1,tvg-id="海南海口" tvg-name="海南海口" tvg-logo="https://epg.112114.xyz/logo/海南海口.png" group-title="海南",海南海口
+http://[2409:8087:5e01:34::24]:6610/ZTE_CMS/00000001000000060000000000000133/index.m3u8?IAS
+#EXTINF:-1,tvg-id="海南三亚" tvg-name="海南海口" tvg-logo="https://epg.112114.xyz/logo/海南三亚.png" group-title="海南",海南海口
+http://[2409:8087:5e01:34::24]:6610/ZTE_CMS/00000001000000060000000000000136/index.m3u8?IAS
 
 #EXTINF:-1 ---------------------------------------分割线"求索系列"---------------------------------------------------------------
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="求索系列",求索记录
