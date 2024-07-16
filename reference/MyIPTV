@@ -726,14 +726,28 @@ http://tv.myukj.cn/cdtv.php?id=sccddj
 http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?t=t&token=t
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西都市.png" group-title="江西",江西都市
 http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?t=t&token=t
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西都市.png" group-title="江西",江西都市
+http://jxcbn.ws-cdn.gitv.tv/hls/JXDS/index.m3u8?gMac=unknown&livodToken=0
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西经济生活.png" group-title="江西",江西经视
+http://jxcbn.ws-cdn.gitv.tv/hls/JXJJSHHD/index.m3u8?gMac=unknown&livodToken=0
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西经济生活.png" group-title="江西",江西经视
+http://jxcbn.ws-cdn.gitv.tv/hls/JXJJSH/index.m3u8?gMac=unknown&livodToken=0
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西经济生活.png" group-title="江西",江西经视
 http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3.m3u8?t=t&token=t
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西影视旅游.png" group-title="江西",江西影视
+http://jxcbn.ws-cdn.gitv.tv/hls/JXYS/index.m3u8?gMac=unknown&livodToken=0
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西影视旅游.png" group-title="江西",江西影视
 http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8?t=t&token=t
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西公共农业.png" group-title="江西",江西公共
 http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8?t=t&token=t
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西公共农业.png" group-title="江西",江西公共
+http://jxcbn.ws-cdn.gitv.tv/hls/JXGGNY/index.m3u8?gMac=unknown&livodToken=0
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西少儿.png" group-title="江西",江西少儿
+http://jxcbn.ws-cdn.gitv.tv/hls/JXSEHD/index.m3u8?gMac=unknown&livodToken=0
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西少儿.png" group-title="江西",江西少儿
 http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8?t=t&token=t
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西新闻.png" group-title="江西",江西新闻
+http://jxcbn.ws-cdn.gitv.tv/hls/JXXWHD/index.m3u8?gMac=unknown&livodToken=0
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西新闻.png" group-title="江西",江西新闻
 http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8?t=t&token=t
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西移动.png" group-title="江西",江西移动
@@ -926,6 +940,8 @@ https://itv-yd.myxcwh.com:4398/35583/index.m3u8
 
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳🇭🇰香港"---------------------------------------------------------------
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
+http://www.jeremyoto.com:82/rtp/233.50.200.192:5140
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://tvbox.mohuajz.eu.org/tv/fengshows.php?id=2
@@ -938,6 +954,8 @@ http://proxy.dfkj.live/alitv.php?u=min&id=6
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
+http://www.jeremyoto.com:82/rtp/233.50.200.191:5140
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
