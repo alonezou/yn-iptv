@@ -727,27 +727,27 @@ http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?t=t&token=t
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西都市.png" group-title="江西",江西都市
 http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?t=t&token=t
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西都市.png" group-title="江西",江西都市
-http://jxcbn.ws-cdn.gitv.tv/hls/JXDS/index.m3u8?gMac=unknown&livodToken=0
+
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西经济生活.png" group-title="江西",江西经视
-http://jxcbn.ws-cdn.gitv.tv/hls/JXJJSHHD/index.m3u8?gMac=unknown&livodToken=0
+
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西经济生活.png" group-title="江西",江西经视
-http://jxcbn.ws-cdn.gitv.tv/hls/JXJJSH/index.m3u8?gMac=unknown&livodToken=0
+
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西经济生活.png" group-title="江西",江西经视
 http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3.m3u8?t=t&token=t
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西影视旅游.png" group-title="江西",江西影视
-http://jxcbn.ws-cdn.gitv.tv/hls/JXYS/index.m3u8?gMac=unknown&livodToken=0
+
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西影视旅游.png" group-title="江西",江西影视
 http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv4.m3u8?t=t&token=t
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西公共农业.png" group-title="江西",江西公共
 http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv5.m3u8?t=t&token=t
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西公共农业.png" group-title="江西",江西公共
-http://jxcbn.ws-cdn.gitv.tv/hls/JXGGNY/index.m3u8?gMac=unknown&livodToken=0
+
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西少儿.png" group-title="江西",江西少儿
-http://jxcbn.ws-cdn.gitv.tv/hls/JXSEHD/index.m3u8?gMac=unknown&livodToken=0
+
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西少儿.png" group-title="江西",江西少儿
 http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv6.m3u8?t=t&token=t
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西新闻.png" group-title="江西",江西新闻
-http://jxcbn.ws-cdn.gitv.tv/hls/JXXWHD/index.m3u8?gMac=unknown&livodToken=0
+
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西新闻.png" group-title="江西",江西新闻
 http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv7.m3u8?t=t&token=t
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西移动.png" group-title="江西",江西移动
