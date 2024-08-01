@@ -576,14 +576,24 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 #EXTINF:-1,tvg-logo="https://zhanghongguang.github.io/Logo/nbtv1.png" group-title="浙江",宁波新闻综合频道NBTV-1 
 http://www.372583307.top:4022/udp/233.50.201.168:5140
+#EXTINF:-1,tvg-logo="https://zhanghongguang.github.io/Logo/nbtv1.png" group-title="浙江",宁波新闻综合频道NBTV-1
+http://218.71.45.167:9999/rtp/233.50.201.168:5140
 #EXTINF:-1,tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png" group-title="浙江",宁波经济生活频道NBTV-2 
 http://www.372583307.top:4022/udp/233.50.201.178:5140
+#EXTINF:-1,tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png" group-title="浙江",宁波经济生活频道NBTV-2
+http://218.71.45.167:9999/rtp/233.50.201.178:5140
 #EXTINF:-1,tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png" group-title="浙江",宁波都市文体频道NBTV-3 
 http://www.372583307.top:4022/udp/233.50.201.179:5140
+#EXTINF:-1,tvg-logo="https://zhanghongguang.github.io/Logo/nbtv.png" group-title="浙江",宁波都市文体频道NBTV-3 
+http://218.71.45.167:9999/rtp/233.50.201.179:5140
 #EXTINF:-1,tvg-logo="https://zhanghongguang.github.io/Logo/nbtv4.png" group-title="浙江",宁波影视频道NBTV-4
 http://www.372583307.top:4022/udp/233.50.201.180:5140
+#EXTINF:-1,tvg-logo="https://zhanghongguang.github.io/Logo/nbtv4.png" group-title="浙江",宁波影视频道NBTV-4
+http://218.71.45.167:9999/rtp/233.50.201.180:5140
 #EXTINF:-1,tvg-logo="https://zhanghongguang.github.io/Logo/nbtv5.png" group-title="浙江",宁波少儿频道NBTV-5 
 http://www.372583307.top:4022/udp/233.50.201.181:5140
+#EXTINF:-1,tvg-logo="https://zhanghongguang.github.io/Logo/nbtv5.png" group-title="浙江",宁波少儿频道NBTV-5 
+http://218.71.45.167:9999/rtp/233.50.201.181:5140
 
 #EXTINF:-1,tvg-logo="https://zhanghongguang.github.io/Logo/yztv.png" group-title="浙江",鄞州1 
 http://play-a2.quklive.com/live/1668501533304136.m3u8
