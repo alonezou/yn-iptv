@@ -1086,12 +1086,14 @@ http://113.64.145.34:8081/hls/38/index.m3u8
 
 #EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png" group-title="港澳台",中天新闻
 
+#EXTINF:-1,tvg-id="中天娱乐台" tvg-name="中天娱乐台" tvg-logo="https://epg.112114.xyz/logo/中天娱乐台.png" group-title="港澳台",中天娱乐台
+http://61.221.215.25:8800/hls/47/index.m3u8
 #EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png" group-title="港澳台",台视新闻
 
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="港澳台",中视新闻
 
-#EXTINF:-1,tvg-id="三立海外" tvg-name="三立海外" tvg-logo="https://epg.112114.xyz/logo/三立海外.png" group-title="港澳台",三立海外
-
+#EXTINF:-1,tvg-id="三立戏剧" tvg-name="三立戏剧" tvg-logo="https://epg.112114.xyz/logo/三立戏剧.png" group-title="港澳台",三立戏剧
+http://61.221.215.25:8800/hls/41/index.m3u8
 #EXTINF:-1,tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="港澳台",三立新闻
 
 #EXTINF:-1,tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="港澳台",镜新闻
@@ -1101,7 +1103,7 @@ http://113.64.145.34:8081/hls/38/index.m3u8
 #EXTINF:-1,tvg-id="台湾PLUS+" tvg-name="台湾PLUS+" tvg-logo="https://epg.112114.xyz/logo/台湾PLUS+.png" group-title="港澳台",台湾PLUS+
 
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="港澳台",TVBS NEWS
-
+http://61.221.215.25:8800/hls/9/index.m3u8
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视经典综艺
 
 #EXTINF:-1,tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png" group-title="港澳台",东森新闻
@@ -1109,6 +1111,16 @@ http://113.64.145.34:8081/hls/38/index.m3u8
 #EXTINF:-1,tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" group-title="港澳台",寰宇新聞
 
 #EXTINF:-1,tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://epg.112114.xyz/logo/寰宇新聞.png" group-title="港澳台",寰宇新聞
+
+#EXTINF:-1,tvg-id="八大戏剧" tvg-name="八大戏剧" tvg-logo="https://epg.112114.xyz/logo/八大戏剧.png" group-title="港澳台",八大戏剧
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",动画
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",NMB电影台
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",纬来精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+
 
 
 
