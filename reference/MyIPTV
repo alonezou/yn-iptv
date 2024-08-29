@@ -1548,7 +1548,9 @@ http://czkeji.vip:9000/udp/239.252.220.47:5140
 #EXTINF:-1,tvg-id="风尚购物" tvg-name="风尚购物" tvg-logo="https://epg.v1.mk/logo/风尚购物.png" group-title="江西域名组.其他",风尚购物
 http://czkeji.vip:9000/udp/239.252.219.101:5140
 
-
+#可用域名：http://czkeji.filegear-sg.me:9000/udp/239.252.219.200:5140
+http://gzly.hkychina.com:6001/udp/239.252.219.200:5140
+http://czkeji.vip:9000/udp/239.252.220.238:5140
 #EXTINF:-1 ---------------------------------------分割线"4K/8K测试频道"---------------------------------------------------------------
 
 #EXTINF:-1,tvg-id="" tvg-name=" tvg-logo="" group-title="4K/8K测试",CCTV1-高码
