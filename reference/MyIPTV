@@ -810,6 +810,29 @@ http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_tonggu.m3u8
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8
 #EXTINF:-1,tvg-logo="" group-title="江西",莲花电视台
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lianhua.m3u8
+#EXTINF:-1,tvg-logo="" group-title="江西",南昌台
+http://58.144.154.93/play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
+#EXTINF:-1,tvg-logo="" group-title="江西",九江台
+http://58.144.154.93/play-live-hls.jxtvcn.com.cn/live-city/tv_jiujiang.m3u8
+#EXTINF:-1,tvg-logo="" group-title="江西",抚州台
+http://58.144.154.93/play-live-hls.jxtvcn.com.cn/live-city/tv_fuzhou.m3u8
+#EXTINF:-1,tvg-logo="" group-title="江西",萍乡台
+http://58.144.154.93/play-live-hls.jxtvcn.com.cn/live-city/tv_pingxiang.m3u8
+#EXTINF:-1,tvg-logo="" group-title="江西",宜春台
+http://58.144.154.93/play-live-hls.jxtvcn.com.cn/live-city/tv_yichun.m3u8
+#EXTINF:-1,tvg-logo="" group-title="江西",赣州台
+http://58.144.154.93/play-live-hls.jxtvcn.com.cn/live-city/tv_ganzhou.m3u8
+#EXTINF:-1,tvg-logo="" group-title="江西",上饶台
+http://58.144.154.93/play-live-hls.jxtvcn.com.cn/live-city/tv_shangrao.m3u8
+#EXTINF:-1,tvg-logo="" group-title="江西",吉安台
+http://58.144.154.93/play-live-hls.jxtvcn.com.cn/live-city/tv_jian.m3u8
+#EXTINF:-1,tvg-logo="" group-title="江西",新余台
+http://58.144.154.93/play-live-hls.jxtvcn.com.cn/live-city/tv_xinyu.m3u8
+#EXTINF:-1,tvg-logo="" group-title="江西",鹰潭台
+http://58.144.154.93/play-live-hls.jxtvcn.com.cn/live-city/tv_yingtan.m3u8
+#EXTINF:-1,tvg-logo="" group-title="江西",景德镇
+http://58.144.154.93/play-live-hls.jxtvcn.com.cn/live-city/tv_jingdezhen.m3u8
+
 
 
 
