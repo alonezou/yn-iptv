@@ -894,47 +894,6 @@ https://4kuhls.persiana.live/hls/stream.m3u8
 http://219.156.28.87:9999/rtp/225.1.4.254:1300
 
 
-
-
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TRQ0lLh.png" group-title="国际",RT Documentary Russian (1080p)
-https://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="国际",Zoo Moo (Australia) (1080p)
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png" group-title="国际",ETB Basque 
-https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lF0iofX.png" group-title="国际",Euro Indie Music Chart TV (360p)
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News (720p)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际",Al Jazeera English
-https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="国际",Arirang TV UN (1080p)
-https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xWglicB.png" group-title="国际",CNA International (1080p)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="国际",Euronews
-https://rakuten-euronews-10-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B76eSg2.png" group-title="国际",France 24 English (1080p)
-https://edge6a.v2h-cdn.com/france24/france24.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="国际",NHK World Premium (720p) [Not 24/7]
-https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="国际",UN Web TV 
-https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="国际",WION (1080p)
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6FFkc3.png" group-title="国际",Classic Arts Showcase
-https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BcN8B3D.png" group-title="国际",Red Bull TV (1080p)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="国际",KBS World (720p)
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aiiinzg.png" group-title="国际",Metro Globe Network (1080p) 
-https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="国际",NHK World Japan (1080p)
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
@@ -1012,6 +971,43 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="国际",NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/tv5.png" group-title="Thai",TV5HD
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/tsports.png" group-title="Thai",T Sports 7
+https://edge6a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/tptv.png" group-title="Thai",TPTV
+https://tv-live.tpchannel.org/live/tv.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/tnn16.png" group-title="Thai",TNN16
+https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/jkn18.png" group-title="Thai",JKN 18
+https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/mono29.png" group-title="Thai",MONO29
+https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/chunklist_b6628000.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/mcot.png" group-title="Thai",MCOT HD
+https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/ch3.png" group-title="Thai",CH3 HD
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/chunklist_w575099455_b4692000_slThai.m3u8
+#EXTINF:-1 tvg-logo="https://iptv36.my.to/logo/amarin.png" group-title="Thai",Amarin TV
+http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/chunklist_w198863596_b4692000_slThai.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mv-lao-th.png" group-title="Thai",MV LAO
+https://edge6a.v2h-cdn.com/mvlao/mvlao.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Thai",ANTV
+https://ott1.nethubtv.vn/live/antv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9VyBieF.png" group-title="Thai",Nhan Dan TV
+https://arpt.tvic.vn/live/nhandan720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GQO7UNu.png" group-title="Thai",QPVN
+https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o70uxdn.png" group-title="Thai",VTC1
+https://ott1.nethubtv.vn/live/vtc1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyCZR0kb/HTV7-logo-2015.png" group-title="Thail",HTV7
+https://live.relentlessinnovations.net:1936/sbtntv/sbtntv/chunklist_w1501970178.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Thai",VOV TV
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Thai",France 24 English
+https://edge2a.v2h-cdn.com/france24/france24.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="Thai",Arirang TV UN
+https://edge2a.v2h-cdn.com/arirang/arirang.stream/playlist.m3u8
 
 
 
