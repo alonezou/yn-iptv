@@ -1113,7 +1113,7 @@ http://61.221.215.25:8800/hls/39/index.m3u8
 http://61.221.215.25:8800/hls/40/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="TW",NMB电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title=le="TW",纬来精彩
+#EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="" group-title="TW",纬来精彩
 http://61.221.215.25:8800/hls/48/index.m3u8
 
 
@@ -1127,7 +1127,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lF0iofX.png" group-title="国际",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News (720p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="国际",ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="国际",Al Jazeera English
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
@@ -1184,7 +1184,7 @@ https://arpt.tvic.vn/live/nhandan720/playlist.m3u8
 https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o70uxdn.png" group-title="Thai",VTC1
 https://ott1.nethubtv.vn/live/vtc1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyCZR0kb/HTV7-logo-2015.png" group-title="Thail",HTV7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyCZR0kb/HTV7-logo-2015.png" group-title="Thai",HTV7
 https://live.relentlessinnovations.net:1936/sbtntv/sbtntv/chunklist_w1501970178.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Thai",VOV TV
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
