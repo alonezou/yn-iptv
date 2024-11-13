@@ -899,14 +899,12 @@ http://219.156.28.87:9999/rtp/225.1.4.254:1300
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
-http://www.jeremyoto.com:82/rtp/233.50.200.192:5140
+
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
-http://www.jeremyoto.com:82/rtp/233.50.200.191:5140
+
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
@@ -916,8 +914,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港", 无线新闻台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港", 无线卫星新闻台
-http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+
+
 
 #EXTINF:-1,---------------------------------------分割线"TW"---------------------------------------------------------------
 #EXTINF:-1,tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="https://epg.112114.xyz/logo/中天亚洲.png" group-title="TW",中天亚洲
@@ -932,7 +930,7 @@ http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="TW",tvbs新闻频道
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="TW",tvbs新闻频道
-
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1,tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.112114.xyz/logo/TVBS精采台.png" group-title="TW",tvbs精采频道
 
 #EXTINF:-1,tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="TW",tvbs欢乐频道
