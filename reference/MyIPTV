@@ -827,6 +827,11 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?GuardEncType
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="黑莓",黑莓电影 
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
+#EXTINF:-1,tvg-logo="" group-title="黑莓",《哪吒之魔童闹海》高清版
+https://vip.ffzy-online1.com/20250201/55690_3766107c/index.m3u8
+#EXTINF:-1,tvg-logo="" group-title="黑莓",《唐探1900》高清版
+https://vip.ffzy-online1.com/20250201/55689_34657b08/index.m3u8
+
 #EXTINF:-1 ---------------------------------------分割线"咪咕系列"---------------------------------------------------------------
 
 #EXTINF:-1,tvg-id="咪咕直播-11" tvg-name="咪咕直播-11" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="咪咕系列",咪咕直播-1
