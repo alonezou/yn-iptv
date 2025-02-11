@@ -622,33 +622,41 @@ http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226227/1.m3u8
 #EXTINF:-1,---------------------------------------分割线"HK"---------------------------------------------------------------
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
-
+https://video.mytvsuper.xyz/live/38406db4df1056244d3d6c6b91c064c5e758b6ab3731f1e6af6f992451bb15fe.m3u8?token=266341363534987
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
-
+https://video.mytvsuper.xyz/live/c120fc8483245163e3f4da19b50af1486b89e7455477b73608d4c5ad4c863b85.m3u8?token=266341363534987
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
 
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
-http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+https://video.mytvsuper.xyz/live/8ff97ecd9bf00f57878acace42c89624f142ae2c7e5e7cb4bba23c41c03b99f4.m3u8?token=266341363534987
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
 
 
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港", 翡翠台
-
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港", 翡翠台4K
+https://video.mytvsuper.xyz/live/6b6010bfabd40dccd46e3102458c28e47b154bd513b8c872237ae6666b3911c0.php?token=266341363534987
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港", 翡翠台(字幕版)
+https://video.mytvsuper.xyz/live/8654dec334e1e1f4b14cc20a476e00d2acf14fbdff67a3584bf53fd5ba3a2632.m3u8?token=266341363534987
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港", 无线新闻台
 
 
-
-
+#EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://epg.v1.mk/logo/tvbs.png" group-title="台湾",tvbs
+https://video.mytvsuper.xyz/live/af626737cc042f23556fc37cb6101929c93b86896a2116ed7ff5abf5ede5ad38.php?token=266341363534987
+EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="台湾", TVBS
+https://video.mytvsuper.xyz/live/38edde0b5ed2a7ae102b44cfef38f723c1bf3c3046cc52803c7f509934f48a30.m3u8?token=266341363534987
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="台湾", 中天新聞台
+https://video.mytvsuper.xyz/live/ede0c5fece8b58798df44417adfb3df984f518ef4590c7f447c7aeb22e97c00f.php?token=266341363534987
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="台湾", 中天新聞台
+https://video.mytvsuper.xyz/live/3a644285b10883df355740eb7dc12c093f4b334604065ac8a3e0454f1da1fc36.m3u8?token=266341363534987
 
 #EXTINF:-1,---------------------------------------分割线"国际"---------------------------------------------------------------
 
