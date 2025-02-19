@@ -649,16 +649,23 @@ https://bxtv.587788.xyz/stream/bxtv/null-5/master.m3u8?u=xiaojia&p=edae81555a120
 https://bxtv.587788.xyz/stream/bxtv/null/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港", 无线新闻台
 https://bxtv.587788.xyz/stream/bxtv/null-1/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="香港", 明珠台
+https://bxtv.587788.xyz/stream/bxtv/null-2/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 
 
 #EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://epg.v1.mk/logo/tvbs.png" group-title="台湾",tvbs
 https://video.mytvsuper.xyz/live/af626737cc042f23556fc37cb6101929c93b86896a2116ed7ff5abf5ede5ad38.php?token=266341363534987
+
 EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS.png" group-title="台湾", TVBS
-https://video.mytvsuper.xyz/live/38edde0b5ed2a7ae102b44cfef38f723c1bf3c3046cc52803c7f509934f48a30.m3u8?token=266341363534987
+
+EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://assets.livednow.com/logo/TVBS-新聞台.png" group-title="台湾", TVBS新闻台
+https://bxtv.587788.xyz/stream/bxtv/tvbs/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="台湾", 中天新聞台
-https://video.mytvsuper.xyz/live/ede0c5fece8b58798df44417adfb3df984f518ef4590c7f447c7aeb22e97c00f.php?token=266341363534987
+https://bxtv.587788.xyz/stream/bxtv/null-7/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="台湾", 中天新聞台
-https://video.mytvsuper.xyz/live/3a644285b10883df355740eb7dc12c093f4b334604065ac8a3e0454f1da1fc36.m3u8?token=266341363534987
+
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="寰宇新聞台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台.png" group-title="台湾", 寰宇新聞台
+https://bxtv.587788.xyz/stream/bxtv/null-8/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 
 #EXTINF:-1,---------------------------------------分割线"国际"---------------------------------------------------------------
 
