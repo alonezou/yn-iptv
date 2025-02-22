@@ -667,6 +667,68 @@ https://bxtv.587788.xyz/stream/bxtv/null-7/master.m3u8?u=xiaojia&p=edae81555a120
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="寰宇新聞台" tvg-logo="https://assets.livednow.com/logo/寰宇新聞台.png" group-title="台湾", 寰宇新聞台
 https://bxtv.587788.xyz/stream/bxtv/null-8/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png” group-title="熱門收視頻道",台視
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=4gtv-4gtv066
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png”group-title="熱門收視頻道",中視
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=4gtv-4gtv040
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png”group-title="熱門收視頻道",華視
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=4gtv-4gtv041
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_tv.png”group-title="熱門收視频道",好消息
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=1itv-ftv16
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-vchannel22_tv_20190902.png”group-title="熱門收視頻道",哆啦A夢台
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=ofiii22
+#EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn17_tv.png”group-title="熱門收視頻道",亞洲旅遊台
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=4gtv-4gtv076
+#EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_tv.png”group-title="熱門收視頻道",龍華戲劇台
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=litv-longturn18
+#EXTINF:-1 tvg-id="” tvg-nane="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-1ongturn22_tv.png" group-title="熱門收視頻道",台灣戲劇台
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=litv-longturn22
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv102_tv.png”group-title="熱門收視頻道",東森購物1台
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=4gtv-4gtv102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png”group-title="熱門收視頻道",龍華偶像台
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=litv-longturn12
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.1itv.tv/pics/logo_litv_litv-longturn11_tv.png”group-title="熱門收視頻道",龍華日韓台
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=litv-longturn11
+#EXTINF:-1 tvg-id="” tvg-name="" tvg-logo-"https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_tv.png”group-title="熱門收視頻道",華視新聞
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=4gtv-4gtv052
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_tv.png" group-title="熱門收視頻道",三立新聞iNEWS
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=iNEWS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_tv.png”group-title="熱門收視頻道",寰宇財經台
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=4gtv-4gtv158
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png”group-title="熱門收視頻道",台視新聞
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=4gtv-4gtv051
+#EXTINF:-1 tvg-id="” tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png”group-title="熱門收視頻道",中視新聞
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=4gtv-4gtv074
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png"group-title="熱門收視頻道",中天新聞台
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=4gtv-4gtv009
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_tv.png" group-title="熱門收視頻道",寰宇新聞台灣台
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=4gtv-4gtv156
+#EXTINF:-1 tvg-id=""tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png”group-title="熱門收視頻道",寰宇新聞台
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=litv-longturn14
+#EXTINF:-1 tvg-id=""tvg-name=""tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_1itv-longturn21_tv.png”group-title="熱門收視頻道",龍華經典台
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=litv-longturn21
+#EXTINF:-1 tvg-id="" tvg-nane="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_1itv-1ongturn03_tv.png” group-title="熱門收視频道",龍華電影台
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=litv-longturn03
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii116_tv_20230329.png”group-title="熱門收視頻道",去有風的地方
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=ofiii116
+#EXTINF:-1 tvg-id="” tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/1ogo_ofiii130_tv_20230329.png” group-title="熱門收視頻道",綜藝玩很大
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=ofiii130
+#EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://p-cdnstatic.sve.litv.tv/pics/vod_channel/logo_ofiii131_tv_20230329.png”group-title="熱門收視頻道",全民星攻略
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=ofiii131
+#EXTINF:-1 tvg-id=""
+'tvg-name="” tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_ofiii47_tv_20230707.png" group-title="新聞·財經",Yes娛樂
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=ofiii47
+#EXTINF:-1 tvg-id="” tvg-name=""tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/vod_channel/logo_litv-playout50_tv_20211124.png”group-title="新聞·財經",掏掏新聞
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=ofiii50
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://p-cdnstatic.sve.litv.tv/pics/vod_channel/logo_3442_ofiii51_tv_20240822.png” group-title="新聞·財經",柯文哲政治風波
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=ofiii51
+#EXTINF:-1 tvg-id="” tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_tv.png" group-title="新聞·財經",華視新聞
+http://zz.yymall.top/686f6e6479303031/index.m3u8?pid=4gtv-4gtv052
+#EXTINF:-1 tvg-id="” tvg-name="" tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_nnews_tv.png" group-title="新聞·財經",倪珍播新聞
+ton/686f6=6479303031/
+
+
 #EXTINF:-1,---------------------------------------分割线"国际"---------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TRQ0lLh.png" group-title="国际",RT Documentary Russian (1080p)
