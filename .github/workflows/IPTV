@@ -623,21 +623,21 @@ http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226227/1.m3u8
 #EXTINF:-1,---------------------------------------分割线"HK"---------------------------------------------------------------
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
-https://bxtv.587788.xyz/stream/bxtv/null-4/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
+https://bx.587788.xyz/bxtv.php?id=fhzx
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
-https://bxtv.587788.xyz/stream/bxtv/null-3/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
+https://bx.587788.xyz/bxtv.php?id=fhzw
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
 
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
-https://bxtv.587788.xyz/stream/bxtv/null-5/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
+https://bx.587788.xyz/bxtv.php?id=fhhk
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
@@ -646,15 +646,21 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港", 翡翠台4K
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港", 翡翠台(字幕版)
-https://bxtv.587788.xyz/stream/bxtv/null/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
+https://bx.587788.xyz/bxtv.php?id=fct
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港", 无线新闻台
-https://bxtv.587788.xyz/stream/bxtv/null-1/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
+https://bx.587788.xyz/bxtv.php?id=wxxw
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="香港", 明珠台
-https://bxtv.587788.xyz/stream/bxtv/null-2/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
-
-#EXTM3U
+https://bx.587788.xyz/bxtv.php?id=mzt
 #EXTINF:-1,tvg-id="18" tvg-name="18" tvg-logo="https://epg.112114.xyz/logo/18.png" group-title="香港",18
-http://ali.hlspull.yximgs.com/live/11q2w3e4r5t6y7u8i9o0p1q2w3e4r5t6y7u8i00p1qaz2wsx3edc4rfv5tgb6y.flv
+https://bx.587788.xyz/bxtv.php?id=18
+#EXTINF:-1,tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://epg.112114.xyz/logo/HOYTV.png" group-title="香港",HOY TV
+https://bx.587788.xyz/bxtv.php?id=hoy
+#EXTINF:-1,tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.112114.xyz/logo/TVBPLUS.png" group-title="香港",TVB Plus
+https://bx.587788.xyz/bxtv.php?id=tvbp
+#EXTINF:-1,tvg-id="TVB 星河" tvg-name="TVB 星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="香港",TVB 星河
+https://bx.587788.xyz/bxtv.php?id=tvbxh
+#EXTINF:-1,tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="香港",Viu TV
+https://bx.587788.xyz/bxtv.php?id=viu
 
 
 
