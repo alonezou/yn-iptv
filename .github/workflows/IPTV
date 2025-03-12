@@ -935,27 +935,8 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?GuardEncType
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/黑莓电影.png" group-title="黑莓",黑莓电影 
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
-#EXTINF:-1,tvg-logo="" group-title="黑莓",《哪吒之魔童闹海》高清版
-https://vip.ffzy-online1.com/20250201/55690_3766107c/index.m3u8
-#EXTINF:-1,tvg-logo="" group-title="黑莓",《唐探1900》高清版
-https://vip.ffzy-online1.com/20250201/55689_34657b08/index.m3u8
-
-#EXTINF:-1 ---------------------------------------分割线"咪咕系列"---------------------------------------------------------------
-
-#EXTINF:-1,tvg-id="咪咕直播-11" tvg-name="咪咕直播-11" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="咪咕系列",咪咕直播-1
-http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-12" tvg-name="咪咕直播-12" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="咪咕系列",咪咕直播-2
-http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-32" tvg-name="咪咕直播-32" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="咪咕系列",咪咕直播-3
-http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-34" tvg-name="咪咕直播-34" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="咪咕系列",咪咕直播-4
-http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1,tvg-id="咪咕直播-38" tvg-name="咪咕直播-38" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="咪咕系列",咪咕直播-5
-
-#EXTINF:-1,tvg-id="咪咕直播-42" tvg-name="咪咕直播-42" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="咪咕系列",咪咕直播-6
-http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-
-
+#EXTINF:-1,tvg-logo="" group-title="",香港小姐竞选,
+http://jsmov2.a.yximgs.com/bs3/video-hls/5259922993058236574_hlsb.m3u8
 
 #EXTINF:-1 ---------------------------------------分割线"睛彩系列"---------------------------------------------------------------
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="睛彩系列",睛彩竞技
