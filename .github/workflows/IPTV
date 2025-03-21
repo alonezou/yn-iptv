@@ -533,26 +533,22 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 #EXTM3U
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="江西",江西卫视
-
+https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西都市.png" group-title="江西",江西都市
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西都市.png" group-title="江西",江西都市
+https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv2.m3u8
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西经济生活.png" group-title="江西",江西经视
-
+https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv3.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西影视旅游.png" group-title="江西",江西影视
-
+https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv4.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西公共农业.png" group-title="江西",江西公共
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西公共农业.png" group-title="江西",江西公共
+https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv5.m3u8
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西少儿.png" group-title="江西",江西少儿
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西少儿.png" group-title="江西",江西少儿
-
-#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西新闻.png" group-title="江西",江西新闻
+https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv6.m3u8
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西新闻.png" group-title="江西",江西新闻
+https://play-live-hls.jxtvcn.com.cn/moss/tv_jxtv7.m3u8
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江西移动.png" group-title="江西",江西移动
 
@@ -560,7 +556,11 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/陶瓷.png" group-title="江西",陶瓷频道
 
-
+江西经济生活,
+江西影视旅游,
+江西公共农业,
+江西少儿,
+江西新闻,
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="海南",海南卫视
 
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="海南",海南卫视
