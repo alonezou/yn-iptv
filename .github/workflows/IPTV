@@ -1505,3 +1505,1832 @@ http://39.134.2.22:6610/000000001666/100000000100111089/1.m3u8?channel-id=ystenl
 
 
 
+#EXTM3U
+#EXTINF:-1,tvg-id="秘密花园" tvg-name="秘密花园" tvg-logo="https://epg.112114.xyz/logo/秘密花园.png" group-title="X.其他",秘密花园
+http://185.236.229.62:9981/play/a02a
+#EXTINF:-1,tvg-id="日本映画専門チャンネル" tvg-name="日本映画専門チャンネル" tvg-logo="https://epg.112114.xyz/logo/日本映画専門チャンネル.png" group-title="X.其他",日本映画専門チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,tvg-id="東映チャンネル" tvg-name="東映チャンネル" tvg-logo="https://epg.112114.xyz/logo/東映チャンネル.png" group-title="X.其他",東映チャンネル
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="X.其他",东映チャンネルhttp://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+undefined
+#EXTINF:-1,tvg-id="チャンネルNECO" tvg-name="チャンネルNECO" tvg-logo="https://epg.112114.xyz/logo/チャンネルNECO.png" group-title="X.其他",チャンネルNECO
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d#https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1,tvg-id="动物世界" tvg-name="动物世界" tvg-logo="https://epg.112114.xyz/logo/动物世界.png" group-title="X.其他",动物世界
+http://v2.catcast.tv/content/40546/index.m3u8
+#EXTINF:-1,tvg-id="Кино 18+ International" tvg-name="Кино 18+ International" tvg-logo="https://epg.112114.xyz/logo/КИНО18+INTERNATIONAL.png" group-title="X.其他",Кино 18+ International
+https://v2.catcast.tv/content/40381/index.m3u8?#http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/18075/index.m3u8
+#EXTINF:-1,tvg-id=" 18+" tvg-name=" 18+" tvg-logo="https://epg.112114.xyz/logo/18+.png" group-title="X.其他", 18+
+http://mtw.so/5NweOs
+#EXTINF:-1,tvg-id=" 18摸" tvg-name=" 18摸" tvg-logo="https://epg.112114.xyz/logo/18摸.png" group-title="X.其他", 18摸
+http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129.m3u8
+#EXTINF:-1,tvg-id="香蕉" tvg-name="香蕉" tvg-logo="https://epg.112114.xyz/logo/香蕉.png" group-title="X.其他",香蕉
+http://s.mrw.so/94E7W
+#EXTINF:-1,tvg-id="惊艳" tvg-name="惊艳" tvg-logo="https://epg.112114.xyz/logo/惊艳.png" group-title="X.其他",惊艳
+http://suo.im/8odLv
+#EXTINF:-1,tvg-id="潘朵拉" tvg-name="潘朵拉" tvg-logo="https://epg.112114.xyz/logo/潘朵拉.png" group-title="X.其他",潘朵拉
+http://suo.im/6TuSG
+#EXTINF:-1,tvg-id="彩虹电影" tvg-name="彩虹电影" tvg-logo="https://epg.112114.xyz/logo/彩虹电影.png" group-title="X.其他",彩虹电影
+http://suo.im/9sOLD
+#EXTINF:-1,tvg-id="松视1" tvg-name="松视1" tvg-logo="https://epg.112114.xyz/logo/松视1.png" group-title="X.其他",松视1
+http://suo.im/c4FP2
+#EXTINF:-1,tvg-id="松视3" tvg-name="松视3" tvg-logo="https://epg.112114.xyz/logo/松视3.png" group-title="X.其他",松视3
+http://suo.im/9wiS2
+#EXTINF:-1,tvg-id="惊艳台" tvg-name="惊艳台" tvg-logo="https://epg.112114.xyz/logo/惊艳台.png" group-title="X.其他",惊艳台
+http://104.194.10.200:25461/live/271871095922/006886711863/1.m3u8?token=SRVZVERZGl8UCA4FVw9TAlQFBQRQWgAEDlIGDlYBAQcCAAIEDwMIAA4SGhZFTRdVVl1rWwYaXAMbE0FLBERmClYVCxcABhpJFERfWVMbXwAbEkRbBhpcEAYDAw5RFBVBV09FUEVfWQlpVFNCX1oAEg1eQV4OFERdWW5QXQxXVwcQDRMFFR0aDEVAFA5YTAlcGxJWWxZKB0ZSEw4aUwQOUxAbE1ZYRFYRREkUDhRsNhIbElFKFl0IQV5eWhpbFFRQRw8TGRVYSzpEVUVARFwEXVJCFghACEQeFVxVQD5VVg1cUlJBXl5WFhQKFA0PAFwSGxJZXQxREl1FbkRRBRQDQQAEAQUDE0U=
+#EXTINF:-1,tvg-id="潘多拉" tvg-name="潘多拉" tvg-logo="https://epg.112114.xyz/logo/潘多拉.png" group-title="X.其他",潘多拉
+http://104.194.10.200:25461/live/271871095922/006886711863/3.m3u8?token=SRVZVERZGl8UCA4FVw9TAlQFBQRQWgAEDlIGDlYBAQcCAAIEDwMIAA4SGhZFTRdVVl1rWwYaXAMbE0FLBERmClYVCxcABhpJFERfWVMbXwAbEkRbBhpcEAYDAw5RFBVBV09FUEVfWQlpVFNCX1oAEg1eQV4OFERdWW5QXQxXVwcQDRMFFR0aDEVAFA5YTAlcGxJWWxZKB0ZSEw4aUwQOUxAbE1ZYRFYRREkUDhRsNhIbElFKFl0IQV5eWhpbFFRQRw8TGRVYSzpEVUVARFwEXVJCFghACEQeFVxVQD5VVg1cUlJBXl5WFhQKFA0PAFwSGxJZXQxREl1FbkRRBRQDQQAEAQUDE0U=
+#EXTINF:-1,tvg-id="香蕉台" tvg-name="香蕉台" tvg-logo="https://epg.112114.xyz/logo/香蕉台.png" group-title="X.其他",香蕉台
+http://104.194.10.200:25461/live/271871095922/006886711863/4.m3u8?token=SRVZVERZGl8UCA4FVw9TAlQFBQRQWgAEDlIGDlYBAQcCAAIEDwMIAA4SGhZFTRdVVl1rWwYaXAMbE0FLBERmClYVCxcABhpJFERfWVMbXwAbEkRbBhpcEAYDAw5RFBVBV09FUEVfWQlpVFNCX1oAEg1eQV4OFERdWW5QXQxXVwcQDRMFFR0aDEVAFA5YTAlcGxJWWxZKB0ZSEw4aUwQOUxAbE1ZYRFYRREkUDhRsNhIbElFKFl0IQV5eWhpbFFRQRw8TGRVYSzpEVUVARFwEXVJCFghACEQeFVxVQD5VVg1cUlJBXl5WFhQKFA0PAFwSGxJZXQxREl1FbkRRBRQDQQAEAQUDE0U=
+#EXTINF:-1,tvg-id="松 视1" tvg-name="松 视1" tvg-logo="https://epg.112114.xyz/logo/松视1.png" group-title="X.其他",松 视1
+http://104.194.10.200:25461/live/271871095922/006886711863/5.m3u8?token=SRVZVERZGl8UCA4FVw9TAlQFBQRQWgAEDlIGDlYBAQcCAAIEDwMIAA4SGhZFTRdVVl1rWwYaXAMbE0FLBERmClYVCxcABhpJFERfWVMbXwAbEkRbBhpcEAYDAw5RFBVBV09FUEVfWQlpVFNCX1oAEg1eQV4OFERdWW5QXQxXVwcQDRMFFR0aDEVAFA5YTAlcGxJWWxZKB0ZSEw4aUwQOUxAbE1ZYRFYRREkUDhRsNhIbElFKFl0IQV5eWhpbFFRQRw8TGRVYSzpEVUVARFwEXVJCFghACEQeFVxVQD5VVg1cUlJBXl5WFhQKFA0PAFwSGxJZXQxREl1FbkRRBRQDQQAEAQUDE0U=
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="北京",松视1http://z3.ubtvfans.com/live/rx3/402/733039a795cd903623dd9c87385ee32b/index.m3u8
+undefined
+#EXTINF:-1,tvg-id="松视2" tvg-name="松视2" tvg-logo="https://epg.112114.xyz/logo/松视2.png" group-title="X.其他",松视2
+http://104.194.10.200:25461/live/271871095922/006886711863/6.m3u8?token=SRVZVERZGl8UCA4FVw9TAlQFBQRQWgAEDlIGDlYBAQcCAAIEDwMIAA4SGhZFTRdVVl1rWwYaXAMbE0FLBERmClYVCxcABhpJFERfWVMbXwAbEkRbBhpcEAYDAw5RFBVBV09FUEVfWQlpVFNCX1oAEg1eQV4OFERdWW5QXQxXVwcQDRMFFR0aDEVAFA5YTAlcGxJWWxZKB0ZSEw4aUwQOUxAbE1ZYRFYRREkUDhRsNhIbElFKFl0IQV5eWhpbFFRQRw8TGRVYSzpEVUVARFwEXVJCFghACEQeFVxVQD5VVg1cUlJBXl5WFhQKFA0PAFwSGxJZXQxREl1FbkRRBRQDQQAEAQUDE0U=
+#EXTINF:-1,tvg-id="松 视3" tvg-name="松 视3" tvg-logo="https://epg.112114.xyz/logo/松视3.png" group-title="X.其他",松 视3
+http://104.194.10.200:25461/live/271871095922/006886711863/20205.m3u8?token=SRVZVERZGl8UCA4FVw9TAlQFBQRQWgAEDlIGDlYBAQcCAAIEDwMIAA4SGhZFTRdVVl1rWwYaXAMbE0FLBERmClYVCxcABhpJFERfWVMbXwAbEkRbBhpcEAYDAw5RFBVBV09FUEVfWQlpVFNCX1oAEg1eQV4OFERdWW5QXQxXVwcQDRMFFR0aDEVAFA5YTAlcGxJWWxZKB0ZSEw4aUwQOUxAbE1ZYRFYRREkUDhRsNhIbElFKFl0IQV5eWhpbFFRQRw8TGRVYSzpEVUVARFwEXVJCFghACEQeFVxVQD5VVg1cUlJBXl5WFhQKFA0PAFwSGxJZXQxREl1FbkRRBRQDQQAEAQUDE0U=
+#EXTINF:-1,tvg-id="femjoy" tvg-name="femjoy" tvg-logo="https://epg.112114.xyz/logo/FEMJOY.png" group-title="X.其他",femjoy
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6212/index.m3u8
+#EXTINF:-1,tvg-id="Кино 18+" tvg-name="Кино 18+" tvg-logo="https://epg.112114.xyz/logo/КИНО18+.png" group-title="X.其他",Кино 18+
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18075/index.m3u8
+#EXTINF:-1,tvg-id="Eromania 4K" tvg-name="Eromania 4K" tvg-logo="https://epg.112114.xyz/logo/EROMANIA4K.png" group-title="X.其他",Eromania 4K
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/10049/index.m3u8
+#EXTINF:-1,tvg-id="Playboy" tvg-name="Playboy" tvg-logo="https://epg.112114.xyz/logo/PLAYBOY.png" group-title="X.其他",Playboy
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/527/index.m3u8
+#EXTINF:-1,tvg-id="Русская Ночь" tvg-name="Русская Ночь" tvg-logo="https://epg.112114.xyz/logo/РУССКАЯНОЧЬ.png" group-title="X.其他",Русская Ночь
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/147/index.m3u8
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",Brazzers TV Europe
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/910/index.m3u8
+#EXTINF:-1,tvg-id="Blue Hustler" tvg-name="Blue Hustler" tvg-logo="https://epg.112114.xyz/logo/BLUEHUSTLER.png" group-title="X.其他",Blue Hustler
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/1064/index.m3u8
+#EXTINF:-1,tvg-id="Barely legal" tvg-name="Barely legal" tvg-logo="https://epg.112114.xyz/logo/BARELYLEGAL.png" group-title="X.其他",Barely legal
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/871/index.m3u8
+#EXTINF:-1,tvg-id="Redlight HD" tvg-name="Redlight HD" tvg-logo="https://epg.112114.xyz/logo/REDLIGHT.png" group-title="X.其他",Redlight HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/242/index.m3u8
+#EXTINF:-1,tvg-id="Private TV" tvg-name="Private TV" tvg-logo="https://epg.112114.xyz/logo/PRIVATETV.png" group-title="X.其他",Private TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/243/index.m3u8
+#EXTINF:-1,tvg-id="Hustler HD Europe" tvg-name="Hustler HD Europe" tvg-logo="https://epg.112114.xyz/logo/HUSTLERHDEUROPE.png" group-title="X.其他",Hustler HD Europe
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/244/index.m3u8
+#EXTINF:-1,tvg-id="ELTV" tvg-name="ELTV" tvg-logo="https://epg.112114.xyz/logo/ELTV.png" group-title="X.其他",Dorcel TV HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/245/index.m3u8
+#EXTINF:-1,tvg-id="Premier Sports 1 HD 50 UK" tvg-name="Premier Sports 1 HD 50 UK" tvg-logo="https://epg.112114.xyz/logo/PREMIERSPORTS1HD50UK.png" group-title="X.其他",Premier Sports 1 HD 50 UK
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/2160/index.m3u8
+#EXTINF:-1,tvg-id="O-la-la" tvg-name="O-la-la" tvg-logo="https://epg.112114.xyz/logo/OLALA.png" group-title="X.其他",O-la-la
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/2161/index.m3u8
+#EXTINF:-1,tvg-id="Vivid Red HD" tvg-name="Vivid Red HD" tvg-logo="https://epg.112114.xyz/logo/VIVIDRED.png" group-title="X.其他",Vivid Red HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/2162/index.m3u8
+#EXTINF:-1,tvg-id="Exxxotica HD" tvg-name="Exxxotica HD" tvg-logo="https://epg.112114.xyz/logo/EXXXOTICA.png" group-title="X.其他",Exxxotica HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/2397/index.m3u8
+#EXTINF:-1,tvg-id="XXL" tvg-name="XXL" tvg-logo="https://epg.112114.xyz/logo/XXL.png" group-title="X.其他",XXL
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/5009/index.m3u8
+#EXTINF:-1,tvg-id="Penthouse Passion" tvg-name="Penthouse Passion" tvg-logo="https://epg.112114.xyz/logo/PENTHOUSEPASSION.png" group-title="X.其他",Penthouse Passion
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/5010/index.m3u8
+#EXTINF:-1,tvg-id="Penthouse Gold HD" tvg-name="Penthouse Gold HD" tvg-logo="https://epg.112114.xyz/logo/PENTHOUSEGOLD.png" group-title="X.其他",Penthouse Gold HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/5011/index.m3u8
+#EXTINF:-1,tvg-id="Penthouse Reality TV HD" tvg-name="Penthouse Reality TV HD" tvg-logo="https://epg.112114.xyz/logo/PENTHOUSEREALITYTV.png" group-title="X.其他",Penthouse Reality TV HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/5012/index.m3u8
+#EXTINF:-1,tvg-id="Penthouse Reality TV FHD" tvg-name="Penthouse Reality TV FHD" tvg-logo="https://epg.112114.xyz/logo/PENTHOUSEREALITYTV.png" group-title="X.其他",Penthouse Reality TV FHD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/5013/index.m3u8
+#EXTINF:-1,tvg-id="Extasy 4K" tvg-name="Extasy 4K" tvg-logo="https://epg.112114.xyz/logo/EXTASY4K.png" group-title="X.其他",Extasy 4K
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/5014/index.m3u8
+#EXTINF:-1,tvg-id="Eroxxx HD" tvg-name="Eroxxx HD" tvg-logo="https://epg.112114.xyz/logo/EROXXX.png" group-title="X.其他",Eroxxx HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/5015/index.m3u8
+#EXTINF:-1,tvg-id="A3 Bikini" tvg-name="A3 Bikini" tvg-logo="https://epg.112114.xyz/logo/A3BIKINI.png" group-title="X.其他",A3 Bikini
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6165/index.m3u8
+#EXTINF:-1,tvg-id="Adult Time" tvg-name="Adult Time" tvg-logo="https://epg.112114.xyz/logo/ADULTTIME.png" group-title="X.其他",Adult Time
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6166/index.m3u8
+#EXTINF:-1,tvg-id="Anal Red TV" tvg-name="Anal Red TV" tvg-logo="https://epg.112114.xyz/logo/ANALREDTV.png" group-title="X.其他",Anal Red TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6167/index.m3u8
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",Analized HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6168/index.m3u8
+#EXTINF:-1,tvg-id="Babes HD" tvg-name="Babes HD" tvg-logo="https://epg.112114.xyz/logo/BABES.png" group-title="X.其他",Babes HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6171/index.m3u8
+#EXTINF:-1,tvg-id="Babes TV HD" tvg-name="Babes TV HD" tvg-logo="https://epg.112114.xyz/logo/BABESTV.png" group-title="X.其他",Babes TV HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6172/index.m3u8
+#EXTINF:-1,tvg-id="Bang Bros HD" tvg-name="Bang Bros HD" tvg-logo="https://epg.112114.xyz/logo/BANGBROS.png" group-title="X.其他",Bang Bros HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6173/index.m3u8
+#EXTINF:-1,tvg-id="Bang!" tvg-name="Bang!" tvg-logo="https://epg.112114.xyz/logo/BANG!.png" group-title="X.其他",Bang!
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6174/index.m3u8
+#EXTINF:-1,tvg-id="Big Ass Adult TV" tvg-name="Big Ass Adult TV" tvg-logo="https://epg.112114.xyz/logo/BIGASSADULTTV.png" group-title="X.其他",Big Ass Adult TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6175/index.m3u8
+#EXTINF:-1,tvg-id="Big Dick Red TV" tvg-name="Big Dick Red TV" tvg-logo="https://epg.112114.xyz/logo/BIGDICKREDTV.png" group-title="X.其他",Big Dick Red TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6176/index.m3u8
+#EXTINF:-1,tvg-id="Big Tits Adult TV" tvg-name="Big Tits Adult TV" tvg-logo="https://epg.112114.xyz/logo/BIGTITSADULTTV.png" group-title="X.其他",Big Tits Adult TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6177/index.m3u8
+#EXTINF:-1,tvg-id="Blacked HD" tvg-name="Blacked HD" tvg-logo="https://epg.112114.xyz/logo/BLACKED.png" group-title="X.其他",Blacked HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6178/index.m3u8
+#EXTINF:-1,tvg-id="Blonde Adult TV" tvg-name="Blonde Adult TV" tvg-logo="https://epg.112114.xyz/logo/BLONDEADULTTV.png" group-title="X.其他",Blonde Adult TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6179/index.m3u8
+#EXTINF:-1,tvg-id="Blowjob Red TV" tvg-name="Blowjob Red TV" tvg-logo="https://epg.112114.xyz/logo/BLOWJOBREDTV.png" group-title="X.其他",Blowjob Red TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6180/index.m3u8
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",Brazzers eXXtra
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6181/index.m3u8
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",Brazzers HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6182/index.m3u8
+#EXTINF:-1,tvg-id="Brunette Adult TV" tvg-name="Brunette Adult TV" tvg-logo="https://epg.112114.xyz/logo/BRUNETTEADULTTV.png" group-title="X.其他",Brunette Adult TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6183/index.m3u8
+#EXTINF:-1,tvg-id="Cherry Pimps" tvg-name="Cherry Pimps" tvg-logo="https://epg.112114.xyz/logo/CHERRYPIMPS.png" group-title="X.其他",Cherry Pimps
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6185/index.m3u8
+#EXTINF:-1,tvg-id="Club 17" tvg-name="Club 17" tvg-logo="https://epg.112114.xyz/logo/CLUB17.png" group-title="X.其他",Club 17
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6186/index.m3u8
+#EXTINF:-1,tvg-id="Compilation Adult TV" tvg-name="Compilation Adult TV" tvg-logo="https://epg.112114.xyz/logo/COMPILATIONADULTTV.png" group-title="X.其他",Compilation Adult TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6187/index.m3u8
+#EXTINF:-1,tvg-id="Cuckold Red TV" tvg-name="Cuckold Red TV" tvg-logo="https://epg.112114.xyz/logo/CUCKOLDREDTV.png" group-title="X.其他",Cuckold Red TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6188/index.m3u8
+#EXTINF:-1,tvg-id="Cum Louder" tvg-name="Cum Louder" tvg-logo="https://epg.112114.xyz/logo/CUMLOUDER.png" group-title="X.其他",Cum Louder
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6189/index.m3u8
+#EXTINF:-1,tvg-id="Cum4k" tvg-name="Cum4k" tvg-logo="https://epg.112114.xyz/logo/CUM4K.png" group-title="X.其他",Cum4k
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6190/index.m3u8
+#EXTINF:-1,tvg-id="Daughter Swap" tvg-name="Daughter Swap" tvg-logo="https://epg.112114.xyz/logo/DAUGHTERSWAP.png" group-title="X.其他",Daughter Swap
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6191/index.m3u8
+#EXTINF:-1,tvg-id="Day with a Pornstar" tvg-name="Day with a Pornstar" tvg-logo="https://epg.112114.xyz/logo/DAYWITHAPORNSTAR.png" group-title="X.其他",Day with a Pornstar
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6192/index.m3u8
+#EXTINF:-1,tvg-id="DDF Busty" tvg-name="DDF Busty" tvg-logo="https://epg.112114.xyz/logo/DDFBUSTY.png" group-title="X.其他",DDF Busty
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6193/index.m3u8
+#EXTINF:-1,tvg-id="DDF Network" tvg-name="DDF Network" tvg-logo="https://epg.112114.xyz/logo/DDFNETWORK.png" group-title="X.其他",DDF Network
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6194/index.m3u8
+#EXTINF:-1,tvg-id="Digital Desire HD" tvg-name="Digital Desire HD" tvg-logo="https://epg.112114.xyz/logo/DIGITALDESIRE.png" group-title="X.其他",Digital Desire HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6195/index.m3u8
+#EXTINF:-1,tvg-id="Digital Playground HD" tvg-name="Digital Playground HD" tvg-logo="https://epg.112114.xyz/logo/DIGITALPLAYGROUND.png" group-title="X.其他",Digital Playground HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6196/index.m3u8
+#EXTINF:-1,tvg-id="Dorcel Club" tvg-name="Dorcel Club" tvg-logo="https://epg.112114.xyz/logo/DORCELCLUB.png" group-title="X.其他",Dorcel Club
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6197/index.m3u8
+#EXTINF:-1,tvg-id="Dusk" tvg-name="Dusk" tvg-logo="https://epg.112114.xyz/logo/DUSK.png" group-title="X.其他",Dusk
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6198/index.m3u8
+#EXTINF:-1,tvg-id="Evil Angel HD" tvg-name="Evil Angel HD" tvg-logo="https://epg.112114.xyz/logo/EVILANGEL.png" group-title="X.其他",Evil Angel HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6199/index.m3u8
+#EXTINF:-1,tvg-id="Evolved Fights" tvg-name="Evolved Fights" tvg-logo="https://epg.112114.xyz/logo/EVOLVEDFIGHTS.png" group-title="X.其他",Evolved Fights
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6200/index.m3u8
+#EXTINF:-1,tvg-id="Fake Taxi HD" tvg-name="Fake Taxi HD" tvg-logo="https://epg.112114.xyz/logo/FAKETAXI.png" group-title="X.其他",Fake Taxi HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6202/index.m3u8
+#EXTINF:-1,tvg-id="Fap TV 2" tvg-name="Fap TV 2" tvg-logo="https://epg.112114.xyz/logo/FAPTV2.png" group-title="X.其他",Fap TV 2
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6203/index.m3u8
+#EXTINF:-1,tvg-id="Fap TV 3" tvg-name="Fap TV 3" tvg-logo="https://epg.112114.xyz/logo/FAPTV3.png" group-title="X.其他",Fap TV 3
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6204/index.m3u8
+#EXTINF:-1,tvg-id="Fap TV 4" tvg-name="Fap TV 4" tvg-logo="https://epg.112114.xyz/logo/FAPTV4.png" group-title="X.其他",Fap TV 4
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6205/index.m3u8
+#EXTINF:-1,tvg-id="Fap TV Anal" tvg-name="Fap TV Anal" tvg-logo="https://epg.112114.xyz/logo/FAPTVANAL.png" group-title="X.其他",Fap TV Anal
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6206/index.m3u8
+#EXTINF:-1,tvg-id="Fap TV BBW" tvg-name="Fap TV BBW" tvg-logo="https://epg.112114.xyz/logo/FAPTVBBW.png" group-title="X.其他",Fap TV BBW
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6207/index.m3u8
+#EXTINF:-1,tvg-id="Fap TV Compilation" tvg-name="Fap TV Compilation" tvg-logo="https://epg.112114.xyz/logo/FAPTVCOMPILATION.png" group-title="X.其他",Fap TV Compilation
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6208/index.m3u8
+#EXTINF:-1,tvg-id="Fap TV Lesbian" tvg-name="Fap TV Lesbian" tvg-logo="https://epg.112114.xyz/logo/FAPTVLESBIAN.png" group-title="X.其他",Fap TV Lesbian
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6209/index.m3u8
+#EXTINF:-1,tvg-id="Fap TV Parody" tvg-name="Fap TV Parody" tvg-logo="https://epg.112114.xyz/logo/FAPTVPARODY.png" group-title="X.其他",Fap TV Parody
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6210/index.m3u8
+#EXTINF:-1,tvg-id="Fap TV Teens" tvg-name="Fap TV Teens" tvg-logo="https://epg.112114.xyz/logo/FAPTVTEENS.png" group-title="X.其他",Fap TV Teens
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6211/index.m3u8
+#EXTINF:-1,tvg-id="FemJoy" tvg-name="FemJoy" tvg-logo="https://epg.112114.xyz/logo/FEMJOY.png" group-title="X.其他",FemJoy
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6212/index.m3u8
+#EXTINF:-1,tvg-id="Fetish Red TV" tvg-name="Fetish Red TV" tvg-logo="https://epg.112114.xyz/logo/FETISHREDTV.png" group-title="X.其他",Fetish Red TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6213/index.m3u8
+#EXTINF:-1,tvg-id="Gangbang Adult TV" tvg-name="Gangbang Adult TV" tvg-logo="https://epg.112114.xyz/logo/GANGBANGADULTTV.png" group-title="X.其他",Gangbang Adult TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6214/index.m3u8
+#EXTINF:-1,tvg-id="Gay Adult TV" tvg-name="Gay Adult TV" tvg-logo="https://epg.112114.xyz/logo/GAYADULTTV.png" group-title="X.其他",Gay Adult TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6215/index.m3u8
+#EXTINF:-1,tvg-id="Got MYLF" tvg-name="Got MYLF" tvg-logo="https://epg.112114.xyz/logo/GOTMYLF.png" group-title="X.其他",Got MYLF
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6216/index.m3u8
+#EXTINF:-1,tvg-id="Hands on Hardcore" tvg-name="Hands on Hardcore" tvg-logo="https://epg.112114.xyz/logo/HANDSONHARDCORE.png" group-title="X.其他",Hands on Hardcore
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6217/index.m3u8
+#EXTINF:-1,tvg-id="Hard X" tvg-name="Hard X" tvg-logo="https://epg.112114.xyz/logo/HARDX.png" group-title="X.其他",Hard X
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6218/index.m3u8
+#EXTINF:-1,tvg-id="Hardcore Red TV" tvg-name="Hardcore Red TV" tvg-logo="https://epg.112114.xyz/logo/HARDCOREREDTV.png" group-title="X.其他",Hardcore Red TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6219/index.m3u8
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",Hitzefrei HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6220/index.m3u8
+#EXTINF:-1,tvg-id="Holed" tvg-name="Holed" tvg-logo="https://epg.112114.xyz/logo/HOLED.png" group-title="X.其他",Holed
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6221/index.m3u8
+#EXTINF:-1,tvg-id="Hot and Mean" tvg-name="Hot and Mean" tvg-logo="https://epg.112114.xyz/logo/HOTANDMEAN.png" group-title="X.其他",Hot and Mean
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6222/index.m3u8
+#EXTINF:-1,tvg-id="Hot Guys Fuck" tvg-name="Hot Guys Fuck" tvg-logo="https://epg.112114.xyz/logo/HOTGUYSFUCK.png" group-title="X.其他",Hot Guys Fuck
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6223/index.m3u8
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="X.其他",Interracial Red TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6224/index.m3u8
+#EXTINF:-1,tvg-id="Japan HDV" tvg-name="Japan HDV" tvg-logo="https://epg.112114.xyz/logo/JAPANHDV.png" group-title="X.其他",Japan HDV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6225/index.m3u8
+#EXTINF:-1,tvg-id="Latina Red TV" tvg-name="Latina Red TV" tvg-logo="https://epg.112114.xyz/logo/LATINAREDTV.png" group-title="X.其他",Latina Red TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6226/index.m3u8
+#EXTINF:-1,tvg-id="Lesbea" tvg-name="Lesbea" tvg-logo="https://epg.112114.xyz/logo/LESBEA.png" group-title="X.其他",Lesbea
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6227/index.m3u8
+#EXTINF:-1,tvg-id="Lesbian Red TV" tvg-name="Lesbian Red TV" tvg-logo="https://epg.112114.xyz/logo/LESBIANREDTV.png" group-title="X.其他",Lesbian Red TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6228/index.m3u8
+#EXTINF:-1,tvg-id="Lethal Hardcore" tvg-name="Lethal Hardcore" tvg-logo="https://epg.112114.xyz/logo/LETHALHARDCORE.png" group-title="X.其他",Lethal Hardcore
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6229/index.m3u8
+#EXTINF:-1,tvg-id="Little Asians HD" tvg-name="Little Asians HD" tvg-logo="https://epg.112114.xyz/logo/LITTLEASIANS.png" group-title="X.其他",Little Asians HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6230/index.m3u8
+#EXTINF:-1,tvg-id="Live Cams Adult TV" tvg-name="Live Cams Adult TV" tvg-logo="https://epg.112114.xyz/logo/LIVECAMSADULTTV.png" group-title="X.其他",Live Cams Adult TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6231/index.m3u8
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="X.其他",Lust Cinema
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6232/index.m3u8
+#EXTINF:-1,tvg-id="MetArt HD" tvg-name="MetArt HD" tvg-logo="https://epg.112114.xyz/logo/METART.png" group-title="X.其他",MetArt HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6233/index.m3u8
+#EXTINF:-1,tvg-id="MILF Red TV" tvg-name="MILF Red TV" tvg-logo="https://epg.112114.xyz/logo/MILFREDTV.png" group-title="X.其他",MILF Red TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6234/index.m3u8
+#EXTINF:-1,tvg-id="Monsters of Cock" tvg-name="Monsters of Cock" tvg-logo="https://epg.112114.xyz/logo/MONSTERSOFCOCK.png" group-title="X.其他",Monsters of Cock
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6235/index.m3u8
+#EXTINF:-1,tvg-id="MYLF TV HD" tvg-name="MYLF TV HD" tvg-logo="https://epg.112114.xyz/logo/MYLFTV.png" group-title="X.其他",MYLF TV HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6236/index.m3u8
+#EXTINF:-1,tvg-id="Naughty America" tvg-name="Naughty America" tvg-logo="https://epg.112114.xyz/logo/NAUGHTYAMERICA.png" group-title="X.其他",Naughty America
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6237/index.m3u8
+#EXTINF:-1,tvg-id="Nubiles TV HD" tvg-name="Nubiles TV HD" tvg-logo="https://epg.112114.xyz/logo/NUBILESTV.png" group-title="X.其他",Nubiles TV HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6238/index.m3u8
+#EXTINF:-1,tvg-id="Pink Erotic 3" tvg-name="Pink Erotic 3" tvg-logo="https://epg.112114.xyz/logo/PINKEROTIC3.png" group-title="X.其他",Pink Erotic 3
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6240/index.m3u8
+#EXTINF:-1,tvg-id="Pink Erotic 4" tvg-name="Pink Erotic 4" tvg-logo="https://epg.112114.xyz/logo/PINKEROTIC4.png" group-title="X.其他",Pink Erotic 4
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6241/index.m3u8
+#EXTINF:-1,tvg-id="Playboy Plus" tvg-name="Playboy Plus" tvg-logo="https://epg.112114.xyz/logo/PLAYBOYPLUS.png" group-title="X.其他",Playboy Plus
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6242/index.m3u8
+#EXTINF:-1,tvg-id="Pornstar Red TV" tvg-name="Pornstar Red TV" tvg-logo="https://epg.112114.xyz/logo/PORNSTARREDTV.png" group-title="X.其他",Pornstar Red TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6243/index.m3u8
+#EXTINF:-1,tvg-id="POV Adult TV" tvg-name="POV Adult TV" tvg-logo="https://epg.112114.xyz/logo/POVADULTTV.png" group-title="X.其他",POV Adult TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6244/index.m3u8
+#EXTINF:-1,tvg-id="Private HD" tvg-name="Private HD" tvg-logo="https://epg.112114.xyz/logo/PRIVATE.png" group-title="X.其他",Private HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6245/index.m3u8
+#EXTINF:-1,tvg-id="Public Agent" tvg-name="Public Agent" tvg-logo="https://epg.112114.xyz/logo/PUBLICAGENT.png" group-title="X.其他",Public Agent
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6246/index.m3u8
+#EXTINF:-1,tvg-id="Reality Kings HD" tvg-name="Reality Kings HD" tvg-logo="https://epg.112114.xyz/logo/REALITYKINGS.png" group-title="X.其他",Reality Kings HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6247/index.m3u8
+#EXTINF:-1,tvg-id="RK Prime" tvg-name="RK Prime" tvg-logo="https://epg.112114.xyz/logo/RKPRIME.png" group-title="X.其他",RK Prime
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6248/index.m3u8
+#EXTINF:-1,tvg-id="RK TV" tvg-name="RK TV" tvg-logo="https://epg.112114.xyz/logo/RKTV.png" group-title="X.其他",RK TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6249/index.m3u8
+#EXTINF:-1,tvg-id="Rough Adult TV" tvg-name="Rough Adult TV" tvg-logo="https://epg.112114.xyz/logo/ROUGHADULTTV.png" group-title="X.其他",Rough Adult TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6250/index.m3u8
+#EXTINF:-1,tvg-id="Russian Adult TV" tvg-name="Russian Adult TV" tvg-logo="https://epg.112114.xyz/logo/RUSSIANADULTTV.png" group-title="X.其他",Russian Adult TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6251/index.m3u8
+#EXTINF:-1,tvg-id="Sex With Muslims" tvg-name="Sex With Muslims" tvg-logo="https://epg.112114.xyz/logo/SEXWITHMUSLIMS.png" group-title="X.其他",Sex With Muslims
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6252/index.m3u8
+#EXTINF:-1,tvg-id="SexArt" tvg-name="SexArt" tvg-logo="https://epg.112114.xyz/logo/SEXART.png" group-title="X.其他",SexArt
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6253/index.m3u8
+#EXTINF:-1,tvg-id="SINematica" tvg-name="SINematica" tvg-logo="https://epg.112114.xyz/logo/SINEMATICA.png" group-title="X.其他",SINematica
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6255/index.m3u8
+#EXTINF:-1,tvg-id="Teen Red TV" tvg-name="Teen Red TV" tvg-logo="https://epg.112114.xyz/logo/TEENREDTV.png" group-title="X.其他",Teen Red TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6256/index.m3u8
+#EXTINF:-1,tvg-id="Threesome Red TV" tvg-name="Threesome Red TV" tvg-logo="https://epg.112114.xyz/logo/THREESOMEREDTV.png" group-title="X.其他",Threesome Red TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6257/index.m3u8
+#EXTINF:-1,tvg-id="Tiny4K" tvg-name="Tiny4K" tvg-logo="https://epg.112114.xyz/logo/TINY4K.png" group-title="X.其他",Tiny4K
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6258/index.m3u8
+#EXTINF:-1,tvg-id="Trans Angels" tvg-name="Trans Angels" tvg-logo="https://epg.112114.xyz/logo/TRANSANGELS.png" group-title="X.其他",Trans Angels
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6259/index.m3u8
+#EXTINF:-1,tvg-id="True Amateurs" tvg-name="True Amateurs" tvg-logo="https://epg.112114.xyz/logo/TRUEAMATEURS.png" group-title="X.其他",True Amateurs
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6260/index.m3u8
+#EXTINF:-1,tvg-id="Tushy HD" tvg-name="Tushy HD" tvg-logo="https://epg.112114.xyz/logo/TUSHY.png" group-title="X.其他",Tushy HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6261/index.m3u8
+#EXTINF:-1,tvg-id="TushyRAW" tvg-name="TushyRAW" tvg-logo="https://epg.112114.xyz/logo/TUSHYRAW.png" group-title="X.其他",TushyRAW
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6262/index.m3u8
+#EXTINF:-1,tvg-id="Visit-X TV" tvg-name="Visit-X TV" tvg-logo="https://epg.112114.xyz/logo/VISITXTV.png" group-title="X.其他",Visit-X TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6263/index.m3u8
+#EXTINF:-1,tvg-id="Vivid TV Europe" tvg-name="Vivid TV Europe" tvg-logo="https://epg.112114.xyz/logo/VIVIDTVEUROPE.png" group-title="X.其他",Vivid TV Europe
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6264/index.m3u8
+#EXTINF:-1,tvg-id="Vixen HD" tvg-name="Vixen HD" tvg-logo="https://epg.112114.xyz/logo/VIXEN.png" group-title="X.其他",Vixen HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6265/index.m3u8
+#EXTINF:-1,tvg-id="We Live Together" tvg-name="We Live Together" tvg-logo="https://epg.112114.xyz/logo/WELIVETOGETHER.png" group-title="X.其他",We Live Together
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6266/index.m3u8
+#EXTINF:-1,tvg-id="White Boxxx" tvg-name="White Boxxx" tvg-logo="https://epg.112114.xyz/logo/WHITEBOXXX.png" group-title="X.其他",White Boxxx
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6267/index.m3u8
+#EXTINF:-1,tvg-id="Wicked" tvg-name="Wicked" tvg-logo="https://epg.112114.xyz/logo/WICKED.png" group-title="X.其他",Wicked
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6268/index.m3u8
+#EXTINF:-1,tvg-id="Xpanded TV" tvg-name="Xpanded TV" tvg-logo="https://epg.112114.xyz/logo/XPANDEDTV.png" group-title="X.其他",Xpanded TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6269/index.m3u8
+#EXTINF:-1,tvg-id="Balkan Erotic" tvg-name="Balkan Erotic" tvg-logo="https://epg.112114.xyz/logo/BALKANEROTIC.png" group-title="X.其他",Balkan Erotic
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6270/index.m3u8
+#EXTINF:-1,tvg-id="Red Lips" tvg-name="Red Lips" tvg-logo="https://epg.112114.xyz/logo/REDLIPS.png" group-title="X.其他",Red Lips
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6271/index.m3u8
+#EXTINF:-1,tvg-id="Leo TV HD" tvg-name="Leo TV HD" tvg-logo="https://epg.112114.xyz/logo/LEOTV.png" group-title="X.其他",Leo TV HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6272/index.m3u8
+#EXTINF:-1,tvg-id="BLUEANTEXTREME" tvg-name="BLUEANTEXTREME" tvg-logo="https://epg.112114.xyz/logo/BLUEANTEXTREME.png" group-title="X.其他",Extreme
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6273/index.m3u8
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",Fast Boyz
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6274/index.m3u8
+#EXTINF:-1,tvg-id="HOT" tvg-name="HOT" tvg-logo="https://epg.112114.xyz/logo/HOT.png" group-title="X.其他",HOT
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6275/index.m3u8
+#EXTINF:-1,tvg-id="HOT XXL HD" tvg-name="HOT XXL HD" tvg-logo="https://epg.112114.xyz/logo/HOTXXL.png" group-title="X.其他",HOT XXL HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6276/index.m3u8
+#EXTINF:-1,tvg-id="Hot Pleasure" tvg-name="Hot Pleasure" tvg-logo="https://epg.112114.xyz/logo/HOTPLEASURE.png" group-title="X.其他",Hot Pleasure
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6277/index.m3u8
+#EXTINF:-1,tvg-id="Playboy LA" tvg-name="Playboy LA" tvg-logo="https://epg.112114.xyz/logo/PLAYBOYLA.png" group-title="X.其他",Playboy LA
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6280/index.m3u8
+#EXTINF:-1,tvg-id="Red XXX" tvg-name="Red XXX" tvg-logo="https://epg.112114.xyz/logo/REDXXX.png" group-title="X.其他",Red XXX
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6281/index.m3u8
+#EXTINF:-1,tvg-id="Sexy Hot" tvg-name="Sexy Hot" tvg-logo="https://epg.112114.xyz/logo/SEXYHOT.png" group-title="X.其他",Sexy Hot
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6282/index.m3u8
+#EXTINF:-1,tvg-id="Venus" tvg-name="Venus" tvg-logo="https://epg.112114.xyz/logo/VENUS.png" group-title="X.其他",Venus
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6284/index.m3u8
+#EXTINF:-1,tvg-id="FOXMOVIES" tvg-name="FOXMOVIES" tvg-logo="https://epg.112114.xyz/logo/FOXMOVIES.png" group-title="X.其他",X-MO
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6285/index.m3u8
+#EXTINF:-1,tvg-id="XY Max HD" tvg-name="XY Max HD" tvg-logo="https://epg.112114.xyz/logo/XYMAX.png" group-title="X.其他",XY Max HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6286/index.m3u8
+#EXTINF:-1,tvg-id="XY Mix HD" tvg-name="XY Mix HD" tvg-logo="https://epg.112114.xyz/logo/XYMIX.png" group-title="X.其他",XY Mix HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6287/index.m3u8
+#EXTINF:-1,tvg-id="XY Plus HD" tvg-name="XY Plus HD" tvg-logo="https://epg.112114.xyz/logo/XYPLUS.png" group-title="X.其他",XY Plus HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6288/index.m3u8
+#EXTINF:-1,tvg-id="Erotic" tvg-name="Erotic" tvg-logo="https://epg.112114.xyz/logo/EROTIC.png" group-title="X.其他",Erotic
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6289/index.m3u8
+#EXTINF:-1,tvg-id="Erotic 2" tvg-name="Erotic 2" tvg-logo="https://epg.112114.xyz/logo/EROTIC2.png" group-title="X.其他",Erotic 2
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6290/index.m3u8
+#EXTINF:-1,tvg-id="Erotic 3" tvg-name="Erotic 3" tvg-logo="https://epg.112114.xyz/logo/EROTIC3.png" group-title="X.其他",Erotic 3
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6291/index.m3u8
+#EXTINF:-1,tvg-id="Erotic 4" tvg-name="Erotic 4" tvg-logo="https://epg.112114.xyz/logo/EROTIC4.png" group-title="X.其他",Erotic 4
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6292/index.m3u8
+#EXTINF:-1,tvg-id="Erotic 6" tvg-name="Erotic 6" tvg-logo="https://epg.112114.xyz/logo/EROTIC6.png" group-title="X.其他",Erotic 6
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6293/index.m3u8
+#EXTINF:-1,tvg-id="Erotic 7" tvg-name="Erotic 7" tvg-logo="https://epg.112114.xyz/logo/EROTIC7.png" group-title="X.其他",Erotic 7
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6294/index.m3u8
+#EXTINF:-1,tvg-id="Erotic 8" tvg-name="Erotic 8" tvg-logo="https://epg.112114.xyz/logo/EROTIC8.png" group-title="X.其他",Erotic 8
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6295/index.m3u8
+#EXTINF:-1,tvg-id="Erox HD" tvg-name="Erox HD" tvg-logo="https://epg.112114.xyz/logo/EROX.png" group-title="X.其他",Erox HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6296/index.m3u8
+#EXTINF:-1,tvg-id="SuperOne HD" tvg-name="SuperOne HD" tvg-logo="https://epg.112114.xyz/logo/SUPERONE.png" group-title="X.其他",SuperOne HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6298/index.m3u8
+#EXTINF:-1,tvg-id="Dorcel HD orig" tvg-name="Dorcel HD orig" tvg-logo="https://epg.112114.xyz/logo/DORCELHDORIG.png" group-title="X.其他",Dorcel HD orig
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/9064/index.m3u8
+#EXTINF:-1,tvg-id="Hustler HD orig" tvg-name="Hustler HD orig" tvg-logo="https://epg.112114.xyz/logo/HUSTLERHDORIG.png" group-title="X.其他",Hustler HD orig
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/9065/index.m3u8
+#EXTINF:-1,tvg-id="Redlight HD orig" tvg-name="Redlight HD orig" tvg-logo="https://epg.112114.xyz/logo/REDLIGHTHDORIG.png" group-title="X.其他",Redlight HD orig
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/9066/index.m3u8
+#EXTINF:-1,tvg-id="Русская Ночь orig" tvg-name="Русская Ночь orig" tvg-logo="https://epg.112114.xyz/logo/РУССКАЯНОЧЬORIG.png" group-title="X.其他",Русская Ночь orig
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/9344/index.m3u8
+#EXTINF:-1,tvg-id="EXXXOTICA HD orig" tvg-name="EXXXOTICA HD orig" tvg-logo="https://epg.112114.xyz/logo/EXXXOTICAHDORIG.png" group-title="X.其他",EXXXOTICA HD orig
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/9346/index.m3u8
+#EXTINF:-1,tvg-id="Shot TV orig" tvg-name="Shot TV orig" tvg-logo="https://epg.112114.xyz/logo/SHOTTVORIG.png" group-title="X.其他",Shot TV orig
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/9347/index.m3u8
+#EXTINF:-1,tvg-id="EXTASY HD" tvg-name="EXTASY HD" tvg-logo="https://epg.112114.xyz/logo/EXTASY.png" group-title="X.其他",EXTASY HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/11051/index.m3u8
+#EXTINF:-1,tvg-id="KinoXXX" tvg-name="KinoXXX" tvg-logo="https://epg.112114.xyz/logo/KINOXXX.png" group-title="X.其他",KinoXXX
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/11052/index.m3u8
+#EXTINF:-1,tvg-id="ОХ-АХ HD" tvg-name="ОХ-АХ HD" tvg-logo="https://epg.112114.xyz/logo/ОХАХ.png" group-title="X.其他",ОХ-АХ HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/11068/index.m3u8
+#EXTINF:-1,tvg-id="VF Cartoon 18+" tvg-name="VF Cartoon 18+" tvg-logo="https://epg.112114.xyz/logo/VFCARTOON18+.png" group-title="X.其他",VF Cartoon 18+
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/11117/index.m3u8
+#EXTINF:-1,tvg-id="Alba 1" tvg-name="Alba 1" tvg-logo="https://epg.112114.xyz/logo/ALBA1.png" group-title="X.其他",Alba 1
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12106/index.m3u8
+#EXTINF:-1,tvg-id="Exotic 4k" tvg-name="Exotic 4k" tvg-logo="https://epg.112114.xyz/logo/EXOTIC4K.png" group-title="X.其他",Exotic 4k
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12107/index.m3u8
+#EXTINF:-1,tvg-id="Euro Girls On Girls" tvg-name="Euro Girls On Girls" tvg-logo="https://epg.112114.xyz/logo/EUROGIRLSONGIRLS.png" group-title="X.其他",Euro Girls On Girls
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12108/index.m3u8
+#EXTINF:-1,tvg-id="Erotica X" tvg-name="Erotica X" tvg-logo="https://epg.112114.xyz/logo/EROTICAX.png" group-title="X.其他",Erotica X
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12109/index.m3u8
+#EXTINF:-1,tvg-id="Erotic Spice" tvg-name="Erotic Spice" tvg-logo="https://epg.112114.xyz/logo/EROTICSPICE.png" group-title="X.其他",Erotic Spice
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12110/index.m3u8
+#EXTINF:-1,tvg-id="DP Fanatics" tvg-name="DP Fanatics" tvg-logo="https://epg.112114.xyz/logo/DPFANATICS.png" group-title="X.其他",DP Fanatics
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12111/index.m3u8
+#EXTINF:-1,tvg-id="PURE BABES" tvg-name="PURE BABES" tvg-logo="https://epg.112114.xyz/logo/PUREBABES.png" group-title="X.其他",PURE BABES
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12112/index.m3u8
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",BRAZZERS TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12113/index.m3u8
+#EXTINF:-1,tvg-id="XY Plus 1" tvg-name="XY Plus 1" tvg-logo="https://epg.112114.xyz/logo/XYPLUS1.png" group-title="X.其他",XY Plus 1
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12115/index.m3u8
+#EXTINF:-1,tvg-id="XY Plus 2" tvg-name="XY Plus 2" tvg-logo="https://epg.112114.xyz/logo/XYPLUS2.png" group-title="X.其他",XY Plus 2
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12116/index.m3u8
+#EXTINF:-1,tvg-id="XY Plus 6" tvg-name="XY Plus 6" tvg-logo="https://epg.112114.xyz/logo/XYPLUS6.png" group-title="X.其他",XY Plus 6
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12117/index.m3u8
+#EXTINF:-1,tvg-id="XY Plus 12" tvg-name="XY Plus 12" tvg-logo="https://epg.112114.xyz/logo/XYPLUS12.png" group-title="X.其他",XY Plus 12
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12118/index.m3u8
+#EXTINF:-1,tvg-id="XY Plus 24" tvg-name="XY Plus 24" tvg-logo="https://epg.112114.xyz/logo/XYPLUS24.png" group-title="X.其他",XY Plus 24
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12119/index.m3u8
+#EXTINF:-1,tvg-id="PASSION XXX" tvg-name="PASSION XXX" tvg-logo="https://epg.112114.xyz/logo/PASSIONXXX.png" group-title="X.其他",PASSION XXX
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12120/index.m3u8
+#EXTINF:-1,tvg-id="Super one HD" tvg-name="Super one HD" tvg-logo="https://epg.112114.xyz/logo/SUPERONE.png" group-title="X.其他",Super one HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12121/index.m3u8
+#EXTINF:-1,tvg-id="Dirty Wives Club" tvg-name="Dirty Wives Club" tvg-logo="https://epg.112114.xyz/logo/DIRTYWIVESCLUB.png" group-title="X.其他",Dirty Wives Club
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12122/index.m3u8
+#EXTINF:-1,tvg-id="French Lover" tvg-name="French Lover" tvg-logo="https://epg.112114.xyz/logo/FRENCHLOVER.png" group-title="X.其他",French Lover
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12124/index.m3u8
+#EXTINF:-1,tvg-id="Meiden Van Holland" tvg-name="Meiden Van Holland" tvg-logo="https://epg.112114.xyz/logo/MEIDENVANHOLLAND.png" group-title="X.其他",Meiden Van Holland
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12125/index.m3u8
+#EXTINF:-1,tvg-id="Dirty Masseur" tvg-name="Dirty Masseur" tvg-logo="https://epg.112114.xyz/logo/DIRTYMASSEUR.png" group-title="X.其他",Dirty Masseur
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12128/index.m3u8
+#EXTINF:-1,tvg-id="Dirty Flix" tvg-name="Dirty Flix" tvg-logo="https://epg.112114.xyz/logo/DIRTYFLIX.png" group-title="X.其他",Dirty Flix
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12130/index.m3u8
+#EXTINF:-1,tvg-id="ELTV" tvg-name="ELTV" tvg-logo="https://epg.112114.xyz/logo/ELTV.png" group-title="X.其他",DORCEL TV FHD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12131/index.m3u8
+#EXTINF:-1,tvg-id="DORCEL XXX TV" tvg-name="DORCEL XXX TV" tvg-logo="https://epg.112114.xyz/logo/DORCELXXXTV.png" group-title="X.其他",DORCEL XXX TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12132/index.m3u8
+#EXTINF:-1,tvg-id="Venus HD" tvg-name="Venus HD" tvg-logo="https://epg.112114.xyz/logo/VENUS.png" group-title="X.其他",Venus HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12133/index.m3u8
+#EXTINF:-1,tvg-id="PLAYBOY TV" tvg-name="PLAYBOY TV" tvg-logo="https://epg.112114.xyz/logo/PLAYBOYTV.png" group-title="X.其他",PLAYBOY TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12135/index.m3u8
+#EXTINF:-1,tvg-id="PASSIE TV" tvg-name="PASSIE TV" tvg-logo="https://epg.112114.xyz/logo/PASSIETV.png" group-title="X.其他",PASSIE TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12136/index.m3u8
+#EXTINF:-1,tvg-id="VERAPORN 4K" tvg-name="VERAPORN 4K" tvg-logo="https://epg.112114.xyz/logo/VERAPORN4K.png" group-title="X.其他",VERAPORN 4K
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12137/index.m3u8
+#EXTINF:-1,tvg-id="Deep Throat Sirens" tvg-name="Deep Throat Sirens" tvg-logo="https://epg.112114.xyz/logo/DEEPTHROATSIRENS.png" group-title="X.其他",Deep Throat Sirens
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12138/index.m3u8
+#EXTINF:-1,tvg-id="Deep Lush" tvg-name="Deep Lush" tvg-logo="https://epg.112114.xyz/logo/DEEPLUSH.png" group-title="X.其他",Deep Lush
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12139/index.m3u8
+#EXTINF:-1,tvg-id="Dark X" tvg-name="Dark X" tvg-logo="https://epg.112114.xyz/logo/DARKX.png" group-title="X.其他",Dark X
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12140/index.m3u8
+#EXTINF:-1,tvg-id="VERAPORN GROUP SEX" tvg-name="VERAPORN GROUP SEX" tvg-logo="https://epg.112114.xyz/logo/VERAPORNGROUPSEX.png" group-title="X.其他",VERAPORN GROUP SEX
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12141/index.m3u8
+#EXTINF:-1,tvg-id="VERAPORN GROUP SEX 2" tvg-name="VERAPORN GROUP SEX 2" tvg-logo="https://epg.112114.xyz/logo/VERAPORNGROUPSEX2.png" group-title="X.其他",VERAPORN GROUP SEX 2
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12142/index.m3u8
+#EXTINF:-1,tvg-id="Dane Jones" tvg-name="Dane Jones" tvg-logo="https://epg.112114.xyz/logo/DANEJONES.png" group-title="X.其他",Dane Jones
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12143/index.m3u8
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="X.其他",Dancing Bear
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12144/index.m3u8
+#EXTINF:-1,tvg-id="VERAPORN BIG TITS" tvg-name="VERAPORN BIG TITS" tvg-logo="https://epg.112114.xyz/logo/VERAPORNBIGTITS.png" group-title="X.其他",VERAPORN BIG TITS
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12145/index.m3u8
+#EXTINF:-1,tvg-id="PINK EROTICA 1" tvg-name="PINK EROTICA 1" tvg-logo="https://epg.112114.xyz/logo/PINKEROTICA1.png" group-title="X.其他",PINK EROTICA 1
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12146/index.m3u8
+#EXTINF:-1,tvg-id="PINK EROTICA 2" tvg-name="PINK EROTICA 2" tvg-logo="https://epg.112114.xyz/logo/PINKEROTICA2.png" group-title="X.其他",PINK EROTICA 2
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12147/index.m3u8
+#EXTINF:-1,tvg-id="PINK EROTICA 3" tvg-name="PINK EROTICA 3" tvg-logo="https://epg.112114.xyz/logo/PINKEROTICA3.png" group-title="X.其他",PINK EROTICA 3
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12148/index.m3u8
+#EXTINF:-1,tvg-id="PINK EROTICA 4" tvg-name="PINK EROTICA 4" tvg-logo="https://epg.112114.xyz/logo/PINKEROTICA4.png" group-title="X.其他",PINK EROTICA 4
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12149/index.m3u8
+#EXTINF:-1,tvg-id="PINK EROTICA 5" tvg-name="PINK EROTICA 5" tvg-logo="https://epg.112114.xyz/logo/PINKEROTICA5.png" group-title="X.其他",PINK EROTICA 5
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12150/index.m3u8
+#EXTINF:-1,tvg-id="PINK EROTICA 6" tvg-name="PINK EROTICA 6" tvg-logo="https://epg.112114.xyz/logo/PINKEROTICA6.png" group-title="X.其他",PINK EROTICA 6
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12151/index.m3u8
+#EXTINF:-1,tvg-id="PINK EROTICA 7" tvg-name="PINK EROTICA 7" tvg-logo="https://epg.112114.xyz/logo/PINKEROTICA7.png" group-title="X.其他",PINK EROTICA 7
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12152/index.m3u8
+#EXTINF:-1,tvg-id="PINK EROTICA 8" tvg-name="PINK EROTICA 8" tvg-logo="https://epg.112114.xyz/logo/PINKEROTICA8.png" group-title="X.其他",PINK EROTICA 8
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12153/index.m3u8
+#EXTINF:-1,tvg-id="Dad Crush" tvg-name="Dad Crush" tvg-logo="https://epg.112114.xyz/logo/DADCRUSH.png" group-title="X.其他",Dad Crush
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12154/index.m3u8
+#EXTINF:-1,tvg-id="Family Swap" tvg-name="Family Swap" tvg-logo="https://epg.112114.xyz/logo/FAMILYSWAP.png" group-title="X.其他",Family Swap
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12155/index.m3u8
+#EXTINF:-1,tvg-id="Family Strokes" tvg-name="Family Strokes" tvg-logo="https://epg.112114.xyz/logo/FAMILYSTROKES.png" group-title="X.其他",Family Strokes
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12156/index.m3u8
+#EXTINF:-1,tvg-id="Cum4k UHD" tvg-name="Cum4k UHD" tvg-logo="https://epg.112114.xyz/logo/CUM4KU.png" group-title="X.其他",Cum4k UHD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12157/index.m3u8
+#EXTINF:-1,tvg-id="Cum Perfection" tvg-name="Cum Perfection" tvg-logo="https://epg.112114.xyz/logo/CUMPERFECTION.png" group-title="X.其他",Cum Perfection
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12158/index.m3u8
+#EXTINF:-1,tvg-id="MetArt FHD" tvg-name="MetArt FHD" tvg-logo="https://epg.112114.xyz/logo/METART.png" group-title="X.其他",MetArt FHD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12160/index.m3u8
+#EXTINF:-1,tvg-id="Bratty Sis" tvg-name="Bratty Sis" tvg-logo="https://epg.112114.xyz/logo/BRATTYSIS.png" group-title="X.其他",Bratty Sis
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12161/index.m3u8
+#EXTINF:-1,tvg-id="Brand New Amateurs" tvg-name="Brand New Amateurs" tvg-logo="https://epg.112114.xyz/logo/BRANDNEWAMATEURS.png" group-title="X.其他",Brand New Amateurs
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12162/index.m3u8
+#EXTINF:-1,tvg-id="Beate Uhse" tvg-name="Beate Uhse" tvg-logo="https://epg.112114.xyz/logo/BEATEUHSE.png" group-title="X.其他",Beate Uhse
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12163/index.m3u8
+#EXTINF:-1,tvg-id="BBC Pie" tvg-name="BBC Pie" tvg-logo="https://epg.112114.xyz/logo/BBCPIE.png" group-title="X.其他",BBC Pie
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12164/index.m3u8
+#EXTINF:-1,tvg-id="Barely Legal TV" tvg-name="Barely Legal TV" tvg-logo="https://epg.112114.xyz/logo/BARELYLEGALTV.png" group-title="X.其他",Barely Legal TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12165/index.m3u8
+#EXTINF:-1,tvg-id="Bang POV" tvg-name="Bang POV" tvg-logo="https://epg.112114.xyz/logo/BANGPOV.png" group-title="X.其他",Bang POV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12166/index.m3u8
+#EXTINF:-1,tvg-id="Bang Bus" tvg-name="Bang Bus" tvg-logo="https://epg.112114.xyz/logo/BANGBUS.png" group-title="X.其他",Bang Bus
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12167/index.m3u8
+#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="X.其他",Banana Fever
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12168/index.m3u8
+#EXTINF:-1,tvg-id="EVE" tvg-name="EVE" tvg-logo="https://epg.112114.xyz/logo/EVE.png" group-title="X.其他",Asshole Fever
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12169/index.m3u8
+#EXTINF:-1,tvg-id="BAG U" tvg-name="BAG U" tvg-logo="https://epg.112114.xyz/logo/BAGU.png" group-title="X.其他",BAG U
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12170/index.m3u8
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="X.其他",XXXINTERRACIAL TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12171/index.m3u8
+#EXTINF:-1,tvg-id="LATINA TV" tvg-name="LATINA TV" tvg-logo="https://epg.112114.xyz/logo/LATINATV.png" group-title="X.其他",LATINA TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12172/index.m3u8
+#EXTINF:-1,tvg-id="MILF TV" tvg-name="MILF TV" tvg-logo="https://epg.112114.xyz/logo/MILFTV.png" group-title="X.其他",MILF TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12173/index.m3u8
+#EXTINF:-1,tvg-id="PORNSTAR TV" tvg-name="PORNSTAR TV" tvg-logo="https://epg.112114.xyz/logo/PORNSTARTV.png" group-title="X.其他",PORNSTAR TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12174/index.m3u8
+#EXTINF:-1,tvg-id="POV TV" tvg-name="POV TV" tvg-logo="https://epg.112114.xyz/logo/POVTV.png" group-title="X.其他",POV TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12175/index.m3u8
+#EXTINF:-1,tvg-id="ROUGH TV" tvg-name="ROUGH TV" tvg-logo="https://epg.112114.xyz/logo/ROUGHTV.png" group-title="X.其他",ROUGH TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12176/index.m3u8
+#EXTINF:-1,tvg-id="RUSSIAN TV" tvg-name="RUSSIAN TV" tvg-logo="https://epg.112114.xyz/logo/RUSSIANTV.png" group-title="X.其他",RUSSIAN TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12177/index.m3u8
+#EXTINF:-1,tvg-id="Ass Parade" tvg-name="Ass Parade" tvg-logo="https://epg.112114.xyz/logo/ASSPARADE.png" group-title="X.其他",Ass Parade
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12178/index.m3u8
+#EXTINF:-1,tvg-id="THREESOME TV" tvg-name="THREESOME TV" tvg-logo="https://epg.112114.xyz/logo/THREESOMETV.png" group-title="X.其他",THREESOME TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12180/index.m3u8
+#EXTINF:-1,tvg-id="Anal Time" tvg-name="Anal Time" tvg-logo="https://epg.112114.xyz/logo/ANALTIME.png" group-title="X.其他",Anal Time
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12181/index.m3u8
+#EXTINF:-1,tvg-id="Anal Teen Angels" tvg-name="Anal Teen Angels" tvg-logo="https://epg.112114.xyz/logo/ANALTEENANGELS.png" group-title="X.其他",Anal Teen Angels
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12183/index.m3u8
+#EXTINF:-1,tvg-id="Anal Only" tvg-name="Anal Only" tvg-logo="https://epg.112114.xyz/logo/ANALONLY.png" group-title="X.其他",Anal Only
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12184/index.m3u8
+#EXTINF:-1,tvg-id="HOTWIFE PREMIUM" tvg-name="HOTWIFE PREMIUM" tvg-logo="https://epg.112114.xyz/logo/HOTWIFEPREMIUM.png" group-title="X.其他",HOTWIFE PREMIUM
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12187/index.m3u8
+#EXTINF:-1,tvg-id="TUSHY TV" tvg-name="TUSHY TV" tvg-logo="https://epg.112114.xyz/logo/TUSHYTV.png" group-title="X.其他",TUSHY TV
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12188/index.m3u8
+#EXTINF:-1,tvg-id="Anal Mom" tvg-name="Anal Mom" tvg-logo="https://epg.112114.xyz/logo/ANALMOM.png" group-title="X.其他",Anal Mom
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12189/index.m3u8
+#EXTINF:-1,tvg-id="Anal 4K" tvg-name="Anal 4K" tvg-logo="https://epg.112114.xyz/logo/ANAL4K.png" group-title="X.其他",Anal 4K
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12190/index.m3u8
+#EXTINF:-1,tvg-id="Amateur Boxxx" tvg-name="Amateur Boxxx" tvg-logo="https://epg.112114.xyz/logo/AMATEURBOXXX.png" group-title="X.其他",Amateur Boxxx
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12191/index.m3u8
+#EXTINF:-1,tvg-id="All Anal" tvg-name="All Anal" tvg-logo="https://epg.112114.xyz/logo/ALLANAL.png" group-title="X.其他",All Anal
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12192/index.m3u8
+#EXTINF:-1,tvg-id="Alex Legend" tvg-name="Alex Legend" tvg-logo="https://epg.112114.xyz/logo/ALEXLEGEND.png" group-title="X.其他",Alex Legend
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12193/index.m3u8
+#EXTINF:-1,tvg-id="Alba XXX HD 2" tvg-name="Alba XXX HD 2" tvg-logo="https://epg.112114.xyz/logo/ALBAXXXHD2.png" group-title="X.其他",Alba XXX HD 2
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12194/index.m3u8
+#EXTINF:-1,tvg-id="Alba XXX 1 HD" tvg-name="Alba XXX 1 HD" tvg-logo="https://epg.112114.xyz/logo/ALBAXXX1.png" group-title="X.其他",Alba XXX 1 HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/12204/index.m3u8
+#EXTINF:-1,tvg-id="XXX Love\'s Berry HD" tvg-name="XXX Love\'s Berry HD" tvg-logo="https://epg.112114.xyz/logo/XXXLOVE\'SBERRY.png" group-title="X.其他",XXX Love\'s Berry HD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/14140/index.m3u8
+#EXTINF:-1,tvg-id="Yosso TV Sexy" tvg-name="Yosso TV Sexy" tvg-logo="https://epg.112114.xyz/logo/YOSSOTVSEXY.png" group-title="X.其他",Yosso TV Sexy
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/14176/index.m3u8
+#EXTINF:-1,tvg-id="Liberty Эротика FHD" tvg-name="Liberty Эротика FHD" tvg-logo="https://epg.112114.xyz/logo/LIBERTYЭРОТИКА.png" group-title="X.其他",Liberty Эротика FHD
+http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/16069/index.m3u8
+#EXTINF:-1,tvg-id="Babes TV HD" tvg-name="Babes TV HD" tvg-logo="https://epg.112114.xyz/logo/BABESTV.png" group-title="X.其他",Babes TV HD
+http://ott.watch/stream/A2Q8BAKW82/55.m3u8
+#EXTINF:-1,tvg-id="Exxxotica HD" tvg-name="Exxxotica HD" tvg-logo="https://epg.112114.xyz/logo/EXXXOTICA.png" group-title="X.其他",Exxxotica HD
+http://ott.watch/stream/A2Q8BAKW82/57.m3u8
+#EXTINF:-1,tvg-id="Frenchlover" tvg-name="Frenchlover" tvg-logo="https://epg.112114.xyz/logo/FRENCHLOVER.png" group-title="X.其他",Frenchlover
+http://ott.watch/stream/A2Q8BAKW82/54.m3u8
+#EXTINF:-1,tvg-id="Erox HD" tvg-name="Erox HD" tvg-logo="https://epg.112114.xyz/logo/EROX.png" group-title="X.其他",Erox HD
+http://ott.watch/stream/A2Q8BAKW82/58.m3u8
+#EXTINF:-1,tvg-id="Redlight HD" tvg-name="Redlight HD" tvg-logo="https://epg.112114.xyz/logo/REDLIGHT.png" group-title="X.其他",Redlight HD
+http://ott.watch/stream/A2Q8BAKW82/51.m3u8
+#EXTINF:-1,tvg-id="Hustler HD Europe" tvg-name="Hustler HD Europe" tvg-logo="https://epg.112114.xyz/logo/HUSTLERHDEUROPE.png" group-title="X.其他",Hustler HD Europe
+http://ott.watch/stream/A2Q8BAKW82/52.m3u8
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",Brazzers TV Europe HD
+http://ott.watch/stream/A2Q8BAKW82/53.m3u8
+#EXTINF:-1,tvg-id="Blue Hustler" tvg-name="Blue Hustler" tvg-logo="https://epg.112114.xyz/logo/BLUEHUSTLER.png" group-title="X.其他",Blue Hustler
+http://ott.watch/stream/A2Q8BAKW82/280.m3u8
+#EXTINF:-1,tvg-id="Private TV HD" tvg-name="Private TV HD" tvg-logo="https://epg.112114.xyz/logo/PRIVATETV.png" group-title="X.其他",Private TV HD
+http://ott.watch/stream/A2Q8BAKW82/282.m3u8
+#EXTINF:-1,tvg-id="Vivid Red HD" tvg-name="Vivid Red HD" tvg-logo="https://epg.112114.xyz/logo/VIVIDRED.png" group-title="X.其他",Vivid Red HD
+http://ott.watch/stream/A2Q8BAKW82/284.m3u8
+#EXTINF:-1,tvg-id="Barely Legal TV" tvg-name="Barely Legal TV" tvg-logo="https://epg.112114.xyz/logo/BARELYLEGALTV.png" group-title="X.其他",Barely Legal TV
+http://ott.watch/stream/A2Q8BAKW82/289.m3u8
+#EXTINF:-1,tvg-id="Playboy TV" tvg-name="Playboy TV" tvg-logo="https://epg.112114.xyz/logo/PLAYBOYTV.png" group-title="X.其他",Playboy TV
+http://ott.watch/stream/A2Q8BAKW82/290.m3u8
+#EXTINF:-1,tvg-id=" Blue Hustler" tvg-name=" Blue Hustler" tvg-logo="https://epg.112114.xyz/logo/BLUEHUSTLER.png" group-title="X.其他", Blue Hustler
+http://vipxdgdur.xyz:8080/VIP0149170610561350/b0f1f9d497da/25685 
+#EXTINF:-1,tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://epg.112114.xyz/logo/CHANNELNEWSASIA.png" group-title="X.其他",HA
+http://185.182.193.203:25461/yuichi520201/KxiTfr55ql/73744
+#EXTINF:-1,tvg-id="japanh" tvg-name="japanh" tvg-logo="https://epg.112114.xyz/logo/JAPANH.png" group-title="X.其他",japanh
+http://7e401b76.rossteleccom.net/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6225/index.m3u8
+#EXTINF:-1,tvg-id="jp" tvg-name="jp" tvg-logo="https://epg.112114.xyz/logo/JP.png" group-title="X.其他",jp
+http://5o6lqyah.dienalt.org/iptv/8F5P4TB738P2CW/6225/index.m3u8
+#EXTINF:-1,tvg-id="jp" tvg-name="jp" tvg-logo="https://epg.112114.xyz/logo/JP.png" group-title="X.其他",jp
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6225/index.m3u8
+#EXTINF:-1,tvg-id="Шокирующее" tvg-name="Шокирующее" tvg-logo="https://epg.112114.xyz/logo/ШОКИРУЮЩЕЕ.png" group-title="X.其他",Шокирующее
+http://rhsbjv7k.tvclub.xyz/iptv/56E8HVDHBARKLQ/6229/index.m3u8
+#EXTINF:-1,tvg-id="центральное" tvg-name="центральное" tvg-logo="https://epg.112114.xyz/logo/ЦЕНТРАЛЬНОЕ.png" group-title="X.其他",центральное
+http://d029dcec.kazmazpaz.ru/iptv/5FRTASC825NL7B/20090/manifest.m3u8
+#EXTINF:-1,tvg-id="japan" tvg-name="japan" tvg-logo="https://epg.112114.xyz/logo/JAPAN.png" group-title="X.其他",japan
+http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6225/manifest.m3u8
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",1311http://gustvplay.com:8080/CwcspkjCgzeZ/m5mknNRdkmc9/1311
+undefined
+#EXTINF:-1,tvg-id="japanhdv" tvg-name="japanhdv" tvg-logo="https://epg.112114.xyz/logo/JAPANHDV.png" group-title="X.其他",japanhdv
+http://v5yxxgnc.ottclub.xyz/iptv/SKRMAACV4QDM4F/6225/index.m3u8
+#EXTINF:-1,tvg-id="japanhdv" tvg-name="japanhdv" tvg-logo="https://epg.112114.xyz/logo/JAPANHDV.png" group-title="X.其他",japanhdv
+http://d029dcec.kazmazpaz.ru/iptv/BG3TE5HEQRXENC/6200/manifest.m3u8
+#EXTINF:-1,tvg-id="japanhdv" tvg-name="japanhdv" tvg-logo="https://epg.112114.xyz/logo/JAPANHDV.png" group-title="X.其他",japanhdv
+http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6225/index.m3u8
+#EXTINF:-1,tvg-id="playboy" tvg-name="playboy" tvg-logo="https://epg.112114.xyz/logo/PLAYBOY.png" group-title="X.其他",playboy
+http://v5yxxgnc.ottclub.xyz/iptv/SKRMAACV4QDM4F/527/index.m3u8
+#EXTINF:-1,tvg-id="playboy" tvg-name="playboy" tvg-logo="https://epg.112114.xyz/logo/PLAYBOY.png" group-title="X.其他",playboy
+http://4os6vafy.ottclub.xyz/iptv/GW6RW5TY9TAR8L/527/index.m3u8
+#EXTINF:-1,tvg-id="Playboy Plus" tvg-name="Playboy Plus" tvg-logo="https://epg.112114.xyz/logo/PLAYBOYPLUS.png" group-title="X.其他",Playboy Plus
+http://v5yxxgnc.ottclub.xyz/iptv/SKRMAACV4QDM4F/6242/index.m3u8
+#EXTINF:-1,tvg-id="BCU Charm" tvg-name="BCU Charm" tvg-logo="https://epg.112114.xyz/logo/BCUCHARM.png" group-title="X.其他",BCU Charm
+http://v5yxxgnc.ottclub.xyz/iptv/SKRMAACV4QDM4F/18053/index.m3u8
+#EXTINF:-1,tvg-id="Playboy Plus" tvg-name="Playboy Plus" tvg-logo="https://epg.112114.xyz/logo/PLAYBOYPLUS.png" group-title="X.其他",Playboy Plus
+http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6242/index.m3u8
+#EXTINF:-1,tvg-id="Кино +18" tvg-name="Кино +18" tvg-logo="https://epg.112114.xyz/logo/КИНО+18.png" group-title="X.其他",Кино +18
+http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/18075/index.m3u8
+#EXTINF:-1,tvg-id="Кино +18" tvg-name="Кино +18" tvg-logo="https://epg.112114.xyz/logo/КИНО+18.png" group-title="X.其他",Кино +18
+http://cdn.klimedia.space/lb/kino1plus18/index.m3u8?token=klimedia.space:YWxka2ZqYWZqOmFsZGtmamFmag==
+#EXTINF:-1,tvg-id="BABES" tvg-name="BABES" tvg-logo="https://epg.112114.xyz/logo/BABES.png" group-title="X.其他",BABES
+http://cord-cutter.net:8080/7MArer2/382185/159959
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",BRAZZERS
+http://cord-cutter.net:8080/7MArer2/382185/159966
+#EXTINF:-1,tvg-id="supertv" tvg-name="supertv" tvg-logo="https://epg.112114.xyz/logo/SUPERTV.png" group-title="X.其他",supertv
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/276
+#EXTINF:-1,tvg-id=" Red Erotic 1" tvg-name=" Red Erotic 1" tvg-logo="https://epg.112114.xyz/logo/REDEROTIC1.png" group-title="X.其他", Red Erotic 1
+http://supersonictv.live:8080/kevinmarcia/444666445/86437
+#EXTINF:-1,tvg-id=" passion" tvg-name=" passion" tvg-logo="https://epg.112114.xyz/logo/PASSION.png" group-title="X.其他", passion
+https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
+#EXTINF:-1,tvg-id="VISIT-X" tvg-name="VISIT-X" tvg-logo="https://epg.112114.xyz/logo/VISITX.png" group-title="X.其他",VISIT-X
+http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:-1,tvg-id="Rough" tvg-name="Rough" tvg-logo="https://epg.112114.xyz/logo/ROUGH.png" group-title="X.其他",Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1,tvg-id="playboy" tvg-name="playboy" tvg-logo="https://epg.112114.xyz/logo/PLAYBOY.png" group-title="X.其他",playboy
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1,tvg-id="japanhdv" tvg-name="japanhdv" tvg-logo="https://epg.112114.xyz/logo/JAPANHDV.png" group-title="X.其他",japanhdv
+http://88b9da48.kazmazpaz.ru/iptv/WSMQQSF4M7PGWH/6225/manifest.m3u8
+#EXTINF:-1,tvg-id="Blue Hustler" tvg-name="Blue Hustler" tvg-logo="https://epg.112114.xyz/logo/BLUEHUSTLER.png" group-title="X.其他",Blue Hustler
+http://188.114.73.107:9981/stream/channelid/2006597829?profile=pass
+#EXTINF:-1,tvg-id="box" tvg-name="box" tvg-logo="https://epg.112114.xyz/logo/BOX.png" group-title="X.其他",box
+http://206.212.244.71:8080/4wVQA7/625159/159951
+#EXTINF:-1,tvg-id="LEGAL" tvg-name="LEGAL" tvg-logo="https://epg.112114.xyz/logo/LEGAL.png" group-title="X.其他",LEGAL
+http://168.119.255.170/716/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1,tvg-id="DDF" tvg-name="DDF" tvg-logo="https://epg.112114.xyz/logo/DDF.png" group-title="X.其他",DDF
+http://tvshare.ottrast.com/iptv/BF9GWX8VNPYM9X/6217/index.m3u8
+#EXTINF:-1,tvg-id="legal" tvg-name="legal" tvg-logo="https://epg.112114.xyz/logo/LEGAL.png" group-title="X.其他",legal
+http://162.19.243.184/716/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1,tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png" group-title="X.其他",bl
+http://162.19.243.184/715/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1,tvg-id="hu" tvg-name="hu" tvg-logo="https://epg.112114.xyz/logo/HU.png" group-title="X.其他",hu
+http://162.19.243.184/714/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1,tvg-id="MYCINEMAEUROPE" tvg-name="MYCINEMAEUROPE" tvg-logo="https://epg.112114.xyz/logo/MYCINEMAEUROPE.png" group-title="X.其他",pe
+http://162.19.243.184/713/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1,tvg-id="GOODTV" tvg-name="GOODTV" tvg-logo="https://epg.112114.xyz/logo/GOODTV.png" group-title="X.其他",go
+http://162.19.243.184/712/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1,tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://epg.112114.xyz/logo/BLOOMBERGTV.png" group-title="X.其他",bl
+http://162.19.243.184/711/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1,tvg-id="knho18+" tvg-name="knho18+" tvg-logo="https://epg.112114.xyz/logo/KNHO18+.png" group-title="X.其他",knho18+
+http://162.19.243.184/710/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1,tvg-id="got" tvg-name="got" tvg-logo="https://epg.112114.xyz/logo/GOT.png" group-title="X.其他",got
+http://162.19.243.184/708/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1,tvg-id="ph" tvg-name="ph" tvg-logo="https://epg.112114.xyz/logo/PH.png" group-title="X.其他",ph
+http://162.19.243.184/707/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1,tvg-id="wp" tvg-name="wp" tvg-logo="https://epg.112114.xyz/logo/WP.png" group-title="X.其他",wp
+http://162.19.243.184/706/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1,tvg-id="EUROSPORT" tvg-name="EUROSPORT" tvg-logo="https://epg.112114.xyz/logo/EUROSPORT.png" group-title="X.其他",po
+http://162.19.243.184/705/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1,tvg-id="pri" tvg-name="pri" tvg-logo="https://epg.112114.xyz/logo/PRI.png" group-title="X.其他",pri
+http://162.19.243.184/704/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1,tvg-id="BLUEANTENTERTAINMENT" tvg-name="BLUEANTENTERTAINMENT" tvg-logo="https://epg.112114.xyz/logo/BLUEANTENTERTAINMENT.png" group-title="X.其他",blue
+http://162.19.243.184/703/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1,tvg-id="red" tvg-name="red" tvg-logo="https://epg.112114.xyz/logo/RED.png" group-title="X.其他",red
+http://162.19.243.184/702/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1,tvg-id="dorcel" tvg-name="dorcel" tvg-logo="https://epg.112114.xyz/logo/DORCEL.png" group-title="X.其他",dorcel
+http://162.19.243.184/701/mono.m3u8?token=M4f082ab4c
+#EXTINF:-1,tvg-id="ADULTO 1 Pornobox" tvg-name="ADULTO 1 Pornobox" tvg-logo="https://epg.112114.xyz/logo/ADULTO1PORNOBOX.png" group-title="X.其他",ADULTO 1 Pornobox
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10262.m3u8
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",ADULT 2 Brazzers
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10263.m3u8
+#EXTINF:-1,tvg-id="ADULT 3 Venus" tvg-name="ADULT 3 Venus" tvg-logo="https://epg.112114.xyz/logo/ADULT3VENUS.png" group-title="X.其他",ADULT 3 Venus
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10264.m3u8
+#EXTINF:-1,tvg-id="PLAYBOY" tvg-name="PLAYBOY" tvg-logo="https://epg.112114.xyz/logo/PLAYBOY.png" group-title="X.其他",PLAYBOY
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10265.m3u8
+#EXTINF:-1,tvg-id="SEX PRIVE" tvg-name="SEX PRIVE" tvg-logo="https://epg.112114.xyz/logo/SEXPRIVE.png" group-title="X.其他",SEX PRIVE
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10266.m3u8
+#EXTINF:-1,tvg-id="SEXTREME" tvg-name="SEXTREME" tvg-logo="https://epg.112114.xyz/logo/SEXTREME.png" group-title="X.其他",SEXTREME
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10267.m3u8
+#EXTINF:-1,tvg-id="SEXY HOT" tvg-name="SEXY HOT" tvg-logo="https://epg.112114.xyz/logo/SEXYHOT.png" group-title="X.其他",SEXY HOT
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10268.m3u8
+#EXTINF:-1,tvg-id="松视3https://18.svi-studio.com/live/271871095922/006886711863/20205.m3u8" tvg-name="松视3https://18.svi-studio.com/live/271871095922/006886711863/20205.m3u8" tvg-logo="https://epg.112114.xyz/logo/松视3HTTPS://18.SVISTUDIO.COM/LIVE///3U8.png" group-title="X.其他",松视3https://18.svi-studio.com/live/271871095922/006886711863/20205.m3u8
+undefined
+#EXTINF:-1,tvg-id="PLAYBOY" tvg-name="PLAYBOY" tvg-logo="https://epg.112114.xyz/logo/PLAYBOY.png" group-title="X.其他",PLAYBOY
+http://94.242.53.2:8080/AmirBilali/76448035/14222 
+#EXTINF:-1,tvg-id="PLAYBOY Brasil" tvg-name="PLAYBOY Brasil" tvg-logo="https://epg.112114.xyz/logo/PLAYBOYBRASIL.png" group-title="X.其他",PLAYBOY Brasil
+http://94.242.53.2:8080/AmirBilali/76448035/300141
+#EXTINF:-1,tvg-id="playboytv" tvg-name="playboytv" tvg-logo="https://epg.112114.xyz/logo/PLAYBOYTV.png" group-title="X.其他",playboytv
+http://38.41.8.1:8000/play/a0b7
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",Adult Brazzers TV 1
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20512
+#EXTINF:-1,tvg-id="Adult Classic Sex Channel 1" tvg-name="Adult Classic Sex Channel 1" tvg-logo="https://epg.112114.xyz/logo/ADULTCLASSICSEXCHANNEL1.png" group-title="X.其他",Adult Classic Sex Channel 1
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20474
+#EXTINF:-1,tvg-id="ELTV" tvg-name="ELTV" tvg-logo="https://epg.112114.xyz/logo/ELTV.png" group-title="X.其他",Adult Dorcel TV
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20511
+#EXTINF:-1,tvg-id="Adult Evil Angel 1" tvg-name="Adult Evil Angel 1" tvg-logo="https://epg.112114.xyz/logo/ADULTEVILANGEL1.png" group-title="X.其他",Adult Evil Angel 1
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20508
+#EXTINF:-1,tvg-id="Adult Evil Angel 2" tvg-name="Adult Evil Angel 2" tvg-logo="https://epg.112114.xyz/logo/ADULTEVILANGEL2.png" group-title="X.其他",Adult Evil Angel 2
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20509
+#EXTINF:-1,tvg-id="Adult HotClub" tvg-name="Adult HotClub" tvg-logo="https://epg.112114.xyz/logo/ADULTHOTCLUB.png" group-title="X.其他",Adult HotClub
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20497
+#EXTINF:-1,tvg-id="Adult HotClub 7" tvg-name="Adult HotClub 7" tvg-logo="https://epg.112114.xyz/logo/ADULTHOTCLUB7.png" group-title="X.其他",Adult HotClub 7
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20502
+#EXTINF:-1,tvg-id="Adult HotClub 8" tvg-name="Adult HotClub 8" tvg-logo="https://epg.112114.xyz/logo/ADULTHOTCLUB8.png" group-title="X.其他",Adult HotClub 8
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20503
+#EXTINF:-1,tvg-id="Adult HotClub 9" tvg-name="Adult HotClub 9" tvg-logo="https://epg.112114.xyz/logo/ADULTHOTCLUB9.png" group-title="X.其他",Adult HotClub 9
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20504
+#EXTINF:-1,tvg-id="Adult HotClub Anal" tvg-name="Adult HotClub Anal" tvg-logo="https://epg.112114.xyz/logo/ADULTHOTCLUBANAL.png" group-title="X.其他",Adult HotClub Anal
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20475
+#EXTINF:-1,tvg-id="Adult Hotclub Asian Redlight" tvg-name="Adult Hotclub Asian Redlight" tvg-logo="https://epg.112114.xyz/logo/ADULTHOTCLUBASIANREDLIGHT.png" group-title="X.其他",Adult Hotclub Asian Redlight
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20477
+#EXTINF:-1,tvg-id="Adult HotClub Black" tvg-name="Adult HotClub Black" tvg-logo="https://epg.112114.xyz/logo/ADULTHOTCLUBBLACK.png" group-title="X.其他",Adult HotClub Black
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20496
+#EXTINF:-1,tvg-id="Adult HotClub Blowjob Extreme" tvg-name="Adult HotClub Blowjob Extreme" tvg-logo="https://epg.112114.xyz/logo/ADULTHOTCLUBBLOWJOBEXTREME.png" group-title="X.其他",Adult HotClub Blowjob Extreme
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20498
+#EXTINF:-1,tvg-id="Adult HotClub Femdom" tvg-name="Adult HotClub Femdom" tvg-logo="https://epg.112114.xyz/logo/ADULTHOTCLUBFEMDOM.png" group-title="X.其他",Adult HotClub Femdom
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20499
+#EXTINF:-1,tvg-id="Adult HotClub Gone Wild" tvg-name="Adult HotClub Gone Wild" tvg-logo="https://epg.112114.xyz/logo/ADULTHOTCLUBGONEWILD.png" group-title="X.其他",Adult HotClub Gone Wild
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20476
+#EXTINF:-1,tvg-id="Adult HotClub GroupSex" tvg-name="Adult HotClub GroupSex" tvg-logo="https://epg.112114.xyz/logo/ADULTHOTCLUBGROUPSEX.png" group-title="X.其他",Adult HotClub GroupSex
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20500
+#EXTINF:-1,tvg-id="Adult HotClub Mixed Girls" tvg-name="Adult HotClub Mixed Girls" tvg-logo="https://epg.112114.xyz/logo/ADULTHOTCLUBMIXEDGIRLS.png" group-title="X.其他",Adult HotClub Mixed Girls
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20501
+#EXTINF:-1,tvg-id="Adult Gangbang Gone Wild" tvg-name="Adult Gangbang Gone Wild" tvg-logo="https://epg.112114.xyz/logo/ADULTGANGBANGGONEWILD.png" group-title="X.其他",Adult Gangbang Gone Wild
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20473
+#EXTINF:-1,tvg-id="Adult Hustler TV" tvg-name="Adult Hustler TV" tvg-logo="https://epg.112114.xyz/logo/ADULTHUSTLERTV.png" group-title="X.其他",Adult Hustler TV
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20505
+#EXTINF:-1,tvg-id="OUTDOOR" tvg-name="OUTDOOR" tvg-logo="https://epg.112114.xyz/logo/OUTDOOR.png" group-title="X.其他",Adult Outdoor Club
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20472
+#EXTINF:-1,tvg-id="Adult Passionate 1" tvg-name="Adult Passionate 1" tvg-logo="https://epg.112114.xyz/logo/ADULTPASSIONATE1.png" group-title="X.其他",Adult Passionate 1
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20494
+#EXTINF:-1,tvg-id="Adult Passionate 2" tvg-name="Adult Passionate 2" tvg-logo="https://epg.112114.xyz/logo/ADULTPASSIONATE2.png" group-title="X.其他",Adult Passionate 2
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20495
+#EXTINF:-1,tvg-id="Adult Penthouse 1" tvg-name="Adult Penthouse 1" tvg-logo="https://epg.112114.xyz/logo/ADULTPENTHOUSE1.png" group-title="X.其他",Adult Penthouse 1
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20492
+#EXTINF:-1,tvg-id="Adult Penthouse 2" tvg-name="Adult Penthouse 2" tvg-logo="https://epg.112114.xyz/logo/ADULTPENTHOUSE2.png" group-title="X.其他",Adult Penthouse 2
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20493
+#EXTINF:-1,tvg-id="Adult Pinko 1" tvg-name="Adult Pinko 1" tvg-logo="https://epg.112114.xyz/logo/ADULTPINKO1.png" group-title="X.其他",Adult Pinko 1
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20484
+#EXTINF:-1,tvg-id="Adult Pinko 2" tvg-name="Adult Pinko 2" tvg-logo="https://epg.112114.xyz/logo/ADULTPINKO2.png" group-title="X.其他",Adult Pinko 2
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20485
+#EXTINF:-1,tvg-id="Adult Playboy TV" tvg-name="Adult Playboy TV" tvg-logo="https://epg.112114.xyz/logo/ADULTPLAYBOYTV.png" group-title="X.其他",Adult Playboy TV
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20510
+#EXTINF:-1,tvg-id="Adult Playboy TV USA" tvg-name="Adult Playboy TV USA" tvg-logo="https://epg.112114.xyz/logo/ADULTPLAYBOYTVUSA.png" group-title="X.其他",Adult Playboy TV USA
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/38040
+#EXTINF:-1,tvg-id="Adult Red Erotic 1" tvg-name="Adult Red Erotic 1" tvg-logo="https://epg.112114.xyz/logo/ADULTREDEROTIC1.png" group-title="X.其他",Adult Red Erotic 1
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20486
+#EXTINF:-1,tvg-id="Adult Red Erotic 2" tvg-name="Adult Red Erotic 2" tvg-logo="https://epg.112114.xyz/logo/ADULTREDEROTIC2.png" group-title="X.其他",Adult Red Erotic 2
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20487
+#EXTINF:-1,tvg-id="Adult Red Erotic 3" tvg-name="Adult Red Erotic 3" tvg-logo="https://epg.112114.xyz/logo/ADULTREDEROTIC3.png" group-title="X.其他",Adult Red Erotic 3
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20488
+#EXTINF:-1,tvg-id="Adult Red Erotic 4" tvg-name="Adult Red Erotic 4" tvg-logo="https://epg.112114.xyz/logo/ADULTREDEROTIC4.png" group-title="X.其他",Adult Red Erotic 4
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20489
+#EXTINF:-1,tvg-id="Adult Red Erotic 5" tvg-name="Adult Red Erotic 5" tvg-logo="https://epg.112114.xyz/logo/ADULTREDEROTIC5.png" group-title="X.其他",Adult Red Erotic 5
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20490
+#EXTINF:-1,tvg-id="Adult Red Erotic 6" tvg-name="Adult Red Erotic 6" tvg-logo="https://epg.112114.xyz/logo/ADULTREDEROTIC6.png" group-title="X.其他",Adult Red Erotic 6
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20491
+#EXTINF:-1,tvg-id="Adult Redlight District 1" tvg-name="Adult Redlight District 1" tvg-logo="https://epg.112114.xyz/logo/ADULTREDLIGHTDISTRICT1.png" group-title="X.其他",Adult Redlight District 1
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20478
+#EXTINF:-1,tvg-id="Adult Redlight District 2" tvg-name="Adult Redlight District 2" tvg-logo="https://epg.112114.xyz/logo/ADULTREDLIGHTDISTRICT2.png" group-title="X.其他",Adult Redlight District 2
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20479
+#EXTINF:-1,tvg-id="Adult Redlight District 3" tvg-name="Adult Redlight District 3" tvg-logo="https://epg.112114.xyz/logo/ADULTREDLIGHTDISTRICT3.png" group-title="X.其他",Adult Redlight District 3
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20480
+#EXTINF:-1,tvg-id="Adult SexTream" tvg-name="Adult SexTream" tvg-logo="https://epg.112114.xyz/logo/ADULTSEXTREAM.png" group-title="X.其他",Adult SexTream
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20506
+#EXTINF:-1,tvg-id="Adult Barely 18" tvg-name="Adult Barely 18" tvg-logo="https://epg.112114.xyz/logo/ADULTBARELY18.png" group-title="X.其他",Adult Barely 18
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20507
+#EXTINF:-1,tvg-id="Adult Venus 1" tvg-name="Adult Venus 1" tvg-logo="https://epg.112114.xyz/logo/ADULTVENUS1.png" group-title="X.其他",Adult Venus 1
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20481
+#EXTINF:-1,tvg-id="Adult Venus 2" tvg-name="Adult Venus 2" tvg-logo="https://epg.112114.xyz/logo/ADULTVENUS2.png" group-title="X.其他",Adult Venus 2
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20482
+#EXTINF:-1,tvg-id="Adult Xtreme Satisfaction" tvg-name="Adult Xtreme Satisfaction" tvg-logo="https://epg.112114.xyz/logo/ADULTXTREMESATISFACTION.png" group-title="X.其他",Adult Xtreme Satisfaction
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/20483
+#EXTINF:-1,tvg-id="Adult Girls Do Porn 1" tvg-name="Adult Girls Do Porn 1" tvg-logo="https://epg.112114.xyz/logo/ADULTGIRLSDOPORN1.png" group-title="X.其他",Adult Girls Do Porn 1
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/72813
+#EXTINF:-1,tvg-id="Adult Girls Do Porn 2" tvg-name="Adult Girls Do Porn 2" tvg-logo="https://epg.112114.xyz/logo/ADULTGIRLSDOPORN2.png" group-title="X.其他",Adult Girls Do Porn 2
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/72814
+#EXTINF:-1,tvg-id="Adult Girls Do Porn 3" tvg-name="Adult Girls Do Porn 3" tvg-logo="https://epg.112114.xyz/logo/ADULTGIRLSDOPORN3.png" group-title="X.其他",Adult Girls Do Porn 3
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/72815
+#EXTINF:-1,tvg-id="Adult Girls Do Porn 4" tvg-name="Adult Girls Do Porn 4" tvg-logo="https://epg.112114.xyz/logo/ADULTGIRLSDOPORN4.png" group-title="X.其他",Adult Girls Do Porn 4
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/72816
+#EXTINF:-1,tvg-id="Adult Girls Do Porn 5" tvg-name="Adult Girls Do Porn 5" tvg-logo="https://epg.112114.xyz/logo/ADULTGIRLSDOPORN5.png" group-title="X.其他",Adult Girls Do Porn 5
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/72817
+#EXTINF:-1,tvg-id="Adult Girls Do Porn 6" tvg-name="Adult Girls Do Porn 6" tvg-logo="https://epg.112114.xyz/logo/ADULTGIRLSDOPORN6.png" group-title="X.其他",Adult Girls Do Porn 6
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/72818
+#EXTINF:-1,tvg-id="Adult Girls Do Porn 7" tvg-name="Adult Girls Do Porn 7" tvg-logo="https://epg.112114.xyz/logo/ADULTGIRLSDOPORN7.png" group-title="X.其他",Adult Girls Do Porn 7
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/72819
+#EXTINF:-1,tvg-id="Adult Girls Do Porn 8" tvg-name="Adult Girls Do Porn 8" tvg-logo="https://epg.112114.xyz/logo/ADULTGIRLSDOPORN8.png" group-title="X.其他",Adult Girls Do Porn 8
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/72820
+#EXTINF:-1,tvg-id="Adult Girls Do Porn 9" tvg-name="Adult Girls Do Porn 9" tvg-logo="https://epg.112114.xyz/logo/ADULTGIRLSDOPORN9.png" group-title="X.其他",Adult Girls Do Porn 9
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/72821
+#EXTINF:-1,tvg-id="Adult Girls Do Porn 10" tvg-name="Adult Girls Do Porn 10" tvg-logo="https://epg.112114.xyz/logo/ADULTGIRLSDOPORN10.png" group-title="X.其他",Adult Girls Do Porn 10
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/72822
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",Adult Brazzers TV 2
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/76423
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",Adult Brazzers TV 3
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/76424
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",Adult Brazzers TV 4
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/76425
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",Adult Brazzers TV 5
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/76426
+#EXTINF:-1,tvg-id="Adult Sensation 1" tvg-name="Adult Sensation 1" tvg-logo="https://epg.112114.xyz/logo/ADULTSENSATION1.png" group-title="X.其他",Adult Sensation 1
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/76427
+#EXTINF:-1,tvg-id="Adult Sensation 2" tvg-name="Adult Sensation 2" tvg-logo="https://epg.112114.xyz/logo/ADULTSENSATION2.png" group-title="X.其他",Adult Sensation 2
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/76428
+#EXTINF:-1,tvg-id="Adult Sensation 3" tvg-name="Adult Sensation 3" tvg-logo="https://epg.112114.xyz/logo/ADULTSENSATION3.png" group-title="X.其他",Adult Sensation 3
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/76429
+#EXTINF:-1,tvg-id="Adult Sensation 4" tvg-name="Adult Sensation 4" tvg-logo="https://epg.112114.xyz/logo/ADULTSENSATION4.png" group-title="X.其他",Adult Sensation 4
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/76430
+#EXTINF:-1,tvg-id="Adult Sensation 5" tvg-name="Adult Sensation 5" tvg-logo="https://epg.112114.xyz/logo/ADULTSENSATION5.png" group-title="X.其他",Adult Sensation 5
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/76431
+#EXTINF:-1,tvg-id="Adult Paradise 1" tvg-name="Adult Paradise 1" tvg-logo="https://epg.112114.xyz/logo/ADULTPARADISE1.png" group-title="X.其他",Adult Paradise 1
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/77953
+#EXTINF:-1,tvg-id="Adult Paradise 2" tvg-name="Adult Paradise 2" tvg-logo="https://epg.112114.xyz/logo/ADULTPARADISE2.png" group-title="X.其他",Adult Paradise 2
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/77954
+#EXTINF:-1,tvg-id="Adult Paradise 3" tvg-name="Adult Paradise 3" tvg-logo="https://epg.112114.xyz/logo/ADULTPARADISE3.png" group-title="X.其他",Adult Paradise 3
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/77955
+#EXTINF:-1,tvg-id="Adult Paradise 4" tvg-name="Adult Paradise 4" tvg-logo="https://epg.112114.xyz/logo/ADULTPARADISE4.png" group-title="X.其他",Adult Paradise 4
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/77956
+#EXTINF:-1,tvg-id="Adult Paradise 5" tvg-name="Adult Paradise 5" tvg-logo="https://epg.112114.xyz/logo/ADULTPARADISE5.png" group-title="X.其他",Adult Paradise 5
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/77957
+#EXTINF:-1,tvg-id="Adult Paradise 6" tvg-name="Adult Paradise 6" tvg-logo="https://epg.112114.xyz/logo/ADULTPARADISE6.png" group-title="X.其他",Adult Paradise 6
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/77958
+#EXTINF:-1,tvg-id="Adult Paradise 7" tvg-name="Adult Paradise 7" tvg-logo="https://epg.112114.xyz/logo/ADULTPARADISE7.png" group-title="X.其他",Adult Paradise 7
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/77959
+#EXTINF:-1,tvg-id="Adult Paradise 8" tvg-name="Adult Paradise 8" tvg-logo="https://epg.112114.xyz/logo/ADULTPARADISE8.png" group-title="X.其他",Adult Paradise 8
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/77960
+#EXTINF:-1,tvg-id="Adult Paradise 9" tvg-name="Adult Paradise 9" tvg-logo="https://epg.112114.xyz/logo/ADULTPARADISE9.png" group-title="X.其他",Adult Paradise 9
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/77961
+#EXTINF:-1,tvg-id="Adult Paradise 10" tvg-name="Adult Paradise 10" tvg-logo="https://epg.112114.xyz/logo/ADULTPARADISE10.png" group-title="X.其他",Adult Paradise 10
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/77962
+#EXTINF:-1,tvg-id="Adult Blonde Girl Squirt" tvg-name="Adult Blonde Girl Squirt" tvg-logo="https://epg.112114.xyz/logo/ADULTBLONDEGIRLSQUIRT.png" group-title="X.其他",Adult Blonde Girl Squirt
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/447222
+#EXTINF:-1,tvg-id="Adult Amateur" tvg-name="Adult Amateur" tvg-logo="https://epg.112114.xyz/logo/ADULTAMATEUR.png" group-title="X.其他",Adult Amateur
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470082
+#EXTINF:-1,tvg-id="Adult Anal Sex" tvg-name="Adult Anal Sex" tvg-logo="https://epg.112114.xyz/logo/ADULTANALSEX.png" group-title="X.其他",Adult Anal Sex
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470083
+#EXTINF:-1,tvg-id="Adult Asian Sex" tvg-name="Adult Asian Sex" tvg-logo="https://epg.112114.xyz/logo/ADULTASIANSEX.png" group-title="X.其他",Adult Asian Sex
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470084
+#EXTINF:-1,tvg-id="Adult BBW" tvg-name="Adult BBW" tvg-logo="https://epg.112114.xyz/logo/ADULTBBW.png" group-title="X.其他",Adult BBW
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470085
+#EXTINF:-1,tvg-id="Adult BDSM 2" tvg-name="Adult BDSM 2" tvg-logo="https://epg.112114.xyz/logo/ADULTBDSM2.png" group-title="X.其他",Adult BDSM 2
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470086
+#EXTINF:-1,tvg-id="Adult Black 2" tvg-name="Adult Black 2" tvg-logo="https://epg.112114.xyz/logo/ADULTBLACK2.png" group-title="X.其他",Adult Black 2
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470087
+#EXTINF:-1,tvg-id="Adult Blonde" tvg-name="Adult Blonde" tvg-logo="https://epg.112114.xyz/logo/ADULTBLONDE.png" group-title="X.其他",Adult Blonde
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470088
+#EXTINF:-1,tvg-id="Adult Blowjob" tvg-name="Adult Blowjob" tvg-logo="https://epg.112114.xyz/logo/ADULTBLOWJOB.png" group-title="X.其他",Adult Blowjob
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470089
+#EXTINF:-1,tvg-id="Adult Brunette" tvg-name="Adult Brunette" tvg-logo="https://epg.112114.xyz/logo/ADULTBRUNETTE.png" group-title="X.其他",Adult Brunette
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470090
+#EXTINF:-1,tvg-id="Adult Mofos" tvg-name="Adult Mofos" tvg-logo="https://epg.112114.xyz/logo/ADULTMOFOS.png" group-title="X.其他",Adult Mofos
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470091
+#EXTINF:-1,tvg-id="Adult Young Girls 18" tvg-name="Adult Young Girls 18" tvg-logo="https://epg.112114.xyz/logo/ADULTYOUNGGIRLS18.png" group-title="X.其他",Adult Young Girls 18
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470092
+#EXTINF:-1,tvg-id="Adult Amateur" tvg-name="Adult Amateur" tvg-logo="https://epg.112114.xyz/logo/ADULTAMATEUR.png" group-title="X.其他",Adult Amateur
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470639
+#EXTINF:-1,tvg-id="Adult Anal Sex" tvg-name="Adult Anal Sex" tvg-logo="https://epg.112114.xyz/logo/ADULTANALSEX.png" group-title="X.其他",Adult Anal Sex
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470640
+#EXTINF:-1,tvg-id="Adult Asian Sex" tvg-name="Adult Asian Sex" tvg-logo="https://epg.112114.xyz/logo/ADULTASIANSEX.png" group-title="X.其他",Adult Asian Sex
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470641
+#EXTINF:-1,tvg-id="Adult BBW" tvg-name="Adult BBW" tvg-logo="https://epg.112114.xyz/logo/ADULTBBW.png" group-title="X.其他",Adult BBW
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470642
+#EXTINF:-1,tvg-id="Adult BDSM" tvg-name="Adult BDSM" tvg-logo="https://epg.112114.xyz/logo/ADULTBDSM.png" group-title="X.其他",Adult BDSM
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470643
+#EXTINF:-1,tvg-id="Adult Black" tvg-name="Adult Black" tvg-logo="https://epg.112114.xyz/logo/ADULTBLACK.png" group-title="X.其他",Adult Black
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470644
+#EXTINF:-1,tvg-id="Adult Blowjob" tvg-name="Adult Blowjob" tvg-logo="https://epg.112114.xyz/logo/ADULTBLOWJOB.png" group-title="X.其他",Adult Blowjob
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470646
+#EXTINF:-1,tvg-id="Adult Brunette" tvg-name="Adult Brunette" tvg-logo="https://epg.112114.xyz/logo/ADULTBRUNETTE.png" group-title="X.其他",Adult Brunette
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470647
+#EXTINF:-1,tvg-id="Adult Creampie" tvg-name="Adult Creampie" tvg-logo="https://epg.112114.xyz/logo/ADULTCREAMPIE.png" group-title="X.其他",Adult Creampie
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470648
+#EXTINF:-1,tvg-id="Adult Cumshot" tvg-name="Adult Cumshot" tvg-logo="https://epg.112114.xyz/logo/ADULTCUMSHOT.png" group-title="X.其他",Adult Cumshot
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470649
+#EXTINF:-1,tvg-id="Adult DP" tvg-name="Adult DP" tvg-logo="https://epg.112114.xyz/logo/ADULTDP.png" group-title="X.其他",Adult DP
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470650
+#EXTINF:-1,tvg-id="Adult Feature" tvg-name="Adult Feature" tvg-logo="https://epg.112114.xyz/logo/ADULTFEATURE.png" group-title="X.其他",Adult Feature
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470651
+#EXTINF:-1,tvg-id="Adult Femdom" tvg-name="Adult Femdom" tvg-logo="https://epg.112114.xyz/logo/ADULTFEMDOM.png" group-title="X.其他",Adult Femdom
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470652
+#EXTINF:-1,tvg-id="Adult Fetish" tvg-name="Adult Fetish" tvg-logo="https://epg.112114.xyz/logo/ADULTFETISH.png" group-title="X.其他",Adult Fetish
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470653
+#EXTINF:-1,tvg-id="Adult Gangbang" tvg-name="Adult Gangbang" tvg-logo="https://epg.112114.xyz/logo/ADULTGANGBANG.png" group-title="X.其他",Adult Gangbang
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470654
+#EXTINF:-1,tvg-id="Adult Gilf" tvg-name="Adult Gilf" tvg-logo="https://epg.112114.xyz/logo/ADULTGILF.png" group-title="X.其他",Adult Gilf
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470655
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",Adult Gonzo
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470656
+#EXTINF:-1,tvg-id="Adult Groupsex" tvg-name="Adult Groupsex" tvg-logo="https://epg.112114.xyz/logo/ADULTGROUPSEX.png" group-title="X.其他",Adult Groupsex
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470657
+#EXTINF:-1,tvg-id="Adult Handjob" tvg-name="Adult Handjob" tvg-logo="https://epg.112114.xyz/logo/ADULTHANDJOB.png" group-title="X.其他",Adult Handjob
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470658
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="X.其他",Adult Interracial
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470659
+#EXTINF:-1,tvg-id="Adult Japanese" tvg-name="Adult Japanese" tvg-logo="https://epg.112114.xyz/logo/ADULTJAPANESE.png" group-title="X.其他",Adult Japanese
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470660
+#EXTINF:-1,tvg-id="Adult JennyBlighe" tvg-name="Adult JennyBlighe" tvg-logo="https://epg.112114.xyz/logo/ADULTJENNYBLIGHE.png" group-title="X.其他",Adult JennyBlighe
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470661
+#EXTINF:-1,tvg-id="Adult Latinas" tvg-name="Adult Latinas" tvg-logo="https://epg.112114.xyz/logo/ADULTLATINAS.png" group-title="X.其他",Adult Latinas
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470662
+#EXTINF:-1,tvg-id="Adult Lesbian" tvg-name="Adult Lesbian" tvg-logo="https://epg.112114.xyz/logo/ADULTLESBIAN.png" group-title="X.其他",Adult Lesbian
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470663
+#EXTINF:-1,tvg-id="Adult Masturbation" tvg-name="Adult Masturbation" tvg-logo="https://epg.112114.xyz/logo/ADULTMASTURBATION.png" group-title="X.其他",Adult Masturbation
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470664
+#EXTINF:-1,tvg-id="Adult Milf" tvg-name="Adult Milf" tvg-logo="https://epg.112114.xyz/logo/ADULTMILF.png" group-title="X.其他",Adult Milf
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470665
+#EXTINF:-1,tvg-id="Adult Mofos" tvg-name="Adult Mofos" tvg-logo="https://epg.112114.xyz/logo/ADULTMOFOS.png" group-title="X.其他",Adult Mofos
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470666
+#EXTINF:-1,tvg-id="OUTDOOR" tvg-name="OUTDOOR" tvg-logo="https://epg.112114.xyz/logo/OUTDOOR.png" group-title="X.其他",Adult Outdoor Sex
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470667
+#EXTINF:-1,tvg-id="Adult POV" tvg-name="Adult POV" tvg-logo="https://epg.112114.xyz/logo/ADULTPOV.png" group-title="X.其他",Adult POV
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470668
+#EXTINF:-1,tvg-id="Adult" tvg-name="Adult" tvg-logo="https://epg.112114.xyz/logo/ADULT.png" group-title="X.其他",Adult
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470669
+#EXTINF:-1,tvg-id="Adult Redhead" tvg-name="Adult Redhead" tvg-logo="https://epg.112114.xyz/logo/ADULTREDHEAD.png" group-title="X.其他",Adult Redhead
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470670
+#EXTINF:-1,tvg-id="Adult Sex Toys" tvg-name="Adult Sex Toys" tvg-logo="https://epg.112114.xyz/logo/ADULTSEXTOYS.png" group-title="X.其他",Adult Sex Toys
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470671
+#EXTINF:-1,tvg-id="Adult Squirting" tvg-name="Adult Squirting" tvg-logo="https://epg.112114.xyz/logo/ADULTSQUIRTING.png" group-title="X.其他",Adult Squirting
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470672
+#EXTINF:-1,tvg-id="Adult Sunny Leone" tvg-name="Adult Sunny Leone" tvg-logo="https://epg.112114.xyz/logo/ADULTSUNNYLEONE.png" group-title="X.其他",Adult Sunny Leone
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470673
+#EXTINF:-1,tvg-id="Adult Threesome" tvg-name="Adult Threesome" tvg-logo="https://epg.112114.xyz/logo/ADULTTHREESOME.png" group-title="X.其他",Adult Threesome
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470674
+#EXTINF:-1,tvg-id="Adult Transsexual" tvg-name="Adult Transsexual" tvg-logo="https://epg.112114.xyz/logo/ADULTTRANSSEXUAL.png" group-title="X.其他",Adult Transsexual
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470675
+#EXTINF:-1,tvg-id="Adult Young Girls 18" tvg-name="Adult Young Girls 18" tvg-logo="https://epg.112114.xyz/logo/ADULTYOUNGGIRLS18.png" group-title="X.其他",Adult Young Girls 18
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/470676
+#EXTINF:-1,tvg-id="Yosso TV Sexy" tvg-name="Yosso TV Sexy" tvg-logo="https://epg.112114.xyz/logo/YOSSOTVSEXY.png" group-title="X.其他",Yosso TV Sexy
+http://rhsbjv7k.tvclub.xyz/iptv/WCKQ3HC3UMGVLG/14176/index.m3u8 
+#EXTINF:-1,tvg-id="PORNBOX: FAMILY SWAP XXX" tvg-name="PORNBOX: FAMILY SWAP XXX" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:FAMILYSWAPXXX.png" group-title="X.其他",PORNBOX: FAMILY SWAP XXX
+http://tv14s.xyz:8080/WzD7qQ/424962/159982
+#EXTINF:-1,tvg-id="PORNBOX: HOT WIFE XXX" tvg-name="PORNBOX: HOT WIFE XXX" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:HOTWIFEXXX.png" group-title="X.其他",PORNBOX: HOT WIFE XXX
+http://tv14s.xyz:8080/WzD7qQ/424962/159991
+#EXTINF:-1,tvg-id="PORNBOX: MOM XXX" tvg-name="PORNBOX: MOM XXX" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:MOMXXX.png" group-title="X.其他",PORNBOX: MOM XXX
+http://tv14s.xyz:8080/WzD7qQ/424962/160014
+#EXTINF:-1,tvg-id="xxx__Website : bestfreeiptvdaily.blogspot" tvg-name="xxx__Website : bestfreeiptvdaily.blogspot" tvg-logo="https://epg.112114.xyz/logo/XXX__WEBSITE:BESTFREEIPTVDAILY.BLOGSPOT.png" group-title="X.其他",xxx__Website : bestfreeiptvdaily.blogspot
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/276
+#EXTINF:-1,tvg-id="xxx" tvg-name="xxx" tvg-logo="https://epg.112114.xyz/logo/XXX.png" group-title="X.其他",xxx
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1297
+#EXTINF:-1,tvg-id="xxx__Website : bestfreeiptvdaily.blogspot" tvg-name="xxx__Website : bestfreeiptvdaily.blogspot" tvg-logo="https://epg.112114.xyz/logo/XXX__WEBSITE:BESTFREEIPTVDAILY.BLOGSPOT.png" group-title="X.其他",xxx__Website : bestfreeiptvdaily.blogspot
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/468
+#EXTINF:-1,tvg-id="xxx" tvg-name="xxx" tvg-logo="https://epg.112114.xyz/logo/XXX.png" group-title="X.其他",xxx
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1298
+#EXTINF:-1,tvg-id="Penthouse Gold" tvg-name="Penthouse Gold" tvg-logo="https://epg.112114.xyz/logo/PENTHOUSEGOLD.png" group-title="X.其他",Penthouse Gold
+http://146.59.54.163/353/index.m3u8
+#EXTINF:-1,tvg-id="RedLight HD" tvg-name="RedLight HD" tvg-logo="https://epg.112114.xyz/logo/REDLIGHT.png" group-title="X.其他",RedLight HD
+http://146.59.54.163/358/index.m3u8
+#EXTINF:-1,tvg-id="ELTV" tvg-name="ELTV" tvg-logo="https://epg.112114.xyz/logo/ELTV.png" group-title="X.其他",Dorcel TV
+http://146.59.54.163/359/index.m3u8
+#EXTINF:-1,tvg-id="Hustler HD" tvg-name="Hustler HD" tvg-logo="https://epg.112114.xyz/logo/HUSTLER.png" group-title="X.其他",Hustler HD
+http://146.59.54.163/348/index.m3u8
+#EXTINF:-1,tvg-id="Hustler TV" tvg-name="Hustler TV" tvg-logo="https://epg.112114.xyz/logo/HUSTLERTV.png" group-title="X.其他",Hustler TV
+http://146.59.54.163/349/index.m3u8
+#EXTINF:-1,tvg-id="O La La" tvg-name="O La La" tvg-logo="https://epg.112114.xyz/logo/OLALA.png" group-title="X.其他",O La La
+http://146.59.54.163/350/index.m3u8
+#EXTINF:-1,tvg-id="Babes TV" tvg-name="Babes TV" tvg-logo="https://epg.112114.xyz/logo/BABESTV.png" group-title="X.其他",Babes TV
+http://146.59.54.163/354/index.m3u8
+#EXTINF:-1,tvg-id="Private TV" tvg-name="Private TV" tvg-logo="https://epg.112114.xyz/logo/PRIVATETV.png" group-title="X.其他",Private TV
+http://146.59.54.163/356/index.m3u8
+#EXTINF:-1,tvg-id="VividRed" tvg-name="VividRed" tvg-logo="https://epg.112114.xyz/logo/VIVIDRED.png" group-title="X.其他",VividRed
+http://146.59.54.163/361/index.m3u8
+#EXTINF:-1,tvg-id="XXL TV" tvg-name="XXL TV" tvg-logo="https://epg.112114.xyz/logo/XXLTV.png" group-title="X.其他",XXL TV
+http://146.59.54.163/363/index.m3u8
+#EXTINF:-1,tvg-id="HOTGO LIVE" tvg-name="HOTGO LIVE" tvg-logo="https://epg.112114.xyz/logo/HOTGOLIVE.png" group-title="X.其他",HOTGO LIVE
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1,tvg-id="PornBox 1" tvg-name="PornBox 1" tvg-logo="https://epg.112114.xyz/logo/PORNBOX1.png" group-title="X.其他",PornBox 1
+http://23.237.100.82:8000/PLAYBOY/index.m3u8
+#EXTINF:-1,tvg-id="PornBox 2" tvg-name="PornBox 2" tvg-logo="https://epg.112114.xyz/logo/PORNBOX2.png" group-title="X.其他",PornBox 2
+http://23.237.100.82:8000/HUSTLER/index.m3u8
+#EXTINF:-1,tvg-id="PornBox 3" tvg-name="PornBox 3" tvg-logo="https://epg.112114.xyz/logo/PORNBOX3.png" group-title="X.其他",PornBox 3
+http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+#EXTINF:-1,tvg-id="PornBox 4" tvg-name="PornBox 4" tvg-logo="https://epg.112114.xyz/logo/PORNBOX4.png" group-title="X.其他",PornBox 4
+http://23.237.100.82:8000/BRAZZERS/index.m3u8
+#EXTINF:-1,tvg-id="Кино 18+ https://autopilot.catcast.tv/content/40381/index.m3u8" tvg-name="Кино 18+ https://autopilot.catcast.tv/content/40381/index.m3u8" tvg-logo="https://epg.112114.xyz/logo/КИНО18+HTTPS://AUTOPILOT.CATCAST.TV/CONTENT/1/INDEX3U8.png" group-title="X.其他",Кино 18+ https://autopilot.catcast.tv/content/40381/index.m3u8
+undefined
+#EXTINF:-1,tvg-id="Extasy HD" tvg-name="Extasy HD" tvg-logo="https://epg.112114.xyz/logo/EXTASY.png" group-title="X.其他",Extasy HD
+http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",Brazzers HD
+http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1,tvg-id="Dorcel HD" tvg-name="Dorcel HD" tvg-logo="https://epg.112114.xyz/logo/DORCEL.png" group-title="X.其他",Dorcel HD
+http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1,tvg-id="Erox" tvg-name="Erox" tvg-logo="https://epg.112114.xyz/logo/EROX.png" group-title="X.其他",Erox
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1,tvg-id="Eroxx" tvg-name="Eroxx" tvg-logo="https://epg.112114.xyz/logo/EROXX.png" group-title="X.其他",Eroxx
+http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1,tvg-id="Eroxxx" tvg-name="Eroxxx" tvg-logo="https://epg.112114.xyz/logo/EROXXX.png" group-title="X.其他",Eroxxx
+http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1,tvg-id="Desire HD" tvg-name="Desire HD" tvg-logo="https://epg.112114.xyz/logo/DESIRE.png" group-title="X.其他",Desire HD
+http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1,tvg-id="Big Dick lHD" tvg-name="Big Dick lHD" tvg-logo="https://epg.112114.xyz/logo/BIGDICKL.png" group-title="X.其他",Big Dick lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/49764
+#EXTINF:-1,tvg-id="Miami TV IHD" tvg-name="Miami TV IHD" tvg-logo="https://epg.112114.xyz/logo/MIAMITVI.png" group-title="X.其他",Miami TV IHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50044
+#EXTINF:-1,tvg-id="Gay lHD" tvg-name="Gay lHD" tvg-logo="https://epg.112114.xyz/logo/GAYL.png" group-title="X.其他",Gay lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50045
+#EXTINF:-1,tvg-id="Threesome lHD" tvg-name="Threesome lHD" tvg-logo="https://epg.112114.xyz/logo/THREESOMEL.png" group-title="X.其他",Threesome lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50047
+#EXTINF:-1,tvg-id="Teen lHD" tvg-name="Teen lHD" tvg-logo="https://epg.112114.xyz/logo/TEENL.png" group-title="X.其他",Teen lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50048
+#EXTINF:-1,tvg-id="Russian lHD" tvg-name="Russian lHD" tvg-logo="https://epg.112114.xyz/logo/RUSSIANL.png" group-title="X.其他",Russian lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50049
+#EXTINF:-1,tvg-id="Rough lHD" tvg-name="Rough lHD" tvg-logo="https://epg.112114.xyz/logo/ROUGHL.png" group-title="X.其他",Rough lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50050
+#EXTINF:-1,tvg-id="PornStar lHD" tvg-name="PornStar lHD" tvg-logo="https://epg.112114.xyz/logo/PORNSTARL.png" group-title="X.其他",PornStar lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50051
+#EXTINF:-1,tvg-id="MILF lHD" tvg-name="MILF lHD" tvg-logo="https://epg.112114.xyz/logo/MILFL.png" group-title="X.其他",MILF lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50052
+#EXTINF:-1,tvg-id="Lesbian lHD" tvg-name="Lesbian lHD" tvg-logo="https://epg.112114.xyz/logo/LESBIANL.png" group-title="X.其他",Lesbian lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50053
+#EXTINF:-1,tvg-id="GangBand lHD" tvg-name="GangBand lHD" tvg-logo="https://epg.112114.xyz/logo/GANGBANDL.png" group-title="X.其他",GangBand lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50054
+#EXTINF:-1,tvg-id="Brunette lHD" tvg-name="Brunette lHD" tvg-logo="https://epg.112114.xyz/logo/BRUNETTEL.png" group-title="X.其他",Brunette lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50055
+#EXTINF:-1,tvg-id="Blowjob lHD" tvg-name="Blowjob lHD" tvg-logo="https://epg.112114.xyz/logo/BLOWJOBL.png" group-title="X.其他",Blowjob lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50056
+#EXTINF:-1,tvg-id="Blonde lHD" tvg-name="Blonde lHD" tvg-logo="https://epg.112114.xyz/logo/BLONDEL.png" group-title="X.其他",Blonde lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50057
+#EXTINF:-1,tvg-id="Anal lHD" tvg-name="Anal lHD" tvg-logo="https://epg.112114.xyz/logo/ANALL.png" group-title="X.其他",Anal lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50058
+#EXTINF:-1,tvg-id="Dusk lHD" tvg-name="Dusk lHD" tvg-logo="https://epg.112114.xyz/logo/DUSKL.png" group-title="X.其他",Dusk lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50059
+#EXTINF:-1,tvg-id="Live Cam lHD" tvg-name="Live Cam lHD" tvg-logo="https://epg.112114.xyz/logo/LIVECAML.png" group-title="X.其他",Live Cam lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50060
+#EXTINF:-1,tvg-id="Latina lHD" tvg-name="Latina lHD" tvg-logo="https://epg.112114.xyz/logo/LATINAL.png" group-title="X.其他",Latina lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50061
+#EXTINF:-1,tvg-id="Visit X TV lHD" tvg-name="Visit X TV lHD" tvg-logo="https://epg.112114.xyz/logo/VISITXTVL.png" group-title="X.其他",Visit X TV lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50062
+#EXTINF:-1,tvg-id="Big Tits lHD" tvg-name="Big Tits lHD" tvg-logo="https://epg.112114.xyz/logo/BIGTITSL.png" group-title="X.其他",Big Tits lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50063
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="X.其他",Interracial lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50065
+#EXTINF:-1,tvg-id="Fetish lHD" tvg-name="Fetish lHD" tvg-logo="https://epg.112114.xyz/logo/FETISHL.png" group-title="X.其他",Fetish lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50067
+#EXTINF:-1,tvg-id="Hot lHD" tvg-name="Hot lHD" tvg-logo="https://epg.112114.xyz/logo/HOTL.png" group-title="X.其他",Hot lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50068
+#EXTINF:-1,tvg-id="Penhouse lHD" tvg-name="Penhouse lHD" tvg-logo="https://epg.112114.xyz/logo/PENHOUSEL.png" group-title="X.其他",Penhouse lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50070
+#EXTINF:-1,tvg-id="You Porn 2 lHD" tvg-name="You Porn 2 lHD" tvg-logo="https://epg.112114.xyz/logo/YOUPORN2L.png" group-title="X.其他",You Porn 2 lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50071
+#EXTINF:-1,tvg-id="You Porn lHD" tvg-name="You Porn lHD" tvg-logo="https://epg.112114.xyz/logo/YOUPORNL.png" group-title="X.其他",You Porn lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50072
+#EXTINF:-1,tvg-id="BigAss lHD" tvg-name="BigAss lHD" tvg-logo="https://epg.112114.xyz/logo/BIGASSL.png" group-title="X.其他",BigAss lHD
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/50073
+#EXTINF:-1,tvg-id="Penthouse Gold (i)" tvg-name="Penthouse Gold (i)" tvg-logo="https://epg.112114.xyz/logo/PENTHOUSEGOLD(I).png" group-title="X.其他",Penthouse Gold (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165180
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",Brazzers TV Europe (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165181
+#EXTINF:-1,tvg-id="PlayBoy Mexico (i)" tvg-name="PlayBoy Mexico (i)" tvg-logo="https://epg.112114.xyz/logo/PLAYBOYMEXICO(I).png" group-title="X.其他",PlayBoy Mexico (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165182
+#EXTINF:-1,tvg-id="PornBOX 2 (i)" tvg-name="PornBOX 2 (i)" tvg-logo="https://epg.112114.xyz/logo/PORNBOX2(I).png" group-title="X.其他",PornBOX 2 (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165183
+#EXTINF:-1,tvg-id="Blue Hustler (i)" tvg-name="Blue Hustler (i)" tvg-logo="https://epg.112114.xyz/logo/BLUEHUSTLER(I).png" group-title="X.其他",Blue Hustler (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165184
+#EXTINF:-1,tvg-id="HOT CHOICE XXX (i)" tvg-name="HOT CHOICE XXX (i)" tvg-logo="https://epg.112114.xyz/logo/HOTCHOICEXXX(I).png" group-title="X.其他",HOT CHOICE XXX (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165185
+#EXTINF:-1,tvg-id="PornoBOX (i)" tvg-name="PornoBOX (i)" tvg-logo="https://epg.112114.xyz/logo/PORNOBOX(I).png" group-title="X.其他",PornoBOX (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165186
+#EXTINF:-1,tvg-id="BangBross (i)" tvg-name="BangBross (i)" tvg-logo="https://epg.112114.xyz/logo/BANGBROSS(I).png" group-title="X.其他",BangBross (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165187
+#EXTINF:-1,tvg-id="Visit-X TV (i)" tvg-name="Visit-X TV (i)" tvg-logo="https://epg.112114.xyz/logo/VISITXTV(I).png" group-title="X.其他",Visit-X TV (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165188
+#EXTINF:-1,tvg-id="PorBOX 4 (i)" tvg-name="PorBOX 4 (i)" tvg-logo="https://epg.112114.xyz/logo/PORBOX4(I).png" group-title="X.其他",PorBOX 4 (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165189
+#EXTINF:-1,tvg-id="PorBOX 3 (i)" tvg-name="PorBOX 3 (i)" tvg-logo="https://epg.112114.xyz/logo/PORBOX3(I).png" group-title="X.其他",PorBOX 3 (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165190
+#EXTINF:-1,tvg-id="Mia Khalifa (i)" tvg-name="Mia Khalifa (i)" tvg-logo="https://epg.112114.xyz/logo/MIAKHALIFA(I).png" group-title="X.其他",Mia Khalifa (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165191
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="X.其他",Dancing Bear (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165192
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",Brazzers House (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165193
+#EXTINF:-1,tvg-id="PLAYBOY (i)" tvg-name="PLAYBOY (i)" tvg-logo="https://epg.112114.xyz/logo/PLAYBOY(I).png" group-title="X.其他",PLAYBOY (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165194
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",BRAZZER (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165195
+#EXTINF:-1,tvg-id="Venus Mexico (i)" tvg-name="Venus Mexico (i)" tvg-logo="https://epg.112114.xyz/logo/VENUSMEXICO(I).png" group-title="X.其他",Venus Mexico (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165196
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="X.其他",Dancing Bear 2 (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165197
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="X.其他",Dancing Bear 3 (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165198
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",BRAZZER HD (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165199
+#EXTINF:-1,tvg-id="Private TV (i)" tvg-name="Private TV (i)" tvg-logo="https://epg.112114.xyz/logo/PRIVATETV(I).png" group-title="X.其他",Private TV (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165200
+#EXTINF:-1,tvg-id="VENUS (i)" tvg-name="VENUS (i)" tvg-logo="https://epg.112114.xyz/logo/VENUS(I).png" group-title="X.其他",VENUS (i)
+http://45.90.105.74:25461/jaime/3DbdkaKhwZEd/165201
+#EXTINF:-1,tvg-id="Pornstar" tvg-name="Pornstar" tvg-logo="https://epg.112114.xyz/logo/PORNSTAR.png" group-title="X.其他",Pornstar
+http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79942
+#EXTINF:-1,tvg-id="Sexyhot" tvg-name="Sexyhot" tvg-logo="https://epg.112114.xyz/logo/SEXYHOT.png" group-title="X.其他",Sexyhot
+http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79943
+#EXTINF:-1,tvg-id="Sextreme" tvg-name="Sextreme" tvg-logo="https://epg.112114.xyz/logo/SEXTREME.png" group-title="X.其他",Sextreme
+http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79944
+#EXTINF:-1,tvg-id="moms teach sex" tvg-name="moms teach sex" tvg-logo="https://epg.112114.xyz/logo/MOMSTEACHSEX.png" group-title="X.其他",moms teach sex
+http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79945
+#EXTINF:-1,tvg-id="Redbox adults 40" tvg-name="Redbox adults 40" tvg-logo="https://epg.112114.xyz/logo/REDBOXADULTS40.png" group-title="X.其他",Redbox adults 40
+http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79946
+#EXTINF:-1,tvg-id="Redbox adults 5" tvg-name="Redbox adults 5" tvg-logo="https://epg.112114.xyz/logo/REDBOXADULTS5.png" group-title="X.其他",Redbox adults 5
+http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79947
+#EXTINF:-1,tvg-id="redbox adults 4" tvg-name="redbox adults 4" tvg-logo="https://epg.112114.xyz/logo/REDBOXADULTS4.png" group-title="X.其他",redbox adults 4
+http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79948
+#EXTINF:-1,tvg-id="redbox adults 06" tvg-name="redbox adults 06" tvg-logo="https://epg.112114.xyz/logo/REDBOXADULTS06.png" group-title="X.其他",redbox adults 06
+http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79949
+#EXTINF:-1,tvg-id="redbox adult 8" tvg-name="redbox adult 8" tvg-logo="https://epg.112114.xyz/logo/REDBOXADULT8.png" group-title="X.其他",redbox adult 8
+http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79950
+#EXTINF:-1,tvg-id="redbox adult 10" tvg-name="redbox adult 10" tvg-logo="https://epg.112114.xyz/logo/REDBOXADULT10.png" group-title="X.其他",redbox adult 10
+http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79951
+#EXTINF:-1,tvg-id="redbox adults 29" tvg-name="redbox adults 29" tvg-logo="https://epg.112114.xyz/logo/REDBOXADULTS29.png" group-title="X.其他",redbox adults 29
+http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79952
+#EXTINF:-1,tvg-id="redbox adult 7" tvg-name="redbox adult 7" tvg-logo="https://epg.112114.xyz/logo/REDBOXADULT7.png" group-title="X.其他",redbox adult 7
+http://todoporti.eu:80/Roberto6218/Ts8D4ka93xkC/79953
+#EXTINF:-1,tvg-id="TRANS ANGELS" tvg-name="TRANS ANGELS" tvg-logo="https://epg.112114.xyz/logo/TRANSANGELS.png" group-title="X.其他",TRANS ANGELS
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159951
+#EXTINF:-1,tvg-id="PORNBOX TRANS: TRANS EROTICA" tvg-name="PORNBOX TRANS: TRANS EROTICA" tvg-logo="https://epg.112114.xyz/logo/PORNBOXTRANS:TRANSEROTICA.png" group-title="X.其他",PORNBOX TRANS: TRANS EROTICA
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159952
+#EXTINF:-1,tvg-id=" A GIRL KNOWS" tvg-name=" A GIRL KNOWS" tvg-logo="https://epg.112114.xyz/logo/AGIRLKNOWS.png" group-title="X.其他", A GIRL KNOWS
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159953
+#EXTINF:-1,tvg-id=" ADULT TIME" tvg-name=" ADULT TIME" tvg-logo="https://epg.112114.xyz/logo/ADULTTIME.png" group-title="X.其他", ADULT TIME
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159954
+#EXTINF:-1,tvg-id=" ALL BLACK X" tvg-name=" ALL BLACK X" tvg-logo="https://epg.112114.xyz/logo/ALLBLACKX.png" group-title="X.其他", ALL BLACK X
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159955
+#EXTINF:-1,tvg-id=" ALL GROUP SEX" tvg-name=" ALL GROUP SEX" tvg-logo="https://epg.112114.xyz/logo/ALLGROUPSEX.png" group-title="X.其他", ALL GROUP SEX
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159956
+#EXTINF:-1,tvg-id=" AMATEUR EURO" tvg-name=" AMATEUR EURO" tvg-logo="https://epg.112114.xyz/logo/AMATEUREURO.png" group-title="X.其他", AMATEUR EURO
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159957
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他", ANALIZED
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159958
+#EXTINF:-1,tvg-id=" BABES" tvg-name=" BABES" tvg-logo="https://epg.112114.xyz/logo/BABES.png" group-title="X.其他", BABES
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159959
+#EXTINF:-1,tvg-id=" BANG BROS NETWORK" tvg-name=" BANG BROS NETWORK" tvg-logo="https://epg.112114.xyz/logo/BANGBROSNETWORK.png" group-title="X.其他", BANG BROS NETWORK
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159960
+#EXTINF:-1,tvg-id=" BIPHORIA" tvg-name=" BIPHORIA" tvg-logo="https://epg.112114.xyz/logo/BIPHORIA.png" group-title="X.其他", BIPHORIA
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159961
+#EXTINF:-1,tvg-id=" BLACKED" tvg-name=" BLACKED" tvg-logo="https://epg.112114.xyz/logo/BLACKED.png" group-title="X.其他", BLACKED
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159962
+#EXTINF:-1,tvg-id=" BLOW ME POV" tvg-name=" BLOW ME POV" tvg-logo="https://epg.112114.xyz/logo/BLOWMEPOV.png" group-title="X.其他", BLOW ME POV
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159963
+#EXTINF:-1,tvg-id=" BOX OF PORN" tvg-name=" BOX OF PORN" tvg-logo="https://epg.112114.xyz/logo/BOXOFPORN.png" group-title="X.其他", BOX OF PORN
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159964
+#EXTINF:-1,tvg-id=" BRATTY SIS" tvg-name=" BRATTY SIS" tvg-logo="https://epg.112114.xyz/logo/BRATTYSIS.png" group-title="X.其他", BRATTY SIS
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159965
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他", BRAZZERS
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159966
+#EXTINF:-1,tvg-id=" BUMS BUS" tvg-name=" BUMS BUS" tvg-logo="https://epg.112114.xyz/logo/BUMSBUS.png" group-title="X.其他", BUMS BUS
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159967
+#EXTINF:-1,tvg-id=" CASTING COUCH" tvg-name=" CASTING COUCH" tvg-logo="https://epg.112114.xyz/logo/CASTINGCOUCH.png" group-title="X.其他", CASTING COUCH
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159968
+#EXTINF:-1,tvg-id=" CUM 4K" tvg-name=" CUM 4K" tvg-logo="https://epg.112114.xyz/logo/CUM4K.png" group-title="X.其他", CUM 4K
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159969
+#EXTINF:-1,tvg-id=" DAGFS" tvg-name=" DAGFS" tvg-logo="https://epg.112114.xyz/logo/DAGFS.png" group-title="X.其他", DAGFS
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159970
+#EXTINF:-1,tvg-id=" DDF BUSTY" tvg-name=" DDF BUSTY" tvg-logo="https://epg.112114.xyz/logo/DDFBUSTY.png" group-title="X.其他", DDF BUSTY
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159971
+#EXTINF:-1,tvg-id=" DIABOLIC" tvg-name=" DIABOLIC" tvg-logo="https://epg.112114.xyz/logo/DIABOLIC.png" group-title="X.其他", DIABOLIC
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159972
+#EXTINF:-1,tvg-id=" DIGITAL PLAYGROUND" tvg-name=" DIGITAL PLAYGROUND" tvg-logo="https://epg.112114.xyz/logo/DIGITALPLAYGROUND.png" group-title="X.其他", DIGITAL PLAYGROUND
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159973
+#EXTINF:-1,tvg-id=" DOGFART NETWORK" tvg-name=" DOGFART NETWORK" tvg-logo="https://epg.112114.xyz/logo/DOGFARTNETWORK.png" group-title="X.其他", DOGFART NETWORK
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159974
+#EXTINF:-1,tvg-id=" DORCEL CLUB" tvg-name=" DORCEL CLUB" tvg-logo="https://epg.112114.xyz/logo/DORCELCLUB.png" group-title="X.其他", DORCEL CLUB
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159975
+#EXTINF:-1,tvg-id=" DREAMROOM" tvg-name=" DREAMROOM" tvg-logo="https://epg.112114.xyz/logo/DREAMROOM.png" group-title="X.其他", DREAMROOM
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159976
+#EXTINF:-1,tvg-id=" EROTIKVONBENAN" tvg-name=" EROTIKVONBENAN" tvg-logo="https://epg.112114.xyz/logo/EROTIKVONBENAN.png" group-title="X.其他", EROTIKVONBENAN
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159977
+#EXTINF:-1,tvg-id=" FAKE HOSTEL" tvg-name=" FAKE HOSTEL" tvg-logo="https://epg.112114.xyz/logo/FAKEHOSTEL.png" group-title="X.其他", FAKE HOSTEL
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159979
+#EXTINF:-1,tvg-id=" FAKE TAXI" tvg-name=" FAKE TAXI" tvg-logo="https://epg.112114.xyz/logo/FAKETAXI.png" group-title="X.其他", FAKE TAXI
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159980
+#EXTINF:-1,tvg-id=" FAMILY STROKES" tvg-name=" FAMILY STROKES" tvg-logo="https://epg.112114.xyz/logo/FAMILYSTROKES.png" group-title="X.其他", FAMILY STROKES
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159981
+#EXTINF:-1,tvg-id=" FAMILY SWAP XXX" tvg-name=" FAMILY SWAP XXX" tvg-logo="https://epg.112114.xyz/logo/FAMILYSWAPXXX.png" group-title="X.其他", FAMILY SWAP XXX
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159982
+#EXTINF:-1,tvg-id=" FAPADOO" tvg-name=" FAPADOO" tvg-logo="https://epg.112114.xyz/logo/FAPADOO.png" group-title="X.其他", FAPADOO
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159983
+#EXTINF:-1,tvg-id=" FILTHY POV" tvg-name=" FILTHY POV" tvg-logo="https://epg.112114.xyz/logo/FILTHYPOV.png" group-title="X.其他", FILTHY POV
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159984
+#EXTINF:-1,tvg-id=" FIRST ANAL QUEST" tvg-name=" FIRST ANAL QUEST" tvg-logo="https://epg.112114.xyz/logo/FIRSTANALQUEST.png" group-title="X.其他", FIRST ANAL QUEST
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159985
+#EXTINF:-1,tvg-id=" FIT 18" tvg-name=" FIT 18" tvg-logo="https://epg.112114.xyz/logo/FIT18.png" group-title="X.其他", FIT 18
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159986
+#EXTINF:-1,tvg-id=" GOTMYLF" tvg-name=" GOTMYLF" tvg-logo="https://epg.112114.xyz/logo/GOTMYLF.png" group-title="X.其他", GOTMYLF
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159987
+#EXTINF:-1,tvg-id=" HENTAINED" tvg-name=" HENTAINED" tvg-logo="https://epg.112114.xyz/logo/HENTAINED.png" group-title="X.其他", HENTAINED
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159988
+#EXTINF:-1,tvg-id=" HER LIMIT" tvg-name=" HER LIMIT" tvg-logo="https://epg.112114.xyz/logo/HERLIMIT.png" group-title="X.其他", HER LIMIT
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159989
+#EXTINF:-1,tvg-id=" HOLED" tvg-name=" HOLED" tvg-logo="https://epg.112114.xyz/logo/HOLED.png" group-title="X.其他", HOLED
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159990
+#EXTINF:-1,tvg-id=" HOT WIFE XXX" tvg-name=" HOT WIFE XXX" tvg-logo="https://epg.112114.xyz/logo/HOTWIFEXXX.png" group-title="X.其他", HOT WIFE XXX
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159991
+#EXTINF:-1,tvg-id=" HUSSIE PASS" tvg-name=" HUSSIE PASS" tvg-logo="https://epg.112114.xyz/logo/HUSSIEPASS.png" group-title="X.其他", HUSSIE PASS
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159992
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="X.其他", INTERRACIAL PASS
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159993
+#EXTINF:-1,tvg-id=" JAYS POV" tvg-name=" JAYS POV" tvg-logo="https://epg.112114.xyz/logo/JAYSPOV.png" group-title="X.其他", JAYS POV
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159994
+#EXTINF:-1,tvg-id=" JESH BY JESH" tvg-name=" JESH BY JESH" tvg-logo="https://epg.112114.xyz/logo/JESHBYJESH.png" group-title="X.其他", JESH BY JESH
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159995
+#EXTINF:-1,tvg-id=" JOI BABES" tvg-name=" JOI BABES" tvg-logo="https://epg.112114.xyz/logo/JOIBABES.png" group-title="X.其他", JOI BABES
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159996
+#EXTINF:-1,tvg-id=" JULES JORDAN" tvg-name=" JULES JORDAN" tvg-logo="https://epg.112114.xyz/logo/JULESJORDAN.png" group-title="X.其他", JULES JORDAN
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159997
+#EXTINF:-1,tvg-id=" KINKY FAMILY" tvg-name=" KINKY FAMILY" tvg-logo="https://epg.112114.xyz/logo/KINKYFAMILY.png" group-title="X.其他", KINKY FAMILY
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159998
+#EXTINF:-1,tvg-id=" KINKY INLAWS" tvg-name=" KINKY INLAWS" tvg-logo="https://epg.112114.xyz/logo/KINKYINLAWS.png" group-title="X.其他", KINKY INLAWS
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159999
+#EXTINF:-1,tvg-id=" LETHAL HARDCORE" tvg-name=" LETHAL HARDCORE" tvg-logo="https://epg.112114.xyz/logo/LETHALHARDCORE.png" group-title="X.其他", LETHAL HARDCORE
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160001
+#EXTINF:-1,tvg-id=" LETHAL TEENS" tvg-name=" LETHAL TEENS" tvg-logo="https://epg.112114.xyz/logo/LETHALTEENS.png" group-title="X.其他", LETHAL TEENS
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160002
+#EXTINF:-1,tvg-id=" LETS DOE IT" tvg-name=" LETS DOE IT" tvg-logo="https://epg.112114.xyz/logo/LETSDOEIT.png" group-title="X.其他", LETS DOE IT
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160003
+#EXTINF:-1,tvg-id=" LIFE SELECTOR" tvg-name=" LIFE SELECTOR" tvg-logo="https://epg.112114.xyz/logo/LIFESELECTOR.png" group-title="X.其他", LIFE SELECTOR
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160004
+#EXTINF:-1,tvg-id=" LOVE HER FEET" tvg-name=" LOVE HER FEET" tvg-logo="https://epg.112114.xyz/logo/LOVEHERFEET.png" group-title="X.其他", LOVE HER FEET
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160005
+#EXTINF:-1,tvg-id=" LOVE HOME PORN" tvg-name=" LOVE HOME PORN" tvg-logo="https://epg.112114.xyz/logo/LOVEHOMEPORN.png" group-title="X.其他", LOVE HOME PORN
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160006
+#EXTINF:-1,tvg-id=" LUBED" tvg-name=" LUBED" tvg-logo="https://epg.112114.xyz/logo/LUBED.png" group-title="X.其他", LUBED
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160007
+#EXTINF:-1,tvg-id=" LUXURE" tvg-name=" LUXURE" tvg-logo="https://epg.112114.xyz/logo/LUXURE.png" group-title="X.其他", LUXURE
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160008
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="X.其他", MAMACITAZ
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160009
+#EXTINF:-1,tvg-id=" MASSAGE ROOMS" tvg-name=" MASSAGE ROOMS" tvg-logo="https://epg.112114.xyz/logo/MASSAGEROOMS.png" group-title="X.其他", MASSAGE ROOMS
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160010
+#EXTINF:-1,tvg-id=" MODEL MEDIA ASIA" tvg-name=" MODEL MEDIA ASIA" tvg-logo="https://epg.112114.xyz/logo/MODELMEDIAASIA.png" group-title="X.其他", MODEL MEDIA ASIA
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160011
+#EXTINF:-1,tvg-id=" MOFOS" tvg-name=" MOFOS" tvg-logo="https://epg.112114.xyz/logo/MOFOS.png" group-title="X.其他", MOFOS
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160012
+#EXTINF:-1,tvg-id=" MOM TEACH SEX" tvg-name=" MOM TEACH SEX" tvg-logo="https://epg.112114.xyz/logo/MOMTEACHSEX.png" group-title="X.其他", MOM TEACH SEX
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160013
+#EXTINF:-1,tvg-id=" MOM XXX" tvg-name=" MOM XXX" tvg-logo="https://epg.112114.xyz/logo/MOMXXX.png" group-title="X.其他", MOM XXX
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160014
+#EXTINF:-1,tvg-id=" MOMMY BLOWS BEST" tvg-name=" MOMMY BLOWS BEST" tvg-logo="https://epg.112114.xyz/logo/MOMMYBLOWSBEST.png" group-title="X.其他", MOMMY BLOWS BEST
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160015
+#EXTINF:-1,tvg-id=" MUST NOT FAP" tvg-name=" MUST NOT FAP" tvg-logo="https://epg.112114.xyz/logo/MUSTNOTFAP.png" group-title="X.其他", MUST NOT FAP
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160016
+#EXTINF:-1,tvg-id=" MY DIRTY HOBBY" tvg-name=" MY DIRTY HOBBY" tvg-logo="https://epg.112114.xyz/logo/MYDIRTYHOBBY.png" group-title="X.其他", MY DIRTY HOBBY
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160017
+#EXTINF:-1,tvg-id=" MY FAMILY PIES" tvg-name=" MY FAMILY PIES" tvg-logo="https://epg.112114.xyz/logo/MYFAMILYPIES.png" group-title="X.其他", MY FAMILY PIES
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160018
+#EXTINF:-1,tvg-id=" MY LIFE IN MIAMI" tvg-name=" MY LIFE IN MIAMI" tvg-logo="https://epg.112114.xyz/logo/MYLIFEINMIAMI.png" group-title="X.其他", MY LIFE IN MIAMI
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160019
+#EXTINF:-1,tvg-id=" MY PERVY FAMILY" tvg-name=" MY PERVY FAMILY" tvg-logo="https://epg.112114.xyz/logo/MYPERVYFAMILY.png" group-title="X.其他", MY PERVY FAMILY
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160020
+#EXTINF:-1,tvg-id=" MY TINY WISH" tvg-name=" MY TINY WISH" tvg-logo="https://epg.112114.xyz/logo/MYTINYWISH.png" group-title="X.其他", MY TINY WISH
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160021
+#EXTINF:-1,tvg-id=" MYLF" tvg-name=" MYLF" tvg-logo="https://epg.112114.xyz/logo/MYLF.png" group-title="X.其他", MYLF
+http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160022
+#EXTINF:-1,tvg-id="4K综艺" tvg-name="4K综艺" tvg-logo="https://epg.112114.xyz/logo/4K综艺.png" group-title="X.其他",fhd
+http://bccdn.xyz/live/5026071354pw/1576797021/83248.m3u8
+#EXTINF:-1,tvg-id="Три Ангела" tvg-name="Три Ангела" tvg-logo="https://epg.112114.xyz/logo/ТРИАНГЕЛА.png" group-title="X.其他",Три Ангела
+http://88b9da48.kazmazpaz.ru/iptv/2EA55L4SUE4RH4/6259/manifest.m3u8
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="北京",彩虹ehttps://z88.ubtvfans.com/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
+undefined
+#EXTINF:-1,tvg-id="wenk" tvg-name="wenk" tvg-logo="https://epg.112114.xyz/logo/WENK.png" group-title="X.其他",wenk
+http://ca.ukrainske.tv/7310/5EA2AF4303AF555/video.m3u8
+#EXTINF:-1,tvg-id="ru" tvg-name="ru" tvg-logo="https://epg.112114.xyz/logo/RU.png" group-title="X.其他",ru
+http://d029dcec.kazmazpaz.ru/iptv/BG3TE5HEQRXENC/6200/manifest.m3u8
+#EXTINF:-1,tvg-id="angel" tvg-name="angel" tvg-logo="https://epg.112114.xyz/logo/ANGEL.png" group-title="X.其他",angel
+http://d029dcec.kazmazpaz.ru/iptv/5FRTASC825NL7B/6259/manifest.m3u8
+#EXTINF:-1,tvg-id="japanhdv" tvg-name="japanhdv" tvg-logo="https://epg.112114.xyz/logo/JAPANHDV.png" group-title="X.其他",japanhdv
+http://rhsbjv7k.tvclub.xyz/iptv/QR4G6UT6U7R2EG/6225/index.m3u8 
+#EXTINF:-1,tvg-id="playboy plus" tvg-name="playboy plus" tvg-logo="https://epg.112114.xyz/logo/PLAYBOYPLUS.png" group-title="X.其他",playboy plus
+http://rhsbjv7k.tvclub.xyz/iptv/QR4G6UT6U7R2EG/6242/index.m3u8
+#EXTINF:-1,tvg-id="Yosso TV Sexy" tvg-name="Yosso TV Sexy" tvg-logo="https://epg.112114.xyz/logo/YOSSOTVSEXY.png" group-title="X.其他",Yosso TV Sexy
+http://rhsbjv7k.tvclub.xyz/iptv/QR4G6UT6U7R2EG/14176/index.m3u8
+#EXTINF:-1,tvg-id="japanhdv" tvg-name="japanhdv" tvg-logo="https://epg.112114.xyz/logo/JAPANHDV.png" group-title="X.其他",japanhdv
+http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/6225/index.m3u8
+#EXTINF:-1,tvg-id="playboy plus" tvg-name="playboy plus" tvg-logo="https://epg.112114.xyz/logo/PLAYBOYPLUS.png" group-title="X.其他",playboy plus
+http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/6242/index.m3u8
+#EXTINF:-1,tvg-id="kion18+" tvg-name="kion18+" tvg-logo="https://epg.112114.xyz/logo/KION18+.png" group-title="X.其他",kion18+
+http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/18075/index.m3u8
+#EXTINF:-1,tvg-id="BCU Charm" tvg-name="BCU Charm" tvg-logo="https://epg.112114.xyz/logo/BCUCHARM.png" group-title="X.其他",BCU Charm
+http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/18053/index.m3u8
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",VF Cartoon 18+http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/11117/index.m3u8
+undefined
+#EXTINF:-1,tvg-id="Yosso TV Sexy" tvg-name="Yosso TV Sexy" tvg-logo="https://epg.112114.xyz/logo/YOSSOTVSEXY.png" group-title="X.其他",Yosso TV Sexy
+http://rhsbjv7k.tvclub.xyz/iptv/4628FRVFBAMNVW/14176/index.m3u8
+#EXTINF:-1,tvg-id="PORNBOX TRANS: TRANS ANGELS" tvg-name="PORNBOX TRANS: TRANS ANGELS" tvg-logo="https://epg.112114.xyz/logo/PORNBOXTRANS:TRANSANGELS.png" group-title="X.其他",PORNBOX TRANS: TRANS ANGELS
+http://tv14s.xyz:8080/WzD7qQ/424962/159951
+#EXTINF:-1,tvg-id="PORNBOX TRANS: TRANS EROTICA" tvg-name="PORNBOX TRANS: TRANS EROTICA" tvg-logo="https://epg.112114.xyz/logo/PORNBOXTRANS:TRANSEROTICA.png" group-title="X.其他",PORNBOX TRANS: TRANS EROTICA
+http://tv14s.xyz:8080/WzD7qQ/424962/159952
+#EXTINF:-1,tvg-id="PORNBOX: A GIRL KNOWS" tvg-name="PORNBOX: A GIRL KNOWS" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:AGIRLKNOWS.png" group-title="X.其他",PORNBOX: A GIRL KNOWS
+http://tv14s.xyz:8080/WzD7qQ/424962/159953
+#EXTINF:-1,tvg-id="PORNBOX: ADULT TIME" tvg-name="PORNBOX: ADULT TIME" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:ADULTTIME.png" group-title="X.其他",PORNBOX: ADULT TIME
+http://tv14s.xyz:8080/WzD7qQ/424962/159954
+#EXTINF:-1,tvg-id="PORNBOX: ALL BLACK X" tvg-name="PORNBOX: ALL BLACK X" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:ALLBLACKX.png" group-title="X.其他",PORNBOX: ALL BLACK X
+http://tv14s.xyz:8080/WzD7qQ/424962/159955
+#EXTINF:-1,tvg-id="PORNBOX: ALL GROUP SEX" tvg-name="PORNBOX: ALL GROUP SEX" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:ALLGROUPSEX.png" group-title="X.其他",PORNBOX: ALL GROUP SEX
+http://tv14s.xyz:8080/WzD7qQ/424962/159956
+#EXTINF:-1,tvg-id="PORNBOX: AMATEUR EURO" tvg-name="PORNBOX: AMATEUR EURO" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:AMATEUREURO.png" group-title="X.其他",PORNBOX: AMATEUR EURO
+http://tv14s.xyz:8080/WzD7qQ/424962/159957
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",PORNBOX: ANALIZED
+http://tv14s.xyz:8080/WzD7qQ/424962/159958
+#EXTINF:-1,tvg-id="PORNBOX: BABES" tvg-name="PORNBOX: BABES" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:BABES.png" group-title="X.其他",PORNBOX: BABES
+http://tv14s.xyz:8080/WzD7qQ/424962/159959
+#EXTINF:-1,tvg-id="PORNBOX: BANG BROS NETWORK" tvg-name="PORNBOX: BANG BROS NETWORK" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:BANGBROSNETWORK.png" group-title="X.其他",PORNBOX: BANG BROS NETWORK
+http://tv14s.xyz:8080/WzD7qQ/424962/159960
+#EXTINF:-1,tvg-id="PORNBOX: BIPHORIA" tvg-name="PORNBOX: BIPHORIA" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:BIPHORIA.png" group-title="X.其他",PORNBOX: BIPHORIA
+http://tv14s.xyz:8080/WzD7qQ/424962/159961
+#EXTINF:-1,tvg-id="PORNBOX: BLACKED" tvg-name="PORNBOX: BLACKED" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:BLACKED.png" group-title="X.其他",PORNBOX: BLACKED
+http://tv14s.xyz:8080/WzD7qQ/424962/159962
+#EXTINF:-1,tvg-id="PORNBOX: BLOW ME POV" tvg-name="PORNBOX: BLOW ME POV" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:BLOWMEPOV.png" group-title="X.其他",PORNBOX: BLOW ME POV
+http://tv14s.xyz:8080/WzD7qQ/424962/159963
+#EXTINF:-1,tvg-id="PORNBOX: BOX OF PORN" tvg-name="PORNBOX: BOX OF PORN" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:BOXOFPORN.png" group-title="X.其他",PORNBOX: BOX OF PORN
+http://tv14s.xyz:8080/WzD7qQ/424962/159964
+#EXTINF:-1,tvg-id="PORNBOX: BRATTY SIS" tvg-name="PORNBOX: BRATTY SIS" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:BRATTYSIS.png" group-title="X.其他",PORNBOX: BRATTY SIS
+http://tv14s.xyz:8080/WzD7qQ/424962/159965
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",PORNBOX: BRAZZERS
+http://tv14s.xyz:8080/WzD7qQ/424962/159966
+#EXTINF:-1,tvg-id="PORNBOX: BUMS BUS" tvg-name="PORNBOX: BUMS BUS" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:BUMSBUS.png" group-title="X.其他",PORNBOX: BUMS BUS
+http://tv14s.xyz:8080/WzD7qQ/424962/159967
+#EXTINF:-1,tvg-id="PORNBOX: CASTING COUCH" tvg-name="PORNBOX: CASTING COUCH" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:CASTINGCOUCH.png" group-title="X.其他",PORNBOX: CASTING COUCH
+http://tv14s.xyz:8080/WzD7qQ/424962/159968
+#EXTINF:-1,tvg-id="PORNBOX: CUM 4K" tvg-name="PORNBOX: CUM 4K" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:CUM4K.png" group-title="X.其他",PORNBOX: CUM 4K
+http://tv14s.xyz:8080/WzD7qQ/424962/159969
+#EXTINF:-1,tvg-id="PORNBOX: DAGFS" tvg-name="PORNBOX: DAGFS" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:DAGFS.png" group-title="X.其他",PORNBOX: DAGFS
+http://tv14s.xyz:8080/WzD7qQ/424962/159970
+#EXTINF:-1,tvg-id="PORNBOX: DDF BUSTY" tvg-name="PORNBOX: DDF BUSTY" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:DDFBUSTY.png" group-title="X.其他",PORNBOX: DDF BUSTY
+http://tv14s.xyz:8080/WzD7qQ/424962/159971
+#EXTINF:-1,tvg-id="PORNBOX: DIABOLIC" tvg-name="PORNBOX: DIABOLIC" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:DIABOLIC.png" group-title="X.其他",PORNBOX: DIABOLIC
+http://tv14s.xyz:8080/WzD7qQ/424962/159972
+#EXTINF:-1,tvg-id="PORNBOX: DIGITAL PLAYGROUND" tvg-name="PORNBOX: DIGITAL PLAYGROUND" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:DIGITALPLAYGROUND.png" group-title="X.其他",PORNBOX: DIGITAL PLAYGROUND
+http://tv14s.xyz:8080/WzD7qQ/424962/159973
+#EXTINF:-1,tvg-id="PORNBOX: DOGFART NETWORK" tvg-name="PORNBOX: DOGFART NETWORK" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:DOGFARTNETWORK.png" group-title="X.其他",PORNBOX: DOGFART NETWORK
+http://tv14s.xyz:8080/WzD7qQ/424962/159974
+#EXTINF:-1,tvg-id="PORNBOX: DORCEL CLUB" tvg-name="PORNBOX: DORCEL CLUB" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:DORCELCLUB.png" group-title="X.其他",PORNBOX: DORCEL CLUB
+http://tv14s.xyz:8080/WzD7qQ/424962/159975
+#EXTINF:-1,tvg-id="PORNBOX: DREAMROOM" tvg-name="PORNBOX: DREAMROOM" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:DREAMROOM.png" group-title="X.其他",PORNBOX: DREAMROOM
+http://tv14s.xyz:8080/WzD7qQ/424962/159976
+#EXTINF:-1,tvg-id="PORNBOX: EROTIKVONBENAN" tvg-name="PORNBOX: EROTIKVONBENAN" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:EROTIKVONBENAN.png" group-title="X.其他",PORNBOX: EROTIKVONBENAN
+http://tv14s.xyz:8080/WzD7qQ/424962/159977
+#EXTINF:-1,tvg-id="PORNBOX: FAKE HOSTEL" tvg-name="PORNBOX: FAKE HOSTEL" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:FAKEHOSTEL.png" group-title="X.其他",PORNBOX: FAKE HOSTEL
+http://tv14s.xyz:8080/WzD7qQ/424962/159979
+#EXTINF:-1,tvg-id="PORNBOX: FAKE TAXI" tvg-name="PORNBOX: FAKE TAXI" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:FAKETAXI.png" group-title="X.其他",PORNBOX: FAKE TAXI
+http://tv14s.xyz:8080/WzD7qQ/424962/159980
+#EXTINF:-1,tvg-id="PORNBOX: FAMILY STROKES" tvg-name="PORNBOX: FAMILY STROKES" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:FAMILYSTROKES.png" group-title="X.其他",PORNBOX: FAMILY STROKES
+http://tv14s.xyz:8080/WzD7qQ/424962/159981
+#EXTINF:-1,tvg-id="PORNBOX: FAMILY SWAP XXX" tvg-name="PORNBOX: FAMILY SWAP XXX" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:FAMILYSWAPXXX.png" group-title="X.其他",PORNBOX: FAMILY SWAP XXX
+http://tv14s.xyz:8080/WzD7qQ/424962/159982
+#EXTINF:-1,tvg-id="PORNBOX: FAPADOO" tvg-name="PORNBOX: FAPADOO" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:FAPADOO.png" group-title="X.其他",PORNBOX: FAPADOO
+http://tv14s.xyz:8080/WzD7qQ/424962/159983
+#EXTINF:-1,tvg-id="PORNBOX: FILTHY POV" tvg-name="PORNBOX: FILTHY POV" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:FILTHYPOV.png" group-title="X.其他",PORNBOX: FILTHY POV
+http://tv14s.xyz:8080/WzD7qQ/424962/159984
+#EXTINF:-1,tvg-id="PORNBOX: FIRST ANAL QUEST" tvg-name="PORNBOX: FIRST ANAL QUEST" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:FIRSTANALQUEST.png" group-title="X.其他",PORNBOX: FIRST ANAL QUEST
+http://tv14s.xyz:8080/WzD7qQ/424962/159985
+#EXTINF:-1,tvg-id="PORNBOX: FIT 18" tvg-name="PORNBOX: FIT 18" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:FIT18.png" group-title="X.其他",PORNBOX: FIT 18
+http://tv14s.xyz:8080/WzD7qQ/424962/159986
+#EXTINF:-1,tvg-id="PORNBOX: GOTMYLF" tvg-name="PORNBOX: GOTMYLF" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:GOTMYLF.png" group-title="X.其他",PORNBOX: GOTMYLF
+http://tv14s.xyz:8080/WzD7qQ/424962/159987
+#EXTINF:-1,tvg-id="PORNBOX: HENTAINED" tvg-name="PORNBOX: HENTAINED" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:HENTAINED.png" group-title="X.其他",PORNBOX: HENTAINED
+http://tv14s.xyz:8080/WzD7qQ/424962/159988
+#EXTINF:-1,tvg-id="PORNBOX: HER LIMIT" tvg-name="PORNBOX: HER LIMIT" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:HERLIMIT.png" group-title="X.其他",PORNBOX: HER LIMIT
+http://tv14s.xyz:8080/WzD7qQ/424962/159989
+#EXTINF:-1,tvg-id="PORNBOX: HOLED" tvg-name="PORNBOX: HOLED" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:HOLED.png" group-title="X.其他",PORNBOX: HOLED
+http://tv14s.xyz:8080/WzD7qQ/424962/159990
+#EXTINF:-1,tvg-id="PORNBOX: HOT WIFE XXX" tvg-name="PORNBOX: HOT WIFE XXX" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:HOTWIFEXXX.png" group-title="X.其他",PORNBOX: HOT WIFE XXX
+http://tv14s.xyz:8080/WzD7qQ/424962/159991
+#EXTINF:-1,tvg-id="PORNBOX: HUSSIE PASS" tvg-name="PORNBOX: HUSSIE PASS" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:HUSSIEPASS.png" group-title="X.其他",PORNBOX: HUSSIE PASS
+http://tv14s.xyz:8080/WzD7qQ/424962/159992
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="X.其他",PORNBOX: INTERRACIAL PASS
+http://tv14s.xyz:8080/WzD7qQ/424962/159993
+#EXTINF:-1,tvg-id="PORNBOX: JAYS POV" tvg-name="PORNBOX: JAYS POV" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:JAYSPOV.png" group-title="X.其他",PORNBOX: JAYS POV
+http://tv14s.xyz:8080/WzD7qQ/424962/159994
+#EXTINF:-1,tvg-id="PORNBOX: JESH BY JESH" tvg-name="PORNBOX: JESH BY JESH" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:JESHBYJESH.png" group-title="X.其他",PORNBOX: JESH BY JESH
+http://tv14s.xyz:8080/WzD7qQ/424962/159995
+#EXTINF:-1,tvg-id="PORNBOX: JOI BABES" tvg-name="PORNBOX: JOI BABES" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:JOIBABES.png" group-title="X.其他",PORNBOX: JOI BABES
+http://tv14s.xyz:8080/WzD7qQ/424962/159996
+#EXTINF:-1,tvg-id="PORNBOX: JULES JORDAN" tvg-name="PORNBOX: JULES JORDAN" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:JULESJORDAN.png" group-title="X.其他",PORNBOX: JULES JORDAN
+http://tv14s.xyz:8080/WzD7qQ/424962/159997
+#EXTINF:-1,tvg-id="PORNBOX: KINKY FAMILY" tvg-name="PORNBOX: KINKY FAMILY" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:KINKYFAMILY.png" group-title="X.其他",PORNBOX: KINKY FAMILY
+http://tv14s.xyz:8080/WzD7qQ/424962/159998
+#EXTINF:-1,tvg-id="PORNBOX: KINKY INLAWS" tvg-name="PORNBOX: KINKY INLAWS" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:KINKYINLAWS.png" group-title="X.其他",PORNBOX: KINKY INLAWS
+http://tv14s.xyz:8080/WzD7qQ/424962/159999
+#EXTINF:-1,tvg-id="PORNBOX: LETHAL HARDCORE" tvg-name="PORNBOX: LETHAL HARDCORE" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:LETHALHARDCORE.png" group-title="X.其他",PORNBOX: LETHAL HARDCORE
+http://tv14s.xyz:8080/WzD7qQ/424962/160001
+#EXTINF:-1,tvg-id="PORNBOX: LETHAL TEENS" tvg-name="PORNBOX: LETHAL TEENS" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:LETHALTEENS.png" group-title="X.其他",PORNBOX: LETHAL TEENS
+http://tv14s.xyz:8080/WzD7qQ/424962/160002
+#EXTINF:-1,tvg-id="PORNBOX: LETS DOE IT" tvg-name="PORNBOX: LETS DOE IT" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:LETSDOEIT.png" group-title="X.其他",PORNBOX: LETS DOE IT
+http://tv14s.xyz:8080/WzD7qQ/424962/160003
+#EXTINF:-1,tvg-id="PORNBOX: LIFE SELECTOR" tvg-name="PORNBOX: LIFE SELECTOR" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:LIFESELECTOR.png" group-title="X.其他",PORNBOX: LIFE SELECTOR
+http://tv14s.xyz:8080/WzD7qQ/424962/160004
+#EXTINF:-1,tvg-id="PORNBOX: LOVE HER FEET" tvg-name="PORNBOX: LOVE HER FEET" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:LOVEHERFEET.png" group-title="X.其他",PORNBOX: LOVE HER FEET
+http://tv14s.xyz:8080/WzD7qQ/424962/160005
+#EXTINF:-1,tvg-id="PORNBOX: LOVE HOME PORN" tvg-name="PORNBOX: LOVE HOME PORN" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:LOVEHOMEPORN.png" group-title="X.其他",PORNBOX: LOVE HOME PORN
+http://tv14s.xyz:8080/WzD7qQ/424962/160006
+#EXTINF:-1,tvg-id="PORNBOX: LUBED" tvg-name="PORNBOX: LUBED" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:LUBED.png" group-title="X.其他",PORNBOX: LUBED
+http://tv14s.xyz:8080/WzD7qQ/424962/160007
+#EXTINF:-1,tvg-id="PORNBOX: LUXURE" tvg-name="PORNBOX: LUXURE" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:LUXURE.png" group-title="X.其他",PORNBOX: LUXURE
+http://tv14s.xyz:8080/WzD7qQ/424962/160008
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="X.其他",PORNBOX: MAMACITAZ
+http://tv14s.xyz:8080/WzD7qQ/424962/160009
+#EXTINF:-1,tvg-id="PORNBOX: MASSAGE ROOMS" tvg-name="PORNBOX: MASSAGE ROOMS" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:MASSAGEROOMS.png" group-title="X.其他",PORNBOX: MASSAGE ROOMS
+http://tv14s.xyz:8080/WzD7qQ/424962/160010
+#EXTINF:-1,tvg-id="PORNBOX: MODEL MEDIA ASIA" tvg-name="PORNBOX: MODEL MEDIA ASIA" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:MODELMEDIAASIA.png" group-title="X.其他",PORNBOX: MODEL MEDIA ASIA
+http://tv14s.xyz:8080/WzD7qQ/424962/160011
+#EXTINF:-1,tvg-id="PORNBOX: MOFOS" tvg-name="PORNBOX: MOFOS" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:MOFOS.png" group-title="X.其他",PORNBOX: MOFOS
+http://tv14s.xyz:8080/WzD7qQ/424962/160012
+#EXTINF:-1,tvg-id="PORNBOX: MOM TEACH SEX" tvg-name="PORNBOX: MOM TEACH SEX" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:MOMTEACHSEX.png" group-title="X.其他",PORNBOX: MOM TEACH SEX
+http://tv14s.xyz:8080/WzD7qQ/424962/160013
+#EXTINF:-1,tvg-id="PORNBOX: MOM XXX" tvg-name="PORNBOX: MOM XXX" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:MOMXXX.png" group-title="X.其他",PORNBOX: MOM XXX
+http://tv14s.xyz:8080/WzD7qQ/424962/160014
+#EXTINF:-1,tvg-id="PORNBOX: MOMMY BLOWS BEST" tvg-name="PORNBOX: MOMMY BLOWS BEST" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:MOMMYBLOWSBEST.png" group-title="X.其他",PORNBOX: MOMMY BLOWS BEST
+http://tv14s.xyz:8080/WzD7qQ/424962/160015
+#EXTINF:-1,tvg-id="PORNBOX: MUST NOT FAP" tvg-name="PORNBOX: MUST NOT FAP" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:MUSTNOTFAP.png" group-title="X.其他",PORNBOX: MUST NOT FAP
+http://tv14s.xyz:8080/WzD7qQ/424962/160016
+#EXTINF:-1,tvg-id="PORNBOX: MY DIRTY HOBBY" tvg-name="PORNBOX: MY DIRTY HOBBY" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:MYDIRTYHOBBY.png" group-title="X.其他",PORNBOX: MY DIRTY HOBBY
+http://tv14s.xyz:8080/WzD7qQ/424962/160017
+#EXTINF:-1,tvg-id="PORNBOX: MY FAMILY PIES" tvg-name="PORNBOX: MY FAMILY PIES" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:MYFAMILYPIES.png" group-title="X.其他",PORNBOX: MY FAMILY PIES
+http://tv14s.xyz:8080/WzD7qQ/424962/160018
+#EXTINF:-1,tvg-id="PORNBOX: MY LIFE IN MIAMI" tvg-name="PORNBOX: MY LIFE IN MIAMI" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:MYLIFEINMIAMI.png" group-title="X.其他",PORNBOX: MY LIFE IN MIAMI
+http://tv14s.xyz:8080/WzD7qQ/424962/160019
+#EXTINF:-1,tvg-id="PORNBOX: MY PERVY FAMILY" tvg-name="PORNBOX: MY PERVY FAMILY" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:MYPERVYFAMILY.png" group-title="X.其他",PORNBOX: MY PERVY FAMILY
+http://tv14s.xyz:8080/WzD7qQ/424962/160020
+#EXTINF:-1,tvg-id="PORNBOX: MY TINY WISH" tvg-name="PORNBOX: MY TINY WISH" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:MYTINYWISH.png" group-title="X.其他",PORNBOX: MY TINY WISH
+http://tv14s.xyz:8080/WzD7qQ/424962/160021
+#EXTINF:-1,tvg-id="PORNBOX: MYLF" tvg-name="PORNBOX: MYLF" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:MYLF.png" group-title="X.其他",PORNBOX: MYLF
+http://tv14s.xyz:8080/WzD7qQ/424962/160022
+#EXTINF:-1,tvg-id="PORNBOX: NEW SENSATIONS" tvg-name="PORNBOX: NEW SENSATIONS" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:NEWSENSATIONS.png" group-title="X.其他",PORNBOX: NEW SENSATIONS
+http://tv14s.xyz:8080/WzD7qQ/424962/160023
+#EXTINF:-1,tvg-id="PORNBOX: NF BUSTY" tvg-name="PORNBOX: NF BUSTY" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:NFBUSTY.png" group-title="X.其他",PORNBOX: NF BUSTY
+http://tv14s.xyz:8080/WzD7qQ/424962/160024
+#EXTINF:-1,tvg-id="PORNBOX: NUBILE FILMS" tvg-name="PORNBOX: NUBILE FILMS" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:NUBILEFILMS.png" group-title="X.其他",PORNBOX: NUBILE FILMS
+http://tv14s.xyz:8080/WzD7qQ/424962/160025
+#EXTINF:-1,tvg-id="PORNBOX: NURU MASSAGE" tvg-name="PORNBOX: NURU MASSAGE" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:NURUMASSAGE.png" group-title="X.其他",PORNBOX: NURU MASSAGE
+http://tv14s.xyz:8080/WzD7qQ/424962/160026
+#EXTINF:-1,tvg-id="PORNBOX: PASSION" tvg-name="PORNBOX: PASSION" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:PASSION.png" group-title="X.其他",PORNBOX: PASSION
+http://tv14s.xyz:8080/WzD7qQ/424962/160027
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="X.其他",PORNBOX: PERV CITY
+http://tv14s.xyz:8080/WzD7qQ/424962/160028
+#EXTINF:-1,tvg-id="PORNBOX: PERV MOM" tvg-name="PORNBOX: PERV MOM" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:PERVMOM.png" group-title="X.其他",PORNBOX: PERV MOM
+http://tv14s.xyz:8080/WzD7qQ/424962/160029
+#EXTINF:-1,tvg-id="PORNBOX: PORN WORLD HARDCORE" tvg-name="PORNBOX: PORN WORLD HARDCORE" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:PORNWORLDHARDCORE.png" group-title="X.其他",PORNBOX: PORN WORLD HARDCORE
+http://tv14s.xyz:8080/WzD7qQ/424962/160030
+#EXTINF:-1,tvg-id="PORNBOX: PORNHOCHIC" tvg-name="PORNBOX: PORNHOCHIC" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:PORNHOCHIC.png" group-title="X.其他",PORNBOX: PORNHOCHIC
+http://tv14s.xyz:8080/WzD7qQ/424962/160031
+#EXTINF:-1,tvg-id="PORNBOX: POVD" tvg-name="PORNBOX: POVD" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:POVD.png" group-title="X.其他",PORNBOX: POVD
+http://tv14s.xyz:8080/WzD7qQ/424962/160032
+#EXTINF:-1,tvg-id="PORNBOX: PRENCESS CUM" tvg-name="PORNBOX: PRENCESS CUM" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:PRENCESSCUM.png" group-title="X.其他",PORNBOX: PRENCESS CUM
+http://tv14s.xyz:8080/WzD7qQ/424962/160033
+#EXTINF:-1,tvg-id="PORNBOX: PRIVATE" tvg-name="PORNBOX: PRIVATE" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:PRIVATE.png" group-title="X.其他",PORNBOX: PRIVATE
+http://tv14s.xyz:8080/WzD7qQ/424962/160034
+#EXTINF:-1,tvg-id="PORNBOX: PROPERTY SEX" tvg-name="PORNBOX: PROPERTY SEX" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:PROPERTYSEX.png" group-title="X.其他",PORNBOX: PROPERTY SEX
+http://tv14s.xyz:8080/WzD7qQ/424962/160035
+#EXTINF:-1,tvg-id="PORNBOX: PUBLIC AGENT" tvg-name="PORNBOX: PUBLIC AGENT" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:PUBLICAGENT.png" group-title="X.其他",PORNBOX: PUBLIC AGENT
+http://tv14s.xyz:8080/WzD7qQ/424962/160036
+#EXTINF:-1,tvg-id="PORNBOX: PURE MATURE" tvg-name="PORNBOX: PURE MATURE" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:PUREMATURE.png" group-title="X.其他",PORNBOX: PURE MATURE
+http://tv14s.xyz:8080/WzD7qQ/424962/160037
+#EXTINF:-1,tvg-id="PORNBOX: REAL DIRTY VIDEOS" tvg-name="PORNBOX: REAL DIRTY VIDEOS" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:REALDIRTYVIDEOS.png" group-title="X.其他",PORNBOX: REAL DIRTY VIDEOS
+http://tv14s.xyz:8080/WzD7qQ/424962/160038
+#EXTINF:-1,tvg-id="PORNBOX: REAL MOM EXPOSED" tvg-name="PORNBOX: REAL MOM EXPOSED" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:REALMOMEXPOSED.png" group-title="X.其他",PORNBOX: REAL MOM EXPOSED
+http://tv14s.xyz:8080/WzD7qQ/424962/160039
+#EXTINF:-1,tvg-id="PORNBOX: REALITY JUNKIES" tvg-name="PORNBOX: REALITY JUNKIES" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:REALITYJUNKIES.png" group-title="X.其他",PORNBOX: REALITY JUNKIES
+http://tv14s.xyz:8080/WzD7qQ/424962/160040
+#EXTINF:-1,tvg-id="PORNBOX: REALITY KINGS" tvg-name="PORNBOX: REALITY KINGS" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:REALITYKINGS.png" group-title="X.其他",PORNBOX: REALITY KINGS
+http://tv14s.xyz:8080/WzD7qQ/424962/160041
+#EXTINF:-1,tvg-id="PORNBOX: SLIM 4K" tvg-name="PORNBOX: SLIM 4K" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:SLIM4K.png" group-title="X.其他",PORNBOX: SLIM 4K
+http://tv14s.xyz:8080/WzD7qQ/424962/160042
+#EXTINF:-1,tvg-id="PORNBOX: STROKIES" tvg-name="PORNBOX: STROKIES" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:STROKIES.png" group-title="X.其他",PORNBOX: STROKIES
+http://tv14s.xyz:8080/WzD7qQ/424962/160043
+#EXTINF:-1,tvg-id="PORNBOX: SUGAR BABES TV" tvg-name="PORNBOX: SUGAR BABES TV" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:SUGARBABESTV.png" group-title="X.其他",PORNBOX: SUGAR BABES TV
+http://tv14s.xyz:8080/WzD7qQ/424962/160044
+#EXTINF:-1,tvg-id="PORNBOX: SWEET SINNER" tvg-name="PORNBOX: SWEET SINNER" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:SWEETSINNER.png" group-title="X.其他",PORNBOX: SWEET SINNER
+http://tv14s.xyz:8080/WzD7qQ/424962/160045
+#EXTINF:-1,tvg-id="PORNBOX: THROATED" tvg-name="PORNBOX: THROATED" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:THROATED.png" group-title="X.其他",PORNBOX: THROATED
+http://tv14s.xyz:8080/WzD7qQ/424962/160046
+#EXTINF:-1,tvg-id="PORNBOX: TRUE AMATUERS" tvg-name="PORNBOX: TRUE AMATUERS" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:TRUEAMATUERS.png" group-title="X.其他",PORNBOX: TRUE AMATUERS
+http://tv14s.xyz:8080/WzD7qQ/424962/160047
+#EXTINF:-1,tvg-id="PORNBOX: X CHIMERA" tvg-name="PORNBOX: X CHIMERA" tvg-logo="https://epg.112114.xyz/logo/PORNBOX:XCHIMERA.png" group-title="X.其他",PORNBOX: X CHIMERA
+http://tv14s.xyz:8080/WzD7qQ/424962/160048
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: ABELLA DANGER" tvg-name="STARS EXCLUSIVE: ABELLA DANGER" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:ABELLADANGER.png" group-title="X.其他",STARS EXCLUSIVE: ABELLA DANGER
+http://tv14s.xyz:8080/WzD7qQ/424962/160049
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: ADRIANA CHECHIK" tvg-name="STARS EXCLUSIVE: ADRIANA CHECHIK" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:ADRIANACHECHIK.png" group-title="X.其他",STARS EXCLUSIVE: ADRIANA CHECHIK
+http://tv14s.xyz:8080/WzD7qQ/424962/160050
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",STARS EXCLUSIVE: ALINA LOPEZ
+http://tv14s.xyz:8080/WzD7qQ/424962/160051
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: ANGELA WHITE" tvg-name="STARS EXCLUSIVE: ANGELA WHITE" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:ANGELAWHITE.png" group-title="X.其他",STARS EXCLUSIVE: ANGELA WHITE
+http://tv14s.xyz:8080/WzD7qQ/424962/160052
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: ARIANA MARIE" tvg-name="STARS EXCLUSIVE: ARIANA MARIE" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:ARIANAMARIE.png" group-title="X.其他",STARS EXCLUSIVE: ARIANA MARIE
+http://tv14s.xyz:8080/WzD7qQ/424962/160053
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: AUGUST AMES" tvg-name="STARS EXCLUSIVE: AUGUST AMES" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:AUGUSTAMES.png" group-title="X.其他",STARS EXCLUSIVE: AUGUST AMES
+http://tv14s.xyz:8080/WzD7qQ/424962/160054
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: AUTUMN FALLS" tvg-name="STARS EXCLUSIVE: AUTUMN FALLS" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:AUTUMNFALLS.png" group-title="X.其他",STARS EXCLUSIVE: AUTUMN FALLS
+http://tv14s.xyz:8080/WzD7qQ/424962/160055
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: BRANDI LOVE" tvg-name="STARS EXCLUSIVE: BRANDI LOVE" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:BRANDILOVE.png" group-title="X.其他",STARS EXCLUSIVE: BRANDI LOVE
+http://tv14s.xyz:8080/WzD7qQ/424962/160056
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: DANI DANIELS" tvg-name="STARS EXCLUSIVE: DANI DANIELS" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:DANIDANIELS.png" group-title="X.其他",STARS EXCLUSIVE: DANI DANIELS
+http://tv14s.xyz:8080/WzD7qQ/424962/160057
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: DANI JENSEN" tvg-name="STARS EXCLUSIVE: DANI JENSEN" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:DANIJENSEN.png" group-title="X.其他",STARS EXCLUSIVE: DANI JENSEN
+http://tv14s.xyz:8080/WzD7qQ/424962/160058
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: ELSA JEAN" tvg-name="STARS EXCLUSIVE: ELSA JEAN" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:ELSAJEAN.png" group-title="X.其他",STARS EXCLUSIVE: ELSA JEAN
+http://tv14s.xyz:8080/WzD7qQ/424962/160059
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: EMILY WILLIS" tvg-name="STARS EXCLUSIVE: EMILY WILLIS" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:EMILYWILLIS.png" group-title="X.其他",STARS EXCLUSIVE: EMILY WILLIS
+http://tv14s.xyz:8080/WzD7qQ/424962/160060
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: EVA LOVIA" tvg-name="STARS EXCLUSIVE: EVA LOVIA" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:EVALOVIA.png" group-title="X.其他",STARS EXCLUSIVE: EVA LOVIA
+http://tv14s.xyz:8080/WzD7qQ/424962/160061
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: GINA VALENTINA" tvg-name="STARS EXCLUSIVE: GINA VALENTINA" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:GINAVALENTINA.png" group-title="X.其他",STARS EXCLUSIVE: GINA VALENTINA
+http://tv14s.xyz:8080/WzD7qQ/424962/160062
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: JANICE GRIFFITH" tvg-name="STARS EXCLUSIVE: JANICE GRIFFITH" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:JANICEGRIFFITH.png" group-title="X.其他",STARS EXCLUSIVE: JANICE GRIFFITH
+http://tv14s.xyz:8080/WzD7qQ/424962/160063
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: JESSA RHODES" tvg-name="STARS EXCLUSIVE: JESSA RHODES" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:JESSARHODES.png" group-title="X.其他",STARS EXCLUSIVE: JESSA RHODES
+http://tv14s.xyz:8080/WzD7qQ/424962/160064
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: LANA RHOADES" tvg-name="STARS EXCLUSIVE: LANA RHOADES" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:LANARHOADES.png" group-title="X.其他",STARS EXCLUSIVE: LANA RHOADES
+http://tv14s.xyz:8080/WzD7qQ/424962/160065
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: LENA PAUL" tvg-name="STARS EXCLUSIVE: LENA PAUL" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:LENAPAUL.png" group-title="X.其他",STARS EXCLUSIVE: LENA PAUL
+http://tv14s.xyz:8080/WzD7qQ/424962/160066
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: LISA ANN" tvg-name="STARS EXCLUSIVE: LISA ANN" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:LISAANN.png" group-title="X.其他",STARS EXCLUSIVE: LISA ANN
+http://tv14s.xyz:8080/WzD7qQ/424962/160067
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: MADISON IVY" tvg-name="STARS EXCLUSIVE: MADISON IVY" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:MADISONIVY.png" group-title="X.其他",STARS EXCLUSIVE: MADISON IVY
+http://tv14s.xyz:8080/WzD7qQ/424962/160068
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: MIA MALKOVA" tvg-name="STARS EXCLUSIVE: MIA MALKOVA" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:MIAMALKOVA.png" group-title="X.其他",STARS EXCLUSIVE: MIA MALKOVA
+http://tv14s.xyz:8080/WzD7qQ/424962/160069
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: NICOLE ANISTON" tvg-name="STARS EXCLUSIVE: NICOLE ANISTON" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:NICOLEANISTON.png" group-title="X.其他",STARS EXCLUSIVE: NICOLE ANISTON
+http://tv14s.xyz:8080/WzD7qQ/424962/160070
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: RILEY REID" tvg-name="STARS EXCLUSIVE: RILEY REID" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:RILEYREID.png" group-title="X.其他",STARS EXCLUSIVE: RILEY REID
+http://tv14s.xyz:8080/WzD7qQ/424962/160071
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: UMA JOLIE" tvg-name="STARS EXCLUSIVE: UMA JOLIE" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:UMAJOLIE.png" group-title="X.其他",STARS EXCLUSIVE: UMA JOLIE
+http://tv14s.xyz:8080/WzD7qQ/424962/160072
+#EXTINF:-1,tvg-id="STARS EXCLUSIVE: VALENTINA NAPPI" tvg-name="STARS EXCLUSIVE: VALENTINA NAPPI" tvg-logo="https://epg.112114.xyz/logo/STARSEXCLUSIVE:VALENTINANAPPI.png" group-title="X.其他",STARS EXCLUSIVE: VALENTINA NAPPI
+http://tv14s.xyz:8080/WzD7qQ/424962/160073
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: ALICE REDLIPS" tvg-name="VERIFIED AMATEURS: ALICE REDLIPS" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:ALICEREDLIPS.png" group-title="X.其他",VERIFIED AMATEURS: ALICE REDLIPS
+http://tv14s.xyz:8080/WzD7qQ/424962/160074
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: BIGTITTYGOTHEGG" tvg-name="VERIFIED AMATEURS: BIGTITTYGOTHEGG" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:BIGTITTYGOTHEGG.png" group-title="X.其他",VERIFIED AMATEURS: BIGTITTYGOTHEGG
+http://tv14s.xyz:8080/WzD7qQ/424962/160075
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: CHERRY GRACE" tvg-name="VERIFIED AMATEURS: CHERRY GRACE" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:CHERRYGRACE.png" group-title="X.其他",VERIFIED AMATEURS: CHERRY GRACE
+http://tv14s.xyz:8080/WzD7qQ/424962/160076
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: DIANA DANIELS" tvg-name="VERIFIED AMATEURS: DIANA DANIELS" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:DIANADANIELS.png" group-title="X.其他",VERIFIED AMATEURS: DIANA DANIELS
+http://tv14s.xyz:8080/WzD7qQ/424962/160078
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: ELLAKAI" tvg-name="VERIFIED AMATEURS: ELLAKAI" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:ELLAKAI.png" group-title="X.其他",VERIFIED AMATEURS: ELLAKAI
+http://tv14s.xyz:8080/WzD7qQ/424962/160079
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: FIAMURR" tvg-name="VERIFIED AMATEURS: FIAMURR" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:FIAMURR.png" group-title="X.其他",VERIFIED AMATEURS: FIAMURR
+http://tv14s.xyz:8080/WzD7qQ/424962/160080
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: KRISS KISS" tvg-name="VERIFIED AMATEURS: KRISS KISS" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:KRISSKISS.png" group-title="X.其他",VERIFIED AMATEURS: KRISS KISS
+http://tv14s.xyz:8080/WzD7qQ/424962/160081
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: LEAH MEOW" tvg-name="VERIFIED AMATEURS: LEAH MEOW" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:LEAHMEOW.png" group-title="X.其他",VERIFIED AMATEURS: LEAH MEOW
+http://tv14s.xyz:8080/WzD7qQ/424962/160082
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: LUXURYGIRL" tvg-name="VERIFIED AMATEURS: LUXURYGIRL" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:LUXURYGIRL.png" group-title="X.其他",VERIFIED AMATEURS: LUXURYGIRL
+http://tv14s.xyz:8080/WzD7qQ/424962/160083
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: MIKANIKA69" tvg-name="VERIFIED AMATEURS: MIKANIKA69" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:MIKANIKA69.png" group-title="X.其他",VERIFIED AMATEURS: MIKANIKA69
+http://tv14s.xyz:8080/WzD7qQ/424962/160084
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: MINI DIVA" tvg-name="VERIFIED AMATEURS: MINI DIVA" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:MINIDIVA.png" group-title="X.其他",VERIFIED AMATEURS: MINI DIVA
+http://tv14s.xyz:8080/WzD7qQ/424962/160085
+#EXTINF:-1,tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.112114.xyz/logo/DW.png" group-title="X.其他",VERIFIED AMATEURS: MOLLYREDWOLF
+http://tv14s.xyz:8080/WzD7qQ/424962/160086
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: NOFACEGIRL" tvg-name="VERIFIED AMATEURS: NOFACEGIRL" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:NOFACEGIRL.png" group-title="X.其他",VERIFIED AMATEURS: NOFACEGIRL
+http://tv14s.xyz:8080/WzD7qQ/424962/160087
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: NOTSOAMATEUR" tvg-name="VERIFIED AMATEURS: NOTSOAMATEUR" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:NOTSOAMATEUR.png" group-title="X.其他",VERIFIED AMATEURS: NOTSOAMATEUR
+http://tv14s.xyz:8080/WzD7qQ/424962/160088
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: NYNA FERRAGNI" tvg-name="VERIFIED AMATEURS: NYNA FERRAGNI" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:NYNAFERRAGNI.png" group-title="X.其他",VERIFIED AMATEURS: NYNA FERRAGNI
+http://tv14s.xyz:8080/WzD7qQ/424962/160089
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: PURPLE BITCH" tvg-name="VERIFIED AMATEURS: PURPLE BITCH" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:PURPLEBITCH.png" group-title="X.其他",VERIFIED AMATEURS: PURPLE BITCH
+http://tv14s.xyz:8080/WzD7qQ/424962/160090
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: REISLIN" tvg-name="VERIFIED AMATEURS: REISLIN" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:REISLIN.png" group-title="X.其他",VERIFIED AMATEURS: REISLIN
+http://tv14s.xyz:8080/WzD7qQ/424962/160091
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: SECRETCRUSH" tvg-name="VERIFIED AMATEURS: SECRETCRUSH" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:SECRETCRUSH.png" group-title="X.其他",VERIFIED AMATEURS: SECRETCRUSH
+http://tv14s.xyz:8080/WzD7qQ/424962/160092
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: SHAIDEN ROUGE" tvg-name="VERIFIED AMATEURS: SHAIDEN ROUGE" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:SHAIDENROUGE.png" group-title="X.其他",VERIFIED AMATEURS: SHAIDEN ROUGE
+http://tv14s.xyz:8080/WzD7qQ/424962/160093
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",VERIFIED AMATEURS: SOLAZOLA
+http://tv14s.xyz:8080/WzD7qQ/424962/160094
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: SWEET BUNNY" tvg-name="VERIFIED AMATEURS: SWEET BUNNY" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:SWEETBUNNY.png" group-title="X.其他",VERIFIED AMATEURS: SWEET BUNNY
+http://tv14s.xyz:8080/WzD7qQ/424962/160095
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: TESSA WINTERS" tvg-name="VERIFIED AMATEURS: TESSA WINTERS" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:TESSAWINTERS.png" group-title="X.其他",VERIFIED AMATEURS: TESSA WINTERS
+http://tv14s.xyz:8080/WzD7qQ/424962/160096
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: TINNA ANGEL" tvg-name="VERIFIED AMATEURS: TINNA ANGEL" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:TINNAANGEL.png" group-title="X.其他",VERIFIED AMATEURS: TINNA ANGEL
+http://tv14s.xyz:8080/WzD7qQ/424962/160097
+#EXTINF:-1,tvg-id="VERIFIED AMATEURS: YINYLEON" tvg-name="VERIFIED AMATEURS: YINYLEON" tvg-logo="https://epg.112114.xyz/logo/VERIFIEDAMATEURS:YINYLEON.png" group-title="X.其他",VERIFIED AMATEURS: YINYLEON
+http://tv14s.xyz:8080/WzD7qQ/424962/160098
+#EXTINF:-1,tvg-id="Alba XXX HD1" tvg-name="Alba XXX HD1" tvg-logo="https://epg.112114.xyz/logo/ALBAXXXHD1.png" group-title="X.其他",Alba XXX HD1
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/8311
+#EXTINF:-1,tvg-id="Alba XXX HD1 +1 " tvg-name="Alba XXX HD1 +1 " tvg-logo="https://epg.112114.xyz/logo/ALBAXXXHD1+1.png" group-title="X.其他",Alba XXX HD1 +1 
+http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/296945 Alba XXX HD2
+#EXTINF:-1,tvg-id=" BOX OF PORN" tvg-name=" BOX OF PORN" tvg-logo="https://epg.112114.xyz/logo/BOXOFPORN.png" group-title="X.其他", BOX OF PORN
+http://206.212.244.71:8080/4wVQA7/625159/159964
+#EXTINF:-1,tvg-id=" BRATTY SIS" tvg-name=" BRATTY SIS" tvg-logo="https://epg.112114.xyz/logo/BRATTYSIS.png" group-title="X.其他", BRATTY SIS
+http://206.212.244.71:8080/4wVQA7/625159/159965
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他", BRAZZERS
+http://206.212.244.71:8080/4wVQA7/625159/159966
+#EXTINF:-1,tvg-id=" BUMS BUS" tvg-name=" BUMS BUS" tvg-logo="https://epg.112114.xyz/logo/BUMSBUS.png" group-title="X.其他", BUMS BUS
+http://206.212.244.71:8080/4wVQA7/625159/159967
+#EXTINF:-1,tvg-id=" CASTING COUCH" tvg-name=" CASTING COUCH" tvg-logo="https://epg.112114.xyz/logo/CASTINGCOUCH.png" group-title="X.其他", CASTING COUCH
+http://206.212.244.71:8080/4wVQA7/625159/159968
+#EXTINF:-1,tvg-id=" CUM 4K" tvg-name=" CUM 4K" tvg-logo="https://epg.112114.xyz/logo/CUM4K.png" group-title="X.其他", CUM 4K
+http://206.212.244.71:8080/4wVQA7/625159/159969
+#EXTINF:-1,tvg-id=" DAGFS" tvg-name=" DAGFS" tvg-logo="https://epg.112114.xyz/logo/DAGFS.png" group-title="X.其他", DAGFS
+http://206.212.244.71:8080/4wVQA7/625159/159970
+#EXTINF:-1,tvg-id=" DDF BUSTY" tvg-name=" DDF BUSTY" tvg-logo="https://epg.112114.xyz/logo/DDFBUSTY.png" group-title="X.其他", DDF BUSTY
+http://206.212.244.71:8080/4wVQA7/625159/159971
+#EXTINF:-1,tvg-id=" DIABOLIC" tvg-name=" DIABOLIC" tvg-logo="https://epg.112114.xyz/logo/DIABOLIC.png" group-title="X.其他", DIABOLIC
+http://206.212.244.71:8080/4wVQA7/625159/159972
+#EXTINF:-1,tvg-id=" DIGITAL PLAYGROUND" tvg-name=" DIGITAL PLAYGROUND" tvg-logo="https://epg.112114.xyz/logo/DIGITALPLAYGROUND.png" group-title="X.其他", DIGITAL PLAYGROUND
+http://206.212.244.71:8080/4wVQA7/625159/159973
+#EXTINF:-1,tvg-id=" DOGFART NETWORK" tvg-name=" DOGFART NETWORK" tvg-logo="https://epg.112114.xyz/logo/DOGFARTNETWORK.png" group-title="X.其他", DOGFART NETWORK
+http://206.212.244.71:8080/4wVQA7/625159/159974
+#EXTINF:-1,tvg-id=" DORCEL CLUB" tvg-name=" DORCEL CLUB" tvg-logo="https://epg.112114.xyz/logo/DORCELCLUB.png" group-title="X.其他", DORCEL CLUB
+http://206.212.244.71:8080/4wVQA7/625159/159975
+#EXTINF:-1,tvg-id=" DREAMROOM" tvg-name=" DREAMROOM" tvg-logo="https://epg.112114.xyz/logo/DREAMROOM.png" group-title="X.其他", DREAMROOM
+http://206.212.244.71:8080/4wVQA7/625159/159976
+#EXTINF:-1,tvg-id=" EROTIKVONBENAN" tvg-name=" EROTIKVONBENAN" tvg-logo="https://epg.112114.xyz/logo/EROTIKVONBENAN.png" group-title="X.其他", EROTIKVONBENAN
+http://206.212.244.71:8080/4wVQA7/625159/159977
+#EXTINF:-1,tvg-id=" FAKE HOSTEL" tvg-name=" FAKE HOSTEL" tvg-logo="https://epg.112114.xyz/logo/FAKEHOSTEL.png" group-title="X.其他", FAKE HOSTEL
+http://206.212.244.71:8080/4wVQA7/625159/159979
+#EXTINF:-1,tvg-id=" FAKE TAXI" tvg-name=" FAKE TAXI" tvg-logo="https://epg.112114.xyz/logo/FAKETAXI.png" group-title="X.其他", FAKE TAXI
+http://206.212.244.71:8080/4wVQA7/625159/159980
+#EXTINF:-1,tvg-id=" FAMILY STROKES" tvg-name=" FAMILY STROKES" tvg-logo="https://epg.112114.xyz/logo/FAMILYSTROKES.png" group-title="X.其他", FAMILY STROKES
+http://206.212.244.71:8080/4wVQA7/625159/159981
+#EXTINF:-1,tvg-id=" FAMILY SWAP XXX" tvg-name=" FAMILY SWAP XXX" tvg-logo="https://epg.112114.xyz/logo/FAMILYSWAPXXX.png" group-title="X.其他", FAMILY SWAP XXX
+http://206.212.244.71:8080/4wVQA7/625159/159982
+#EXTINF:-1,tvg-id=" FAPADOO" tvg-name=" FAPADOO" tvg-logo="https://epg.112114.xyz/logo/FAPADOO.png" group-title="X.其他", FAPADOO
+http://206.212.244.71:8080/4wVQA7/625159/159983
+#EXTINF:-1,tvg-id=" FILTHY POV" tvg-name=" FILTHY POV" tvg-logo="https://epg.112114.xyz/logo/FILTHYPOV.png" group-title="X.其他", FILTHY POV
+http://206.212.244.71:8080/4wVQA7/625159/159984
+#EXTINF:-1,tvg-id=" FIRST ANAL QUEST" tvg-name=" FIRST ANAL QUEST" tvg-logo="https://epg.112114.xyz/logo/FIRSTANALQUEST.png" group-title="X.其他", FIRST ANAL QUEST
+http://206.212.244.71:8080/4wVQA7/625159/159985
+#EXTINF:-1,tvg-id=" FIT 18" tvg-name=" FIT 18" tvg-logo="https://epg.112114.xyz/logo/FIT18.png" group-title="X.其他", FIT 18
+http://206.212.244.71:8080/4wVQA7/625159/159986
+#EXTINF:-1,tvg-id=" GOTMYLF" tvg-name=" GOTMYLF" tvg-logo="https://epg.112114.xyz/logo/GOTMYLF.png" group-title="X.其他", GOTMYLF
+http://206.212.244.71:8080/4wVQA7/625159/159987
+#EXTINF:-1,tvg-id=" HENTAINED" tvg-name=" HENTAINED" tvg-logo="https://epg.112114.xyz/logo/HENTAINED.png" group-title="X.其他", HENTAINED
+http://206.212.244.71:8080/4wVQA7/625159/159988
+#EXTINF:-1,tvg-id=" HER LIMIT" tvg-name=" HER LIMIT" tvg-logo="https://epg.112114.xyz/logo/HERLIMIT.png" group-title="X.其他", HER LIMIT
+http://206.212.244.71:8080/4wVQA7/625159/159989
+#EXTINF:-1,tvg-id=" HOLED" tvg-name=" HOLED" tvg-logo="https://epg.112114.xyz/logo/HOLED.png" group-title="X.其他", HOLED
+http://206.212.244.71:8080/4wVQA7/625159/159990
+#EXTINF:-1,tvg-id=" HOT WIFE XXX" tvg-name=" HOT WIFE XXX" tvg-logo="https://epg.112114.xyz/logo/HOTWIFEXXX.png" group-title="X.其他", HOT WIFE XXX
+http://206.212.244.71:8080/4wVQA7/625159/159991
+#EXTINF:-1,tvg-id=" HUSSIE PASS" tvg-name=" HUSSIE PASS" tvg-logo="https://epg.112114.xyz/logo/HUSSIEPASS.png" group-title="X.其他", HUSSIE PASS
+http://206.212.244.71:8080/4wVQA7/625159/159992
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="X.其他", INTERRACIAL PASS
+http://206.212.244.71:8080/4wVQA7/625159/159993
+#EXTINF:-1,tvg-id=" JAYS POV" tvg-name=" JAYS POV" tvg-logo="https://epg.112114.xyz/logo/JAYSPOV.png" group-title="X.其他", JAYS POV
+http://206.212.244.71:8080/4wVQA7/625159/159994
+#EXTINF:-1,tvg-id=" JESH BY JESH" tvg-name=" JESH BY JESH" tvg-logo="https://epg.112114.xyz/logo/JESHBYJESH.png" group-title="X.其他", JESH BY JESH
+http://206.212.244.71:8080/4wVQA7/625159/159995
+#EXTINF:-1,tvg-id=" JOI BABES" tvg-name=" JOI BABES" tvg-logo="https://epg.112114.xyz/logo/JOIBABES.png" group-title="X.其他", JOI BABES
+http://206.212.244.71:8080/4wVQA7/625159/159996
+#EXTINF:-1,tvg-id=" JULES JORDAN" tvg-name=" JULES JORDAN" tvg-logo="https://epg.112114.xyz/logo/JULESJORDAN.png" group-title="X.其他", JULES JORDAN
+http://206.212.244.71:8080/4wVQA7/625159/159997
+#EXTINF:-1,tvg-id=" KINKY FAMILY" tvg-name=" KINKY FAMILY" tvg-logo="https://epg.112114.xyz/logo/KINKYFAMILY.png" group-title="X.其他", KINKY FAMILY
+http://206.212.244.71:8080/4wVQA7/625159/159998
+#EXTINF:-1,tvg-id=" KINKY INLAWS" tvg-name=" KINKY INLAWS" tvg-logo="https://epg.112114.xyz/logo/KINKYINLAWS.png" group-title="X.其他", KINKY INLAWS
+http://206.212.244.71:8080/4wVQA7/625159/159999
+#EXTINF:-1,tvg-id=" LETHAL HARDCORE" tvg-name=" LETHAL HARDCORE" tvg-logo="https://epg.112114.xyz/logo/LETHALHARDCORE.png" group-title="X.其他", LETHAL HARDCORE
+http://206.212.244.71:8080/4wVQA7/625159/160001
+#EXTINF:-1,tvg-id=" LETHAL TEENS" tvg-name=" LETHAL TEENS" tvg-logo="https://epg.112114.xyz/logo/LETHALTEENS.png" group-title="X.其他", LETHAL TEENS
+http://206.212.244.71:8080/4wVQA7/625159/160002
+#EXTINF:-1,tvg-id=" LETS DOE IT" tvg-name=" LETS DOE IT" tvg-logo="https://epg.112114.xyz/logo/LETSDOEIT.png" group-title="X.其他", LETS DOE IT
+http://206.212.244.71:8080/4wVQA7/625159/160003
+#EXTINF:-1,tvg-id=" LIFE SELECTOR" tvg-name=" LIFE SELECTOR" tvg-logo="https://epg.112114.xyz/logo/LIFESELECTOR.png" group-title="X.其他", LIFE SELECTOR
+http://206.212.244.71:8080/4wVQA7/625159/160004
+#EXTINF:-1,tvg-id=" LOVE HER FEET" tvg-name=" LOVE HER FEET" tvg-logo="https://epg.112114.xyz/logo/LOVEHERFEET.png" group-title="X.其他", LOVE HER FEET
+http://206.212.244.71:8080/4wVQA7/625159/160005
+#EXTINF:-1,tvg-id=" LOVE HOME PORN" tvg-name=" LOVE HOME PORN" tvg-logo="https://epg.112114.xyz/logo/LOVEHOMEPORN.png" group-title="X.其他", LOVE HOME PORN
+http://206.212.244.71:8080/4wVQA7/625159/160006
+#EXTINF:-1,tvg-id=" LUBED" tvg-name=" LUBED" tvg-logo="https://epg.112114.xyz/logo/LUBED.png" group-title="X.其他", LUBED
+http://206.212.244.71:8080/4wVQA7/625159/160007
+#EXTINF:-1,tvg-id=" LUXURE" tvg-name=" LUXURE" tvg-logo="https://epg.112114.xyz/logo/LUXURE.png" group-title="X.其他", LUXURE
+http://206.212.244.71:8080/4wVQA7/625159/160008
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="X.其他", MAMACITAZ
+http://206.212.244.71:8080/4wVQA7/625159/160009
+#EXTINF:-1,tvg-id=" MASSAGE ROOMS" tvg-name=" MASSAGE ROOMS" tvg-logo="https://epg.112114.xyz/logo/MASSAGEROOMS.png" group-title="X.其他", MASSAGE ROOMS
+http://206.212.244.71:8080/4wVQA7/625159/160010
+#EXTINF:-1,tvg-id=" MODEL MEDIA ASIA" tvg-name=" MODEL MEDIA ASIA" tvg-logo="https://epg.112114.xyz/logo/MODELMEDIAASIA.png" group-title="X.其他", MODEL MEDIA ASIA
+http://206.212.244.71:8080/4wVQA7/625159/160011
+#EXTINF:-1,tvg-id=" MOFOS" tvg-name=" MOFOS" tvg-logo="https://epg.112114.xyz/logo/MOFOS.png" group-title="X.其他", MOFOS
+http://206.212.244.71:8080/4wVQA7/625159/160012
+#EXTINF:-1,tvg-id=" MOM TEACH SEX" tvg-name=" MOM TEACH SEX" tvg-logo="https://epg.112114.xyz/logo/MOMTEACHSEX.png" group-title="X.其他", MOM TEACH SEX
+http://206.212.244.71:8080/4wVQA7/625159/160013
+#EXTINF:-1,tvg-id=" MOM XXX" tvg-name=" MOM XXX" tvg-logo="https://epg.112114.xyz/logo/MOMXXX.png" group-title="X.其他", MOM XXX
+http://206.212.244.71:8080/4wVQA7/625159/160014
+#EXTINF:-1,tvg-id=" MOMMY BLOWS BEST" tvg-name=" MOMMY BLOWS BEST" tvg-logo="https://epg.112114.xyz/logo/MOMMYBLOWSBEST.png" group-title="X.其他", MOMMY BLOWS BEST
+http://206.212.244.71:8080/4wVQA7/625159/160015
+#EXTINF:-1,tvg-id=" MUST NOT FAP" tvg-name=" MUST NOT FAP" tvg-logo="https://epg.112114.xyz/logo/MUSTNOTFAP.png" group-title="X.其他", MUST NOT FAP
+http://206.212.244.71:8080/4wVQA7/625159/160016
+#EXTINF:-1,tvg-id=" MY DIRTY HOBBY" tvg-name=" MY DIRTY HOBBY" tvg-logo="https://epg.112114.xyz/logo/MYDIRTYHOBBY.png" group-title="X.其他", MY DIRTY HOBBY
+http://206.212.244.71:8080/4wVQA7/625159/160017
+#EXTINF:-1,tvg-id=" MY FAMILY PIES" tvg-name=" MY FAMILY PIES" tvg-logo="https://epg.112114.xyz/logo/MYFAMILYPIES.png" group-title="X.其他", MY FAMILY PIES
+http://206.212.244.71:8080/4wVQA7/625159/160018
+#EXTINF:-1,tvg-id=" MY LIFE IN MIAMI" tvg-name=" MY LIFE IN MIAMI" tvg-logo="https://epg.112114.xyz/logo/MYLIFEINMIAMI.png" group-title="X.其他", MY LIFE IN MIAMI
+http://206.212.244.71:8080/4wVQA7/625159/160019
+#EXTINF:-1,tvg-id=" MY PERVY FAMILY" tvg-name=" MY PERVY FAMILY" tvg-logo="https://epg.112114.xyz/logo/MYPERVYFAMILY.png" group-title="X.其他", MY PERVY FAMILY
+http://206.212.244.71:8080/4wVQA7/625159/160020
+#EXTINF:-1,tvg-id=" MY TINY WISH" tvg-name=" MY TINY WISH" tvg-logo="https://epg.112114.xyz/logo/MYTINYWISH.png" group-title="X.其他", MY TINY WISH
+http://206.212.244.71:8080/4wVQA7/625159/160021
+#EXTINF:-1,tvg-id=" MYLF" tvg-name=" MYLF" tvg-logo="https://epg.112114.xyz/logo/MYLF.png" group-title="X.其他", MYLF
+http://206.212.244.71:8080/4wVQA7/625159/160022
+#EXTINF:-1,tvg-id=" NEW SENSATIONS" tvg-name=" NEW SENSATIONS" tvg-logo="https://epg.112114.xyz/logo/NEWSENSATIONS.png" group-title="X.其他", NEW SENSATIONS
+http://206.212.244.71:8080/4wVQA7/625159/160023
+#EXTINF:-1,tvg-id=" NF BUSTY" tvg-name=" NF BUSTY" tvg-logo="https://epg.112114.xyz/logo/NFBUSTY.png" group-title="X.其他", NF BUSTY
+http://206.212.244.71:8080/4wVQA7/625159/160024
+#EXTINF:-1,tvg-id=" NUBILE FILMS" tvg-name=" NUBILE FILMS" tvg-logo="https://epg.112114.xyz/logo/NUBILEFILMS.png" group-title="X.其他", NUBILE FILMS
+http://206.212.244.71:8080/4wVQA7/625159/160025
+#EXTINF:-1,tvg-id=" NURU MASSAGE" tvg-name=" NURU MASSAGE" tvg-logo="https://epg.112114.xyz/logo/NURUMASSAGE.png" group-title="X.其他", NURU MASSAGE
+http://206.212.244.71:8080/4wVQA7/625159/160026
+#EXTINF:-1,tvg-id=" PASSION" tvg-name=" PASSION" tvg-logo="https://epg.112114.xyz/logo/PASSION.png" group-title="X.其他", PASSION
+http://206.212.244.71:8080/4wVQA7/625159/160027
+#EXTINF:-1,tvg-id="CI" tvg-name="CI" tvg-logo="https://epg.112114.xyz/logo/CI.png" group-title="X.其他", PERV CITY
+http://206.212.244.71:8080/4wVQA7/625159/160028
+#EXTINF:-1,tvg-id=" PERV MOM" tvg-name=" PERV MOM" tvg-logo="https://epg.112114.xyz/logo/PERVMOM.png" group-title="X.其他", PERV MOM
+http://206.212.244.71:8080/4wVQA7/625159/160029
+#EXTINF:-1,tvg-id=" PORN WORLD HARDCORE" tvg-name=" PORN WORLD HARDCORE" tvg-logo="https://epg.112114.xyz/logo/PORNWORLDHARDCORE.png" group-title="X.其他", PORN WORLD HARDCORE
+http://206.212.244.71:8080/4wVQA7/625159/160030
+#EXTINF:-1,tvg-id=" PORNHOCHIC" tvg-name=" PORNHOCHIC" tvg-logo="https://epg.112114.xyz/logo/PORNHOCHIC.png" group-title="X.其他", PORNHOCHIC
+http://206.212.244.71:8080/4wVQA7/625159/160031
+#EXTINF:-1,tvg-id=" POVD" tvg-name=" POVD" tvg-logo="https://epg.112114.xyz/logo/POVD.png" group-title="X.其他", POVD
+http://206.212.244.71:8080/4wVQA7/625159/160032
+#EXTINF:-1,tvg-id=" PRENCESS CUM" tvg-name=" PRENCESS CUM" tvg-logo="https://epg.112114.xyz/logo/PRENCESSCUM.png" group-title="X.其他", PRENCESS CUM
+http://206.212.244.71:8080/4wVQA7/625159/160033
+#EXTINF:-1,tvg-id=" PRIVATE" tvg-name=" PRIVATE" tvg-logo="https://epg.112114.xyz/logo/PRIVATE.png" group-title="X.其他", PRIVATE
+http://206.212.244.71:8080/4wVQA7/625159/160034
+#EXTINF:-1,tvg-id=" PROPERTY SEX" tvg-name=" PROPERTY SEX" tvg-logo="https://epg.112114.xyz/logo/PROPERTYSEX.png" group-title="X.其他", PROPERTY SEX
+http://206.212.244.71:8080/4wVQA7/625159/160035
+#EXTINF:-1,tvg-id=" PUBLIC AGENT" tvg-name=" PUBLIC AGENT" tvg-logo="https://epg.112114.xyz/logo/PUBLICAGENT.png" group-title="X.其他", PUBLIC AGENT
+http://206.212.244.71:8080/4wVQA7/625159/160036
+#EXTINF:-1,tvg-id=" PURE MATURE" tvg-name=" PURE MATURE" tvg-logo="https://epg.112114.xyz/logo/PUREMATURE.png" group-title="X.其他", PURE MATURE
+http://206.212.244.71:8080/4wVQA7/625159/160037
+#EXTINF:-1,tvg-id=" REAL DIRTY VIDEOS" tvg-name=" REAL DIRTY VIDEOS" tvg-logo="https://epg.112114.xyz/logo/REALDIRTYVIDEOS.png" group-title="X.其他", REAL DIRTY VIDEOS
+http://206.212.244.71:8080/4wVQA7/625159/160038
+#EXTINF:-1,tvg-id=" REALITY JUNKIES" tvg-name=" REALITY JUNKIES" tvg-logo="https://epg.112114.xyz/logo/REALITYJUNKIES.png" group-title="X.其他", REALITY JUNKIES
+http://206.212.244.71:8080/4wVQA7/625159/160040
+#EXTINF:-1,tvg-id=" REALITY KINGS" tvg-name=" REALITY KINGS" tvg-logo="https://epg.112114.xyz/logo/REALITYKINGS.png" group-title="X.其他", REALITY KINGS
+http://206.212.244.71:8080/4wVQA7/625159/160041
+#EXTINF:-1,tvg-id=" SLIM 4K" tvg-name=" SLIM 4K" tvg-logo="https://epg.112114.xyz/logo/SLIM4K.png" group-title="X.其他", SLIM 4K
+http://206.212.244.71:8080/4wVQA7/625159/160042
+#EXTINF:-1,tvg-id=" STROKIES" tvg-name=" STROKIES" tvg-logo="https://epg.112114.xyz/logo/STROKIES.png" group-title="X.其他", STROKIES
+http://206.212.244.71:8080/4wVQA7/625159/160043
+#EXTINF:-1,tvg-id=" SUGAR BABES TV" tvg-name=" SUGAR BABES TV" tvg-logo="https://epg.112114.xyz/logo/SUGARBABESTV.png" group-title="X.其他", SUGAR BABES TV
+http://206.212.244.71:8080/4wVQA7/625159/160044
+#EXTINF:-1,tvg-id="东北往事之黑道风云二十年11" tvg-name="东北往事之黑道风云二十年11" tvg-logo="https://epg.112114.xyz/logo/东北往事之黑道风云二十年11.png" group-title="X.其他",东北往事之黑道风云二十年11
+https://vip.ffzy-online4.com/20230404/18386_b159ee99/2000k/hls/mixed.m3u8
+#EXTINF:-1,tvg-id="东北往事之黑道风云二十年17" tvg-name="东北往事之黑道风云二十年17" tvg-logo="https://epg.112114.xyz/logo/东北往事之黑道风云二十年17.png" group-title="X.其他",东北往事之黑道风云二十年17
+https://vip.lz-cdn16.com/20230731/33145_85f5b5e4/2000k/hls/mixed.m3u8
+#EXTINF:-1,tvg-id="红楼18春" tvg-name="红楼18春" tvg-logo="https://epg.112114.xyz/logo/红楼18春.png" group-title="X.其他",红楼18春
+https://cf005.paopao.video:443/D29E30B98E475FA7D7F2BAFDB08B2300A91B9701
+#EXTINF:-1,tvg-id="勾魂恶梦" tvg-name="勾魂恶梦" tvg-logo="https://epg.112114.xyz/logo/勾魂恶梦.png" group-title="X.其他",勾魂恶梦
+https://f005.paopao.video:443/B20EBA2BFEC71DA3123E87903B3B36B02ECE4E03
+#EXTINF:-1,tvg-id="野浪花" tvg-name="野浪花" tvg-logo="https://epg.112114.xyz/logo/野浪花.png" group-title="X.其他",野浪花
+https://cf005.paopao.video:443/8AA90B35B54A9BFB86A100AE1EBDC0A5C9FE7539
+#EXTINF:-1,tvg-id="三奸" tvg-name="三奸" tvg-logo="https://epg.112114.xyz/logo/三奸.png" group-title="X.其他",三奸
+https://cf005.paopao.video:443/B5AE58AE870ACB3F876096DD76D5285611177118
+#EXTINF:-1,tvg-id="名妓游江南" tvg-name="名妓游江南" tvg-logo="https://epg.112114.xyz/logo/名妓游江南.png" group-title="X.其他",名妓游江南
+https://cf005.paopao.video:443/54B8A9B09EFE3102CA59787382F6518EA8A95343
+#EXTINF:-1,tvg-id="倩女销魂" tvg-name="倩女销魂" tvg-logo="https://epg.112114.xyz/logo/倩女销魂.png" group-title="X.其他",倩女销魂
+https://cf005.paopao.video:443/AEFA52D1798C2BFB47F749FFFD4E772E8DA6A181
+#EXTINF:-1,tvg-id="浪女迷魂记" tvg-name="浪女迷魂记" tvg-logo="https://epg.112114.xyz/logo/浪女迷魂记.png" group-title="X.其他",浪女迷魂记
+https://cf005.paopao.video:443/96243A732E188146A76C6B18C01BDEB13E4C22E5
+#EXTINF:-1,tvg-id="销魂玉" tvg-name="销魂玉" tvg-logo="https://epg.112114.xyz/logo/销魂玉.png" group-title="X.其他",销魂玉
+https://f005.paopao.video:443/9B0863E90EDD099CEB5723FB3E67875007E9B585
+#EXTINF:-1,tvg-id="邪咒" tvg-name="邪咒" tvg-logo="https://epg.112114.xyz/logo/邪咒.png" group-title="X.其他",邪咒
+https://cf005.paopao.video:443/23364D068E6CE4272DB7A2A5072655C4D6D42D9E
+#EXTINF:-1,tvg-id="水儿武士" tvg-name="水儿武士" tvg-logo="https://epg.112114.xyz/logo/水儿武士.png" group-title="X.其他",水儿武士
+https://f005.paopao.video:443/9A48A73AF33CBD05BF228364BF3DA64C3C3DDB81
+#EXTINF:-1,tvg-id="色欲狂徙" tvg-name="色欲狂徙" tvg-logo="https://epg.112114.xyz/logo/色欲狂徙.png" group-title="X.其他",色欲狂徙
+https://v3.nfm3u8.com/20230529/mpoJFtuk/1100kb/hls/index.m3u8
+#EXTINF:-1,tvg-id="色欲野鸳鸯" tvg-name="色欲野鸳鸯" tvg-logo="https://epg.112114.xyz/logo/色欲野鸳鸯.png" group-title="X.其他",色欲野鸳鸯
+https://v3.nfm3u8.com/20230529/g02Dx5q8/index.m3u8
+#EXTINF:-1,tvg-id="赶尸艳谈" tvg-name="赶尸艳谈" tvg-logo="https://epg.112114.xyz/logo/赶尸艳谈.png" group-title="X.其他",赶尸艳谈
+https://hot.1080pzy.co/20230918/MvKEk33R/1000kb/hls/index.m3u8
+#EXTINF:-1,tvg-id="血恋" tvg-name="血恋" tvg-logo="https://epg.112114.xyz/logo/血恋.png" group-title="X.其他",血恋
+https://hot.1080pzy.co/20230919/cAV1J8MZ/1000kb/hls/index.m3u8
+#EXTINF:-1,tvg-id="山中艳谭" tvg-name="山中艳谭" tvg-logo="https://epg.112114.xyz/logo/山中艳谭.png" group-title="X.其他",山中艳谭
+https://hot.1080pzy.co/20230919/x6g7iHEM/1000kb/hls/index.m3u8
+#EXTINF:-1,tvg-id="醉后的玫瑰" tvg-name="醉后的玫瑰" tvg-logo="https://epg.112114.xyz/logo/醉后的玫瑰.png" group-title="X.其他",醉后的玫瑰
+https://v8.suonizy-youku.com/202310/06/iA8QfVnE8U1/video/index.m3u8
+#EXTINF:-1,tvg-id="武则天1" tvg-name="武则天1" tvg-logo="https://epg.112114.xyz/logo/武则天1.png" group-title="X.其他",武则天1
+https://v8.suonizy-youku.com/202310/16/77DPyqBgt81/video/index.m3u8
+#EXTINF:-1,tvg-id="红楼梦" tvg-name="红楼梦" tvg-logo="https://epg.112114.xyz/logo/红楼梦.png" group-title="X.其他",红楼梦
+https://v8.suonizy-youku.com/202310/10/9ECnCcJnpd1/video/index.m3u8
+#EXTINF:-1,tvg-id="茜长的女儿" tvg-name="茜长的女儿" tvg-logo="https://epg.112114.xyz/logo/茜长的女儿.png" group-title="X.其他",茜长的女儿
+https://v8.suonizy-youku.com/202310/10/Xzr5H4Cew71/video/index.m3u8
+#EXTINF:-1,tvg-id="赶尸艳谭" tvg-name="赶尸艳谭" tvg-logo="https://epg.112114.xyz/logo/赶尸艳谭.png" group-title="X.其他",赶尸艳谭
+https://v8.suonizy-youku.com/202310/08/LpTwmSy5WY1/video/index.m3u8
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",淫童https://v8.suonizy-youku.com/202310/06/H9L5SzUyAD1/video/index.m3u8
+undefined
+#EXTINF:-1,tvg-id="前世情迷" tvg-name="前世情迷" tvg-logo="https://epg.112114.xyz/logo/前世情迷.png" group-title="X.其他",前世情迷
+https://v8.suonizy-youku.com/202310/10/gfEMABF0ca1/video/index.m3u8
+#EXTINF:-1,tvg-id="留住真情" tvg-name="留住真情" tvg-logo="https://epg.112114.xyz/logo/留住真情.png" group-title="X.其他",留住真情
+https://ckzy1com.com/20230106/JDeeat2r/1000kb/hls/index.m3u8
+#EXTINF:-1,tvg-id="武则天729" tvg-name="武则天729" tvg-logo="https://epg.112114.xyz/logo/武则天.png" group-title="X.其他",武则天729
+https://ckzy1com.com/20221217/r8OKLHTx/index.m3u8
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="X.其他",茶园春色
+https://play1.sewobofang.4
+#EXTINF:-1,tvg-id="carib363西川" tvg-name="carib363西川" tvg-logo="https://epg.112114.xyz/logo/CARIB西川.png" group-title="X.其他",carib363西川
+https://fc.maa1808.com/b/ravxbmkthk/ravxbmkthk.m3u8
+#EXTINF:-1,tvg-id="Kpop Girl Does Porn" tvg-name="Kpop Girl Does Porn" tvg-logo="https://epg.112114.xyz/logo/KPOPGIRLDOESPORN.png" group-title="X.其他",Kpop Girl Does Porn
+http://60106.vod.redtraffic.xyz/ph568fdb5194a8b/play.m3u8 
+#EXTINF:-1,tvg-id="コスプレアイドルに" tvg-name="コスプレアイドルに" tvg-logo="https://epg.112114.xyz/logo/コスプレアイドルに.png" group-title="X.其他",コスプレアイドルに
+https://cf005.paopao.video:443/9C3C292CD89D64F2E8A14717A50881B08E7105B9
+#EXTINF:-1,tvg-id="JOA" tvg-name="JOA" tvg-logo="https://epg.112114.xyz/logo/JOA.png" group-title="X.其他",JOA
+https://2.ddyunbo.com/20190914/vL0TDJOa/index.m3u8
+#EXTINF:-1,tvg-id="1pon081712k" tvg-name="1pon081712k" tvg-logo="https://epg.112114.xyz/logo/1PON12K.png" group-title="X.其他",1pon081712k
+https://f005.paopao.video:443/C6AF681FDD0B9D9BFF8150630F0E1B56CF491DCD
+#EXTINF:-1,tvg-id="012823_001-1pon" tvg-name="012823_001-1pon" tvg-logo="https://epg.112114.xyz/logo/23_1PON.png" group-title="X.其他",012823_001-1pon
+https://f005.paopao.video:443/375BCA6C2E5BF6817E6778681D6535B5FE8318E7
+#EXTINF:-1,tvg-id="1pon_川原みのりエンドレスセックス" tvg-name="1pon_川原みのりエンドレスセックス" tvg-logo="https://epg.112114.xyz/logo/1PON_川原みのりエンドレスセックス.png" group-title="X.其他",1pon_川原みのりエンドレスセックス
+https://vip3.lbbf9.com/20220113/subsDqjy/1000kb/hls/index.m3u8
+#EXTINF:-1,tvg-id="1pon113017_612市来美保究極マゾ" tvg-name="1pon113017_612市来美保究極マゾ" tvg-logo="https://epg.112114.xyz/logo/1PON17_市来美保究極マゾ.png" group-title="X.其他",1pon113017_612市来美保究極マゾ
+https://www.lbbf9.com/20210617/BQKojYIM/700kb/hls/index.m3u8
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",1pon113017_612市来美保究極マゾhttps://www.lbbf9.com/20210617/ox8fTZKt/700kb/hls/index.m3u8
+undefined
+#EXTINF:-1,tvg-id="1pon061110_854" tvg-name="1pon061110_854" tvg-logo="https://epg.112114.xyz/logo/1PON10_.png" group-title="X.其他",1pon061110_854
+https://www.lbbf9.com/20200521/p3mHHHdx/700kb/hls/index.m3u8
+#EXTINF:-1,tvg-id="1pon_北条麻妃美痴女" tvg-name="1pon_北条麻妃美痴女" tvg-logo="https://epg.112114.xyz/logo/1PON_北条麻妃美痴女.png" group-title="X.其他",1pon_北条麻妃美痴女
+https://vip3.lbbf9.com/20220109/mTNDPovo/1000kb/hls/index.m3u8
+#EXTINF:-1,tvg-id="面具" tvg-name="面具" tvg-logo="https://epg.112114.xyz/logo/面具.png" group-title="X.其他",面具
+https://f005.paopao.video:443/18E688416EB56BE25C14D5BD5E4A3F7E4193BE4C
+#EXTINF:-1,tvg-id="4K综艺" tvg-name="4K综艺" tvg-logo="https://epg.112114.xyz/logo/4K综艺.png" group-title="X.其他",0227 0258
+https://cf005.paopao.video:443/59EF94373AAD6324AFB818600DE2B058E82D04E0
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="X.其他",051911 097
+https://cf005.paopao.video:443/06E600E7941DDFD0FD093B847768BBD7582F538B
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="X.其他",080916 226
+https://f005.paopao.video:443/CD75E5E526B646D2A27F16EF68205796B0A71E20
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="X.其他",091413 001
+https://f005.paopao.video:443/6E6BC1C84C94FF19E11B24A4DFDA0DBA2B1E86FD
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="X.其他",100115 163
+https://f005.paopao.video:443/E37C68B7385D180542C83C4BB4C8D8437D299F23
+#EXTINF:-1,tvg-id="123118 790" tvg-name="123118 790" tvg-logo="https://epg.112114.xyz/logo/18.png" group-title="X.其他",123118 790
+https://f005.paopao.video:443/F86A415FAEA74828F696516635216F5B65AD6B4F
+#EXTINF:-1,tvg-id="390JAC 044" tvg-name="390JAC 044" tvg-logo="https://epg.112114.xyz/logo/JAC.png" group-title="X.其他",390JAC 044
+https://f005.paopao.video:443/A7D6AB44EA0FAD936B70AD9632C6BEE666897549
+#EXTINF:-1,tvg-id="dv1233" tvg-name="dv1233" tvg-logo="https://epg.112114.xyz/logo/DV.png" group-title="X.其他",dv1233
+https://f005.paopao.video:443/8E2D4FA205372AC60264C65E0C000DCCF27673E5
+#EXTINF:-1,tvg-id="room009" tvg-name="room009" tvg-logo="https://epg.112114.xyz/logo/ROOM.png" group-title="X.其他",room009
+https://f005.paopao.video:443/673987CA919E2B4D834B88E00CF0EA80D89EBBBC
+#EXTINF:-1,tvg-id="meyd388" tvg-name="meyd388" tvg-logo="https://epg.112114.xyz/logo/MEYD.png" group-title="X.其他",meyd388
+https://f005.paopao.video:443/48F3A7BB4385C062EE5B927F24FA8AA7B1137CBC
+#EXTINF:-1,tvg-id="sdmf008" tvg-name="sdmf008" tvg-logo="https://epg.112114.xyz/logo/SDMF.png" group-title="X.其他",sdmf008
+https://cf005.paopao.video:443/121DC2092E1EE394639F13CD146FD17FE0F8A397
+#EXTINF:-1,tvg-id="SMBD115" tvg-name="SMBD115" tvg-logo="https://epg.112114.xyz/logo/SMBD.png" group-title="X.其他",SMBD115
+https://cf005.paopao.video:443/5B62BED84B5207685E62A714C41F7FCE38BDF5C1
+#EXTINF:-1,tvg-id="SMD115" tvg-name="SMD115" tvg-logo="https://epg.112114.xyz/logo/SMD.png" group-title="X.其他",SMD115
+https://f005.paopao.video:443/B36BA120140657544BCEC64BA409007428DA8E37
+#EXTINF:-1,tvg-id="SRS039" tvg-name="SRS039" tvg-logo="https://epg.112114.xyz/logo/SRS.png" group-title="X.其他",SRS039
+https://f005.paopao.video:443/4EAB6AC8EDE8BDD80998EEED1B9D4C95DBCC1812
+#EXTINF:-1,tvg-id="SSNI781" tvg-name="SSNI781" tvg-logo="https://epg.112114.xyz/logo/SSNI.png" group-title="X.其他",SSNI781
+https://f005.paopao.video:443/E4041EBB9AA9E890A920F1B573D5D1485AA08B6E
+#EXTINF:-1,tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="X.其他",n1161
+https://cf005.paopao.video:443/A25142CA4B8780733F4BDBFB0DCB597FCCF104D3
+#EXTINF:-1,tvg-id="880652" tvg-name="880652" tvg-logo="https://epg.112114.xyz/logo/52.png" group-title="X.其他",880652
+https://cf005.paopao.video:443/07A92C8D2ABC87F9F9905B9400218AD0BC2318B3
+#EXTINF:-1,tvg-id="sis0321" tvg-name="sis0321" tvg-logo="https://epg.112114.xyz/logo/SIS.png" group-title="X.其他",sis0321
+https://f005.paopao.video:443/CACF9474997475A5FA022C252B64ED84D7B1A48D
+#EXTINF:-1,tvg-id="sis0322" tvg-name="sis0322" tvg-logo="https://epg.112114.xyz/logo/SIS.png" group-title="X.其他",sis0322
+https://f005.paopao.video:443/983D96FE18CE10F54F65D92BFAD634D42A619758
+#EXTINF:-1,tvg-id="4K综艺" tvg-name="4K综艺" tvg-logo="https://epg.112114.xyz/logo/4K综艺.png" group-title="X.其他",7138
+https://f005.paopao.video:443/0751117D54D35845129C3DA1131C9228E5996F74
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="X.其他",heyzo1031
+https://f005.paopao.video:443/0BD73681E256D14FEE871B6B5DC45D2C86DB1F9C
+
+
