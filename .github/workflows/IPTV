@@ -633,7 +633,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
 http://110.81.206.138:49231/tsfile/live/23019_1.m3u8?key=txiptv
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="香港",凤凰资讯
-
+http://dijia567.tv.inf.ua/php/zjdx/zbqg.php?id=fhzx
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -641,6 +641,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 https://cdn.163189.xyz/live/fhzw/stream.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
 http://110.81.206.138:49231/tsfile/live/23020_1.m3u8?key=txiptv
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",凤凰中文
+http://dijia567.tv.inf.ua/php/zjdx/zbqg.php?id=fhzw
 
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -649,12 +651,12 @@ https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 #EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="香港",凤凰香港
 
 
-#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港", 翡翠台4K
-
+#EXTINF:-1,tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="香港", 翡翠台
+http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="香港", 翡翠台(字幕版)
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港", 无线新闻台
-
+http://ali.hlspull.yximgs.com/live/tvb_inews_h264.flv
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="香港", 明珠台
 
 #EXTINF:-1,tvg-id="18" tvg-name="18" tvg-logo="https://epg.112114.xyz/logo/18.png" group-title="香港",18
