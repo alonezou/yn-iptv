@@ -2,93 +2,92 @@
 #url-tvg="http://epg.51zmt.top:8000/e.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
-https://migu.bxtv.587788.xyz/migu/608807420.m3u8?migutoken=c1e47192e21ebd32f0cc762a6749923a27468f3c407786209ce921f54a3faab96bf61281f3baee22f2ea266b1ec7e46d7bdfab0916f461bf38474fe38d0bdb2dcc56ee56853b8d6c509d866d80
+http://124.90.44.40:6060/010/2/00000001000000060000000000000469/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
-https://migu.bxtv.587788.xyz/migu/631780532.m3u8?migutoken=f37996961dda807c76bd64f9a2747f07f7fd95917e411e96a40281fd628bc4000eb7f71344d3bca848bfba138c3988d53652cdbc6fc8225515f1c0e1ea6c8920e7d1e957628a334e765280cc07
+http://124.90.44.40:6060/010/2/00000001000000060000000000000471/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
 
 
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
-https://migu.bxtv.587788.xyz/migu/624878271.m3u8?migutoken=fc4d3188808753792a59fb9fb632ad0e1d099d6828db8758f8c977a28dc480e969bef66e8cd942d53ce07a039791c90b959a0f75df560f5966e3f5ed7c8cf5bbb0fac0f4394f21d52636ca79cb
+http://124.90.44.40:6060/010/2/00000001000000060000000000000642/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV-3 综艺
 
 
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
-https://migu.bxtv.587788.xyz/migu/631780421.m3u8?migutoken=c7f507bbd9cce24c2acdc93defad48a900f168c4ca906d6038ab0f6139f63ebe0ddaadfce8581b4e0014595c5d9de27f08f2398874e7990b2f98bca8c5e37775005a38dfdd40f4ea9bbfa10d23
+http://124.90.44.40:6060/010/2/20002000000000010000000002765807/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
 
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
-https://migu.bxtv.587788.xyz/migu/641886683.m3u8?migutoken=87d52e3d24e7d2e911e3dfd7ea18495fc128afee9e8b63e2945bdf50bb2105992d65245e2b914f41bb1b7218c76012d8e20573dfc0ca6ff336e3ba39c0a26c95030a5f99b9264b0583d92caea8
+http://124.90.44.40:6060/010/2/00000001000000060000000000000788/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
 
 
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
-https://migu.bxtv.587788.xyz/migu/641886773.m3u8?migutoken=9fd7c65a45920d19f69611f2ccb70dc934fe6879eb14585f48ec69d375a8323fe36e25b0e051bb5fa02f6bcfb1bbd7ed91754acb98c75b793840ac9b26c2763f7467d375322c2e8b3675f33b30
+http://124.90.44.40:6060/010/2/00000001000000060000000000000643/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 
 
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
-https://migu.bxtv.587788.xyz/migu/624878396.m3u8?migutoken=930f5c23c5c2d509309cfd44075c4b93cf65d725e27bad691b0d080f9f293441babeef4a6bfdfc3833edf74eb963263b913a19d6ee5d47534c68a4f3df5efea8c1d211f11e19f11f57010a913b
+http://124.90.44.40:6060/010/2/00000001000000060000000000000644/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
 
 
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
-https://migu.bxtv.587788.xyz/migu/673168121.m3u8?migutoken=708482cee6ac1ac66b1b029f5985ccb9c4c33f0dbf471d00cae5365eecbca70339c850469e6e94a105b1799f517e5cedff97dcf20a1d76d8e98908a2b9b89032cee1893de66fd1da13d0cea779
+http://124.90.44.40:6060/010/2/00000001000000060000000000000472/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
 
 
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
-https://migu.bxtv.587788.xyz/migu/624878356.m3u8?migutoken=5edc324cb475237331d36a2a0971524b17f6f461cce8eaea20c14a1738ca039c4ed3420c4dc1d63b252342013fc553e3e07ded64284a46197299e10babe416133bd9f8b8cec8329a367cec7c23
+http://124.90.44.40:6060/010/2/00000001000000060000000000000645/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视",CCTV-8 电视剧
 
 
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
-https://migu.bxtv.587788.xyz/migu/673168140.m3u8?migutoken=86b3c288f24495870b8e589797cf104f5d316d76c126299d8c47477cbc85d211b58729d7fe4aadeed8032465631ee7f83a300d7ef5cc9f93c70c1448ff1306102e51569bcd12042bc4eeb171ac
+http://124.90.44.40:6060/010/2/00000001000000060000000000000473/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视",CCTV-9 纪录
 
 
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10 科教
-https://migu.bxtv.587788.xyz/migu/624878405.m3u8?migutoken=6bd111cc2615ee1cb72d8fce6baab50676b278e71f435eda31695e66a358ed9b9f99068bfd66d3a255787bfff6d6e74fdcf9b591c547ab1429e6c7c3c18e74e2608a6f77f29c7d9ea15ad4725e
+http://124.90.44.40:6060/010/2/00000001000000060000000000000474/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视",CCTV-10 科教
 
 
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
-https://migu.bxtv.587788.xyz/migu/667987558.m3u8?migutoken=351b7227ab668fe43679b59e60f3ec8450d1c1ee4610955add339a5238af56c9807ebe053a2d2ae37baae5e1d74158a9b009f5778d8a6ef5aadcd078a9d3d40b90831a34294eed7d68227a9e73
+http://124.90.44.40:6060/010/2/20002000000000010000000002750676/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视",CCTV-11 戏曲
 
 
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
-https://migu.bxtv.587788.xyz/migu/673168185.m3u8?migutoken=e9e6272a8aa6e5979788124bc914205eddc367afcf58f5e02d855078fda4f83e492c25efb3b641ec7fcb518926f54d81dc188bf0b5216850335c74f0a72074b1c2058a28fbcbbf91ba76539318
+http://124.90.44.40:6060/010/2/00000001000000060000000000000476/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视",CCTV-12 社会与法
 
 
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
-https://migu.bxtv.587788.xyz/migu/608807423.m3u8?migutoken=6eeb44a54e854005d848b05514f197f22c7814ab64f7a08b68728e53f4992fe67c9ad7f67c7d69a8b01fb0a759d119b404435b4bf415474badebc2cc6f567e19fb748911d757546ce0ad61510d
+http://124.90.44.40:6060/010/2/00000001000000060000000000000793/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
 
 
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
-https://migu.bxtv.587788.xyz/migu/624878440.m3u8?migutoken=f53fb354239e519a3cc2dbff9cd0c8c037712ca5207345ed5761c3fe4de765333aafe6a137cf3a103e55dd6c1fa0d89a90b533e78d77976a26939daf101363b77dcdcacfe8e7fbcc3466926cca
+http://124.90.44.40:6060/010/2/00000001000000060000000000000477/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
 
 
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
-https://migu.bxtv.587788.xyz/migu/673168223.m3u8?migutoken=fe5c8a48b55ae50517a033d486fcffcb1ec1f372d879d03e79f21ffe9fdcd0c37a7a4386305f52fcad4c22fa299babed248e0a7f2d2735987e6eb64064a23436cfdf16f888f1facbca7ceda7dd
+http://124.90.44.40:6060/010/2/00000001000000060000000000000437/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
 
 
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
-
-
+http://124.90.44.40:6060/010/2/01000010000000060000000000002805/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 
 
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
-https://migu.bxtv.587788.xyz/migu/673168256.m3u8?migutoken=9c57bf003f81ac1dd762ea137951f4436b761c7a5af1219e1b66c05886cede7bf63d6176a53bf9c436223548cf7c48a5e19edd21468586f900ec39cc6f5ea7c067dcf0203ddecb2528721f28d7
+http://124.90.44.40:6060/010/2/00000001000000060000000000000799/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
 
 
@@ -145,15 +144,12 @@ https://migu.bxtv.587788.xyz/migu/673168256.m3u8?migutoken=9c57bf003f81ac1dd762e
 
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CETV1.png" group-title="CETV",CETV-1
-
-
+http://124.90.44.40:6060/010/2/00000001000000060000000000000432/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CETV2.png" group-title="CETV",CETV-2
 
-
-
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/CETV4.png" group-title="CETV",CETV-4
-
+http://124.90.44.40:6060/010/2/00000001000000060000000000000632/1000.m3u8?virtualDomain=010.live_hls.zte.com
 
 
 #EXTINF:-1 ---------------------------------------分割线"🇨🇳卫视"---------------------------------------------------------------
@@ -478,6 +474,383 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1,tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/bf6ad9ce4da1182a3a7ed0e188d8632f.png" group-title="浙江",浙江钱江频道 
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+# 地方台系列频道
+#EXTINF:-1 tvg-id="ZJWSHD" tvg-name="浙江卫视高清" tvg-logo="https://img.iptv2022.com/logo/zjws.png" group-title=浙江",浙江卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000392/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="QJPDHD" tvg-name="钱江频道高清" tvg-logo="https://img.iptv2022.com/logo/qjpd.png" group-title=浙江",钱江频道高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000571/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="ZJJSPDHD" tvg-name="浙江经视高清" tvg-logo="https://img.iptv2022.com/logo/zjjspd.png" group-title=浙江",浙江经视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000572/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="JKYSHD" tvg-name="教科影视高清" tvg-logo="https://img.iptv2022.com/logo/jkys.png" group-title=浙江",教科影视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000576/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="ZJXWHD" tvg-name="浙江新闻高清" tvg-logo="https://img.iptv2022.com/logo/zjxw.png" group-title=浙江",浙江新闻高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000579/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="MSXXHD" tvg-name="民生休闲高清" tvg-logo="https://img.iptv2022.com/logo/msxx.png" group-title=浙江",民生休闲高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000578/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="ZJSEHD" tvg-name="浙江少儿高清" tvg-logo="https://img.iptv2022.com/logo/zjse.png" group-title=浙江",浙江少儿高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000580/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HYG1HD" tvg-name="好易购1高清" tvg-logo="https://img.iptv2022.com/logo/hyg1.png" group-title=浙江",好易购1高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000794/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HZZHHD" tvg-name="杭州综合高清" tvg-logo="https://img.iptv2022.com/logo/hzzh.png" group-title=浙江",杭州综合高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000782/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HXMZHD" tvg-name="西湖明珠高清" tvg-logo="https://img.iptv2022.com/logo/hxmz.png" group-title=浙江",西湖明珠高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000783/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HZSHHD" tvg-name="杭州生活高清" tvg-logo="https://img.iptv2022.com/logo/hzsh.png" group-title=浙江",杭州生活高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000784/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HZYSHD" tvg-name="杭州影视高清" tvg-logo="https://img.iptv2022.com/logo/hzys.png" group-title=浙江",杭州影视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000785/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="QSTYHD" tvg-name="青少体育高清" tvg-logo="https://img.iptv2022.com/logo/qsty.png" group-title=浙江",青少体育高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000786/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HZDSHD" tvg-name="杭州导视高清" tvg-logo="https://img.iptv2022.com/logo/hzds.png" group-title=浙江",杭州导视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000787/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="NBZHHD" tvg-name="宁波综合高清" tvg-logo="https://img.iptv2022.com/logo/nbzh.png" group-title=浙江",宁波综合高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000600/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="NBSHHD" tvg-name="宁波生活高清" tvg-logo="https://img.iptv2022.com/logo/nbsh.png" group-title=浙江",宁波生活高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000789/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="NBDSHD" tvg-name="宁波都市高清" tvg-logo="https://img.iptv2022.com/logo/nbds.png" group-title="地方台",宁波都市高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000790/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="NBYSHD" tvg-name="宁波影视高清" tvg-logo="https://img.iptv2022.com/logo/nbys.png" group-title="地方台",宁波影视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000791/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="WZ1HD" tvg-name="温州一套高清" tvg-logo="https://img.iptv2022.com/logo/wz1.png" group-title="地方台",温州一套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000490/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="QZ1HD" tvg-name="衢州一套高清" tvg-logo="https://img.iptv2022.com/logo/qz1.png" group-title="地方台",衢州一套高清
+http://124.90.44.40:6060/010/2/01000010000000060000000000002837/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="QZ2HD" tvg-name="衢州二套高清" tvg-logo="https://img.iptv2022.com/logo/qz2.png" group-title="地方台",衢州二套高清
+http://124.90.44.40:6060/010/2/01000010000000060000000000002838/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="SX1HD" tvg-name="绍兴一套高清" tvg-logo="https://img.iptv2022.com/logo/sx1.png" group-title="地方台",绍兴一套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000496/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="ZJJLHD" tvg-name="之江纪录高清" tvg-logo="https://img.iptv2022.com/logo/zjjl.png" group-title="地方台",之江纪录高清
+http://124.90.44.40:6060/010/2/01000010000000060000000000002844/1000.m3u8?virtualDomain=010.live_hls.zt
+
+
+#EXTM3U
+# 中国IPTV频道列表 - 新源
+# 生成时间: 2025-09-26
+# 格式: 频道名称,源地址
+
+# 中央电视系列频道
+#EXTINF:-1 tvg-id="CCTV1HD" tvg-name="中央一套高清" tvg-logo="https://img.iptv2022.com/logo/cctv1.png" group-title="中央电视",中央一套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000469/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV2HD" tvg-name="中央二套高清" tvg-logo="https://img.iptv2022.com/logo/cctv2.png" group-title="中央电视",中央二套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000471/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV3HD" tvg-name="中央三套高清" tvg-logo="https://img.iptv2022.com/logo/cctv3.png" group-title="中央电视",中央三套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000642/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="中央四套" tvg-logo="https://img.iptv2022.com/logo/cctv4.png" group-title="中央电视",中央四套
+http://124.90.44.40:6060/010/2/20002000000000010000000002765807/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV5HD" tvg-name="中央五套高清" tvg-logo="https://img.iptv2022.com/logo/cctv5.png" group-title="中央电视",中央五套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000643/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV6HD" tvg-name="中央六套高清" tvg-logo="https://img.iptv2022.com/logo/cctv6.png" group-title="中央电视",中央六套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000644/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV7HD" tvg-name="中央七套高清" tvg-logo="https://img.iptv2022.com/logo/cctv7.png" group-title="中央电视",中央七套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000472/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV8HD" tvg-name="中央八套高清" tvg-logo="https://img.iptv2022.com/logo/cctv8.png" group-title="中央电视",中央八套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000645/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV9HD" tvg-name="中央纪录高清" tvg-logo="https://img.iptv2022.com/logo/cctv9.png" group-title="中央电视",中央纪录高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000473/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV10HD" tvg-name="中央科教高清" tvg-logo="https://img.iptv2022.com/logo/cctv10.png" group-title="中央电视",中央科教高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000474/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="中央戏曲" tvg-logo="https://img.iptv2022.com/logo/cctv11.png" group-title="中央电视",中央戏曲
+http://124.90.44.40:6060/010/2/20002000000000010000000002750676/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV12HD" tvg-name="中央十二高清" tvg-logo="https://img.iptv2022.com/logo/cctv12.png" group-title="中央电视",中央十二高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000476/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV13HD" tvg-name="中央新闻高清" tvg-logo="https://img.iptv2022.com/logo/cctv13.png" group-title="中央电视",中央新闻高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000793/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV14HD" tvg-name="中央少儿高清" tvg-logo="https://img.iptv2022.com/logo/cctv14.png" group-title="中央电视",中央少儿高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000477/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="中央音乐" tvg-logo="https://img.iptv2022.com/logo/cctv15.png" group-title="中央电视",中央音乐
+http://124.90.44.40:6060/010/2/00000001000000060000000000000437/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="中央十七套" tvg-logo="https://img.iptv2022.com/logo/cctv17.png" group-title="中央电视",中央十七套
+http://124.90.44.40:6060/010/2/00000001000000060000000000000799/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTVOLYMPIC" tvg-name="中央奥运测试" tvg-logo="https://img.iptv2022.com/logo/cctv16.png" group-title="中央电视",中央奥运测试
+http://124.90.44.40:6060/010/2/01000010000000060000000000002805/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CCTV5HD2" tvg-name="CCTV5高清" tvg-logo="https://img.iptv2022.com/logo/cctv5.png" group-title="中央电视",CCTV5高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000788/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CETV1" tvg-name="中国教育一套" tvg-logo="https://img.iptv2022.com/logo/cetv1.png" group-title="中央电视",中国教育一套
+http://124.90.44.40:6060/010/2/00000001000000060000000000000432/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CETV4" tvg-name="中国教育四套" tvg-logo="https://img.iptv2022.com/logo/cetv4.png" group-title="中央电视",中国教育四套
+http://124.90.44.40:6060/010/2/00000001000000060000000000000632/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+# 地方台系列频道
+#EXTINF:-1 tvg-id="ZJWSHD" tvg-name="浙江卫视高清" tvg-logo="https://img.iptv2022.com/logo/zjws.png" group-title="地方台",浙江卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000392/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="QJPDHD" tvg-name="钱江频道高清" tvg-logo="https://img.iptv2022.com/logo/qjpd.png" group-title="地方台",钱江频道高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000571/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="ZJJSPDHD" tvg-name="浙江经视高清" tvg-logo="https://img.iptv2022.com/logo/zjjspd.png" group-title="地方台",浙江经视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000572/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="JKYSHD" tvg-name="教科影视高清" tvg-logo="https://img.iptv2022.com/logo/jkys.png" group-title="地方台",教科影视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000576/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="ZJXWHD" tvg-name="浙江新闻高清" tvg-logo="https://img.iptv2022.com/logo/zjxw.png" group-title="地方台",浙江新闻高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000579/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="MSXXHD" tvg-name="民生休闲高清" tvg-logo="https://img.iptv2022.com/logo/msxx.png" group-title="地方台",民生休闲高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000578/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="ZJSEHD" tvg-name="浙江少儿高清" tvg-logo="https://img.iptv2022.com/logo/zjse.png" group-title="地方台",浙江少儿高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000580/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HYG1HD" tvg-name="好易购1高清" tvg-logo="https://img.iptv2022.com/logo/hyg1.png" group-title="地方台",好易购1高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000794/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HZZHHD" tvg-name="杭州综合高清" tvg-logo="https://img.iptv2022.com/logo/hzzh.png" group-title="地方台",杭州综合高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000782/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HXMZHD" tvg-name="西湖明珠高清" tvg-logo="https://img.iptv2022.com/logo/hxmz.png" group-title="地方台",西湖明珠高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000783/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HZSHHD" tvg-name="杭州生活高清" tvg-logo="https://img.iptv2022.com/logo/hzsh.png" group-title="地方台",杭州生活高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000784/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HZYSHD" tvg-name="杭州影视高清" tvg-logo="https://img.iptv2022.com/logo/hzys.png" group-title="地方台",杭州影视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000785/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="QSTYHD" tvg-name="青少体育高清" tvg-logo="https://img.iptv2022.com/logo/qsty.png" group-title="地方台",青少体育高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000786/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HZDSHD" tvg-name="杭州导视高清" tvg-logo="https://img.iptv2022.com/logo/hzds.png" group-title="地方台",杭州导视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000787/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="NBZHHD" tvg-name="宁波综合高清" tvg-logo="https://img.iptv2022.com/logo/nbzh.png" group-title="地方台",宁波综合高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000600/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="NBSHHD" tvg-name="宁波生活高清" tvg-logo="https://img.iptv2022.com/logo/nbsh.png" group-title="地方台",宁波生活高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000789/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="NBDSHD" tvg-name="宁波都市高清" tvg-logo="https://img.iptv2022.com/logo/nbds.png" group-title="地方台",宁波都市高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000790/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="NBYSHD" tvg-name="宁波影视高清" tvg-logo="https://img.iptv2022.com/logo/nbys.png" group-title="地方台",宁波影视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000791/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="WZ1HD" tvg-name="温州一套高清" tvg-logo="https://img.iptv2022.com/logo/wz1.png" group-title="地方台",温州一套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000490/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="QZ1HD" tvg-name="衢州一套高清" tvg-logo="https://img.iptv2022.com/logo/qz1.png" group-title="地方台",衢州一套高清
+http://124.90.44.40:6060/010/2/01000010000000060000000000002837/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="QZ2HD" tvg-name="衢州二套高清" tvg-logo="https://img.iptv2022.com/logo/qz2.png" group-title="地方台",衢州二套高清
+http://124.90.44.40:6060/010/2/01000010000000060000000000002838/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="SX1HD" tvg-name="绍兴一套高清" tvg-logo="https://img.iptv2022.com/logo/sx1.png" group-title="地方台",绍兴一套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000496/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="ZJJLHD" tvg-name="之江纪录高清" tvg-logo="https://img.iptv2022.com/logo/zjjl.png" group-title="地方台",之江纪录高清
+http://124.90.44.40:6060/010/2/01000010000000060000000000002844/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="DFWSHD" tvg-name="东方卫视高清" tvg-logo="https://img.iptv2022.com/logo/dfws.png" group-title="地方台",东方卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000478/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HNWSHD" tvg-name="湖南卫视高清" tvg-logo="https://img.iptv2022.com/logo/hnws.png" group-title="地方台",湖南卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000394/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="BJWSHD" tvg-name="北京卫视高清" tvg-logo="https://img.iptv2022.com/logo/bjws.png" group-title="地方台",北京卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000449/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="JSWSHD" tvg-name="江苏卫视高清" tvg-logo="https://img.iptv2022.com/logo/jsws.png" group-title="地方台",江苏卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000450/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="AHWSHD" tvg-name="安徽卫视高清" tvg-logo="https://img.iptv2022.com/logo/ahws.png" group-title="地方台",安徽卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000459/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="SZWSHD" tvg-name="深圳卫视高清" tvg-logo="https://img.iptv2022.com/logo/szws.png" group-title="地方台",深圳卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000393/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="TJWSHD" tvg-name="天津卫视高清" tvg-logo="https://img.iptv2022.com/logo/tjws.png" group-title="地方台",天津卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000365/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CQWSHD" tvg-name="重庆卫视高清" tvg-logo="https://img.iptv2022.com/logo/cqws.png" group-title="地方台",重庆卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000585/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HNWSHD2" tvg-name="河南卫视高清" tvg-logo="https://img.iptv2022.com/logo/hnws2.png" group-title="地方台",河南卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000586/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="GDWSHD" tvg-name="广东卫视高清" tvg-logo="https://img.iptv2022.com/logo/gdws.png" group-title="地方台",广东卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000395/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="SDWSHD" tvg-name="山东卫视高清" tvg-logo="https://img.iptv2022.com/logo/sdws.png" group-title="地方台",山东卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000436/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="JXWSHD" tvg-name="江西卫视高清" tvg-logo="https://img.iptv2022.com/logo/jxws.png" group-title="地方台",江西卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000587/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="GZWSHD" tvg-name="贵州卫视高清" tvg-logo="https://img.iptv2022.com/logo/gzws.png" group-title="地方台",贵州卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000584/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="SCWSHD" tvg-name="四川卫视高清" tvg-logo="https://img.iptv2022.com/logo/scws.png" group-title="地方台",四川卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000581/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HBWSHD" tvg-name="河北卫视高清" tvg-logo="https://img.iptv2022.com/logo/hbws.png" group-title="地方台",河北卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000582/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="DNWSHD" tvg-name="东南卫视高清" tvg-logo="https://img.iptv2022.com/logo/dnws.png" group-title="地方台",东南卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000588/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HUBWSHD" tvg-name="湖北卫视高清" tvg-logo="https://img.iptv2022.com/logo/hubws.png" group-title="地方台",湖北卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000461/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="LNWSHD" tvg-name="辽宁卫视高清" tvg-logo="https://img.iptv2022.com/logo/lnws.png" group-title="地方台",辽宁卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000583/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HLJHD" tvg-name="黑龙江高清" tvg-logo="https://img.iptv2022.com/logo/hljws.png" group-title="地方台",黑龙江高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000462/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="YNWS" tvg-name="云南卫视" tvg-logo="https://img.iptv2022.com/logo/ynws.png" group-title="地方台",云南卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776036/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HINWS" tvg-name="海南卫视" tvg-logo="https://img.iptv2022.com/logo/hinws.png" group-title="地方台",海南卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776012/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="QHWS" tvg-name="青海卫视" tvg-logo="https://img.iptv2022.com/logo/qhws.png" group-title="地方台",青海卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002775980/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="XZWS" tvg-name="西藏卫视" tvg-logo="https://img.iptv2022.com/logo/xzws.png" group-title="地方台",西藏卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000390/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="SXWS" tvg-name="陕西卫视" tvg-logo="https://img.iptv2022.com/logo/sxws.png" group-title="地方台",陕西卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776000/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="BTWS" tvg-name="兵团卫视" tvg-logo="https://img.iptv2022.com/logo/btws.png" group-title="地方台",兵团卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000429/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="SXWS2" tvg-name="山西卫视" tvg-logo="https://img.iptv2022.com/logo/sxws2.png" group-title="地方台",山西卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776020/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="NXWS" tvg-name="宁夏卫视" tvg-logo="https://img.iptv2022.com/logo/nxws.png" group-title="地方台",宁夏卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776710/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="GXWS" tvg-name="广西卫视" tvg-logo="https://img.iptv2022.com/logo/gxws.png" group-title="地方台",广西卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776028/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="NMWS" tvg-name="内蒙古卫视" tvg-logo="https://img.iptv2022.com/logo/nmws.png" group-title="地方台",内蒙古卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000593/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="GSWS" tvg-name="甘肃卫视" tvg-logo="https://img.iptv2022.com/logo/gsws.png" group-title="地方台",甘肃卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000594/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="JLWS" tvg-name="吉林卫视" tvg-logo="https://img.iptv2022.com/logo/jlws.png" group-title="地方台",吉林卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776032/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+# 其他频道
+#EXTINF:-1 tvg-id="JYKT" tvg-name="金鹰卡通" tvg-logo="https://img.iptv2022.com/logo/jykt.png" group-title="其他频道",金鹰卡通
+http://124.90.44.40:6060/010/2/00000001000000060000000000000430/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="HHXD" tvg-name="哈哈炫动" tvg-logo="https://img.iptv2022.com/logo/hhxd.png" group-title="其他频道",哈哈炫动
+http://124.90.44.40:6060/010/2/00000001000000060000000000000431/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="KKSE" tvg-name="卡酷少儿" tvg-logo="https://img.iptv2022.com/logo/kkse.png" group-title="其他频道",卡酷少儿
+http://124.90.44.40:6060/010/2/01000010000000060000000000002854/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="BJJSKJ" tvg-name="北京纪实科教" tvg-logo="https://img.iptv2022.com/logo/bjjskj.png" group-title="其他频道",北京纪实科教
+http://124.90.44.40:6060/010/2/01000010000000060000000000002855/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="FZTD" tvg-name="法治天地" tvg-logo="https://img.iptv2022.com/logo/fztd.png" group-title="其他频道",法治天地
+http://124.90.44.40:6060/010/2/01000010000000060000000000002816/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+# 外文台
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://img.iptv2022.com/logo/cgtn.png" group-title="外文台",CGTN
+http://124.90.44.40:6060/010/2/00000001000000060000000000000479/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CGTNSPANISH" tvg-name="CGTNSpanish" tvg-logo="https://img.iptv2022.com/logo/cgtnspanish.png" group-title="外文台",CGTNSpanish
+http://124.90.44.40:6060/010/2/00000001000000060000000000000800/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CGTNFRENCH" tvg-name="CGTNFrench" tvg-logo="https://img.iptv2022.com/logo/cgtnfrench.png" group-title="外文台",CGTNFrench
+http://124.90.44.40:6060/010/2/00000001000000060000000000000801/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CGTNARABIC" tvg-name="CGTNArabic" tvg-logo="https://img.iptv2022.com/logo/cgtnarabic.png" group-title="外文台",CGTNArabic
+http://124.90.44.40:6060/010/2/00000001000000060000000000000802/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CGTNRUSSIAN" tvg-name="CGTNRussian" tvg-logo="https://img.iptv2022.com/logo/cgtnrussian.png" group-title="外文台",CGTNRussian
+http://124.90.44.40:6060/010/2/00000001000000060000000000000803/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+# FM广播
+#EXTINF:-1 tvg-id="ZJZS" tvg-name="浙江之声" tvg-logo="https://img.iptv2022.com/logo/zjzs.png" group-title="FM广播",浙江之声
+http://124.90.44.40:6060/010/2/00000001000000060000000000000481/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="JJPD" tvg-name="经济频道" tvg-logo="https://img.iptv2022.com/logo/jjpd.png" group-title="FM广播",经济频道
+http://124.90.44.40:6060/010/2/00000001000000060000000000000483/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="YYTF" tvg-name="音乐调频" tvg-logo="https://img.iptv2022.com/logo/yytf.png" group-title="FM广播",音乐调频
+http://124.90.44.40:6060/010/2/00000001000000060000000000000484/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="MSZX" tvg-name="民生资讯" tvg-logo="https://img.iptv2022.com/logo/mszx.png" group-title="FM广播",民生资讯
+http://124.90.44.40:6060/010/2/00000001000000060000000000000488/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="JTZS" tvg-name="交通之声" tvg-logo="https://img.iptv2022.com/logo/jtzs.png" group-title="FM广播",交通之声
+http://124.90.44.40:6060/010/2/00000001000000060000000000000485/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="CSZS" tvg-name="城市之声" tvg-logo="https://img.iptv2022.com/logo/cszs.png" group-title="FM广播",城市之声
+http://124.90.44.40:6060/010/2/00000001000000060000000000000487/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="LYZS" tvg-name="旅游之声" tvg-logo="https://img.iptv2022.com/logo/lyzs.png" group-title="FM广播",旅游之声
+http://124.90.44.40:6060/010/2/00000001000000060000000000000486/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="ZJXWGB" tvg-name="浙江新闻广播" tvg-logo="https://img.iptv2022.com/logo/zjxwgb.png" group-title="FM广播",浙江新闻广播
+http://124.90.44.40:6060/010/2/00000001000000060000000000000482/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+# 测试台
+#EXTINF:-1 tvg-id="LTCS1" tvg-name="联通测试1" tvg-logo="https://img.iptv2022.com/logo/ltcs1.png" group-title="测试台",联通测试1
+http://124.90.44.40:6060/010/2/01000010000000060000000000002859/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="LTCS2" tvg-name="联通测试2" tvg-logo="https://img.iptv2022.com/logo/ltcs2.png" group-title="测试台",联通测试2
+http://124.90.44.40:6060/010/2/01000010000000060000000000002860/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="LTCS3" tvg-name="联通测试3" tvg-logo="https://img.iptv2022.com/logo/ltcs3.png" group-title="测试台",联通测试3
+http://124.90.44.40:6060/010/2/01000010000000060000000000002831/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="LTCS4" tvg-name="联通测试四" tvg-logo="https://img.iptv2022.com/logo/ltcs4.png" group-title="测试台",联通测试四
+http://124.90.44.40:6060/010/2/01000010000000060000000000002832/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="LTCS2B" tvg-name="联通测试2" tvg-logo="https://img.iptv2022.com/logo/ltcs2b.png" group-title="测试台",联通测试2
+http://124.90.44.40:6060/010/2/01000010000000060000000000002830/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="LTCS7" tvg-name="联通测试7" tvg-logo="https://img.iptv2022.com/logo/ltcs7.png" group-title="测试台",联通测试7
+http://124.90.44.40:6060/010/2/01000010000000060000000000002835/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
+
 
 #EXTINF:-1,tvg-logo="https://zhanghongguang.github.io/Logo/nbtv1.png" group-title="浙江",宁波新闻综合频道NBTV-1 
 
@@ -1590,4 +1963,5 @@ http://[2409:8087:5e08:25::4]:6610/000000001000/1000000006000269005/index.m3u8?c
 http://[2409:8087:5e08:25::4]:6610/000000001000/5000000009000012023/index.m3u8?channel-id=bestzb&Contentid=5000000009000012023&livemode=1&stbId=3$2.5M%20SD
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="港澳台",中视购物
 http://[2409:8087:5e08:25::4]:6610/000000001000/1000000006000269004/index.m3u8?channel-id=ystenlive&Contentid=1000000006000269004&livemode=1&stbId=3
+
 
