@@ -176,7 +176,19 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227001/index.m3u8
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
 http://125.107.50.101:5003/live1030.m3u8?token=7375646f3e8e3b4a76367231706b0d56fd187e87&z=1f4e
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视 4K
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227539/index.m3u8
+http://bp-livety4kbz.bestv.cn/live/dfws4k.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视 4K
+http://bp-livety4kbz.bestv.cn/live/dfws4k_4k265p.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视 4K
+http://bp-livety4kbz.bestv.cn/264ts/dfws4k264.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视 4K
+http://bp-livety4kbz.bestv.cn/1080p/dfws4k1080p264.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视 4K
+http://bp-livety4kbz.bestv.cn/264ts/dfws4k264_4k264pts.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
+http://bp-livety4kbz.bestv.cn/1080p/dfws4k1080p264_4k1080p.m3u8
+#EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视
+http://bp-livety4kbz.bestv.cn/ch/dfws4k1080p.m3u8
 
 #EXTINF:-1,tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视 4K
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227627/index.m3u8
@@ -1262,6 +1274,7 @@ http://wangdong.store:10086/udp/233.50.201.98:5140
 http://wangdong.store:10086/udp/233.50.201.99:5140
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="浙江电信.央视",CGTN
 http://wangdong.store:10086/udp/233.50.201.126:5140
+
 
 
 
